@@ -1,13 +1,13 @@
 {
-"__comment": "Roamin Helmet",
+"__comment": "Roamin helmet",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "cross": "blocks/hats/hats_roamin1",
-    "metal": "blocks/hats/hats_roamin2"
+    "cross": "block/hats/hats_roamin1",
+    "metal": "block/hats/hats_roamin2"
 },
 "elements": [ 
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 0.5, 1.5, 5.5 ],
     "to": [ 1.5, 6.5, 9.5 ],
     "faces": {
@@ -20,7 +20,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 0.5, 6.5, 5.5 ],
     "to": [ 1.5, 13.5, 9 ],
     "faces": {
@@ -33,7 +33,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 0.5, 13.5, 6 ],
     "to": [ 1.5, 14, 9 ],
     "faces": {
@@ -46,7 +46,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 0.5, 7.5, 9 ],
     "to": [ 1.5, 13.5, 9.5 ],
     "faces": {
@@ -59,7 +59,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1, 1.5, 3 ],
     "to": [ 1.5, 13.5, 5.5 ],
     "faces": {
@@ -72,7 +72,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1, 13.5, 3.5 ],
     "to": [ 1.5, 14, 6 ],
     "faces": {
@@ -85,7 +85,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1, 6.5, 9 ],
     "to": [ 1.5, 7, 11.5 ],
     "faces": {
@@ -98,7 +98,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1, 7, 9 ],
     "to": [ 1.5, 7.5, 10 ],
     "faces": {
@@ -111,7 +111,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1, 13.5, 9 ],
     "to": [ 1.5, 14, 12 ],
     "faces": {
@@ -124,7 +124,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1, 1.5, 9.5 ],
     "to": [ 1.5, 6.5, 12 ],
     "faces": {
@@ -137,7 +137,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1, 7.5, 9.5 ],
     "to": [ 2, 13.5, 12 ],
     "faces": {
@@ -150,7 +150,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1.5, 1.5, 2 ],
     "to": [ 2, 14, 9.5 ],
     "faces": {
@@ -163,7 +163,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1.5, 7, 9.5 ],
     "to": [ 2, 7.5, 12 ],
     "faces": {
@@ -176,7 +176,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1.5, 13.5, 9.5 ],
     "to": [ 2, 14, 13.5 ],
     "faces": {
@@ -189,7 +189,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1.5, 1.5, 11.5 ],
     "to": [ 2, 6, 13.5 ],
     "faces": {
@@ -202,7 +202,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1.5, 6, 11.5 ],
     "to": [ 2, 6.5, 13 ],
     "faces": {
@@ -215,7 +215,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 1.5, 7.5, 12 ],
     "to": [ 2.5, 13.5, 13.5 ],
     "faces": {
@@ -228,7 +228,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2, 1.5, 1.5 ],
     "to": [ 2.5, 14, 11 ],
     "faces": {
@@ -241,7 +241,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2, 7, 11 ],
     "to": [ 2.5, 7.5, 13 ],
     "faces": {
@@ -254,7 +254,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2, 7.5, 11 ],
     "to": [ 2.5, 14, 12 ],
     "faces": {
@@ -267,7 +267,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2, 13.5, 12 ],
     "to": [ 2.5, 14, 14 ],
     "faces": {
@@ -280,7 +280,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2, 1.5, 12.5 ],
     "to": [ 2.5, 6, 14 ],
     "faces": {
@@ -293,7 +293,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2, 7.5, 13.5 ],
     "to": [ 14, 13.5, 14 ],
     "faces": {
@@ -306,7 +306,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2, 2.5, 14 ],
     "to": [ 3.5, 4.5, 14.5 ],
     "faces": {
@@ -319,7 +319,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2, 8, 14 ],
     "to": [ 14, 13, 14.5 ],
     "faces": {
@@ -332,7 +332,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2.5, 1.5, 1 ],
     "to": [ 3, 14, 12.5 ],
     "faces": {
@@ -345,7 +345,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2.5, 6.5, 12.5 ],
     "to": [ 3, 14, 13.5 ],
     "faces": {
@@ -358,7 +358,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2.5, 1.5, 13 ],
     "to": [ 3.5, 2.5, 14.5 ],
     "faces": {
@@ -371,7 +371,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2.5, 2.5, 13 ],
     "to": [ 3.5, 6, 14 ],
     "faces": {
@@ -384,7 +384,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2.5, 6, 13 ],
     "to": [ 3, 6.5, 13.5 ],
     "faces": {
@@ -397,7 +397,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2.5, 13.5, 13.5 ],
     "to": [ 13.5, 14, 14.5 ],
     "faces": {
@@ -410,7 +410,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2.5, 4.5, 14 ],
     "to": [ 13.5, 6, 14.5 ],
     "faces": {
@@ -423,7 +423,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2.5, 7.5, 14 ],
     "to": [ 13.5, 8, 14.5 ],
     "faces": {
@@ -436,7 +436,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 2.5, 13, 14 ],
     "to": [ 13.5, 13.5, 14.5 ],
     "faces": {
@@ -449,7 +449,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3, 3, 0.5 ],
     "to": [ 4, 6, 1.5 ],
     "faces": {
@@ -462,7 +462,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3, 7.5, 0.5 ],
     "to": [ 4, 13.5, 1.5 ],
     "faces": {
@@ -475,7 +475,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3, 1.5, 1 ],
     "to": [ 3.5, 3, 1.5 ],
     "faces": {
@@ -488,7 +488,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3, 6, 1 ],
     "to": [ 3.5, 7.5, 1.5 ],
     "faces": {
@@ -501,7 +501,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3, 13.5, 1 ],
     "to": [ 4, 14, 13 ],
     "faces": {
@@ -514,7 +514,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3, 7.5, 13 ],
     "to": [ 14.5, 14, 13.5 ],
     "faces": {
@@ -527,7 +527,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3.5, 2.5, 0.5 ],
     "to": [ 5.5, 3, 1 ],
     "faces": {
@@ -540,7 +540,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3.5, 13.5, 0.5 ],
     "to": [ 5.5, 14, 1 ],
     "faces": {
@@ -553,7 +553,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3.5, 3, 13 ],
     "to": [ 12.5, 4.5, 15 ],
     "faces": {
@@ -566,7 +566,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3.5, 4.5, 13 ],
     "to": [ 14, 6, 14 ],
     "faces": {
@@ -579,7 +579,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3.5, 4.5, 14.5 ],
     "to": [ 12.5, 5.5, 15 ],
     "faces": {
@@ -592,7 +592,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 3.5, 8, 14.5 ],
     "to": [ 12.5, 13.5, 15 ],
     "faces": {
@@ -605,7 +605,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4, 3, 0.5 ],
     "to": [ 5.5, 6.5, 1 ],
     "faces": {
@@ -618,7 +618,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4, 7.5, 0.5 ],
     "to": [ 5.5, 13.5, 1 ],
     "faces": {
@@ -631,7 +631,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4, 2.5, 13 ],
     "to": [ 6.5, 3, 14 ],
     "faces": {
@@ -644,7 +644,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4, 6, 13 ],
     "to": [ 12, 6.5, 14.5 ],
     "faces": {
@@ -657,7 +657,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4, 14, 0.5 ],
     "to": [ 11.5, 14.5, 15 ],
     "faces": {
@@ -670,7 +670,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4, 5.5, 14.5 ],
     "to": [ 12, 6, 15 ],
     "faces": {
@@ -683,7 +683,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4, 7.5, 14.5 ],
     "to": [ 12, 8, 15 ],
     "faces": {
@@ -696,7 +696,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4, 13.5, 14.5 ],
     "to": [ 12, 14, 15 ],
     "faces": {
@@ -709,7 +709,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4.5, 2.5, 0 ],
     "to": [ 6.5, 6.5, 0.5 ],
     "faces": {
@@ -722,7 +722,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4.5, 7.5, 0 ],
     "to": [ 11.5, 13.5, 0.5 ],
     "faces": {
@@ -735,7 +735,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4.5, 2.5, 14 ],
     "to": [ 6, 3, 14.5 ],
     "faces": {
@@ -748,7 +748,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 4.5, 6, 14.5 ],
     "to": [ 11.5, 6.5, 15 ],
     "faces": {
@@ -761,7 +761,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 5, 13.5, 0 ],
     "to": [ 11, 14, 0.5 ],
     "faces": {
@@ -774,7 +774,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 5, 10.5, 15 ],
     "to": [ 11, 11.5, 15.5 ],
     "faces": {
@@ -787,7 +787,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 5.5, 4, 15 ],
     "to": [ 10.5, 5, 15.5 ],
     "faces": {
@@ -800,7 +800,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 5.5, 8, 15 ],
     "to": [ 10.5, 10.5, 15.5 ],
     "faces": {
@@ -813,7 +813,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 5.5, 12.5, 15 ],
     "to": [ 10.5, 13.5, 15.5 ],
     "faces": {
@@ -839,7 +839,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 6, 3, 15 ],
     "to": [ 10, 4, 15.5 ],
     "faces": {
@@ -852,7 +852,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 6, 5, 15 ],
     "to": [ 10, 6.5, 15.5 ],
     "faces": {
@@ -865,7 +865,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 6, 7.5, 15 ],
     "to": [ 10, 8, 15.5 ],
     "faces": {
@@ -878,7 +878,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 6, 11.5, 15 ],
     "to": [ 10, 12.5, 15.5 ],
     "faces": {
@@ -891,7 +891,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 6, 13.5, 15 ],
     "to": [ 10, 14.5, 15.5 ],
     "faces": {
@@ -904,7 +904,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 6.5, 3, 0 ],
     "to": [ 9.5, 7, 0.5 ],
     "faces": {
@@ -917,7 +917,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 6.5, 6.5, 13.5 ],
     "to": [ 9.5, 7, 14 ],
     "faces": {
@@ -930,7 +930,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 7, 1.5, 0 ],
     "to": [ 9, 3, 0.5 ],
     "faces": {
@@ -943,7 +943,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 7, 7, 0 ],
     "to": [ 9, 7.5, 0.5 ],
     "faces": {
@@ -956,7 +956,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 7, 1.5, 13 ],
     "to": [ 9, 3, 15.5 ],
     "faces": {
@@ -969,7 +969,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 7, 6.5, 13 ],
     "to": [ 9, 7.5, 13.5 ],
     "faces": {
@@ -982,7 +982,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 7, 6.5, 14 ],
     "to": [ 9, 7, 15.5 ],
     "faces": {
@@ -1021,7 +1021,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 7.5, 7, 13.5 ],
     "to": [ 8.5, 7.5, 14 ],
     "faces": {
@@ -1034,7 +1034,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 9.5, 2.5, 0 ],
     "to": [ 11.5, 6.5, 0.5 ],
     "faces": {
@@ -1047,7 +1047,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 9.5, 2.5, 13 ],
     "to": [ 12, 3, 14 ],
     "faces": {
@@ -1060,7 +1060,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 10, 2.5, 14 ],
     "to": [ 11.5, 3, 14.5 ],
     "faces": {
@@ -1073,7 +1073,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 10.5, 2.5, 0.5 ],
     "to": [ 12, 6.5, 1 ],
     "faces": {
@@ -1086,7 +1086,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 10.5, 7.5, 0.5 ],
     "to": [ 12.5, 14, 1 ],
     "faces": {
@@ -1099,7 +1099,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 12, 2.5, 0.5 ],
     "to": [ 12.5, 6, 1 ],
     "faces": {
@@ -1112,7 +1112,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 12, 3, 1 ],
     "to": [ 13.5, 6, 1.5 ],
     "faces": {
@@ -1125,7 +1125,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 11.5, 7.5, 1 ],
     "to": [ 13, 14, 13 ],
     "faces": {
@@ -1138,7 +1138,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 12.5, 3, 0.5 ],
     "to": [ 13, 6, 1 ],
     "faces": {
@@ -1151,7 +1151,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 12.5, 7.5, 0.5 ],
     "to": [ 13, 13.5, 1 ],
     "faces": {
@@ -1164,7 +1164,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 12.5, 1.5, 1 ],
     "to": [ 13.5, 3, 1.5 ],
     "faces": {
@@ -1177,7 +1177,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 12.5, 6, 1 ],
     "to": [ 13.5, 7.5, 1.5 ],
     "faces": {
@@ -1190,7 +1190,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 12.5, 1.5, 13 ],
     "to": [ 13.5, 4.5, 14.5 ],
     "faces": {
@@ -1203,7 +1203,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13, 1.5, 1.5 ],
     "to": [ 14, 14, 2 ],
     "faces": {
@@ -1216,7 +1216,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13, 6.5, 12.5 ],
     "to": [ 13.5, 7.5, 13.5 ],
     "faces": {
@@ -1229,7 +1229,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13, 7.5, 12.5 ],
     "to": [ 14.5, 14, 13 ],
     "faces": {
@@ -1242,7 +1242,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13, 6, 13 ],
     "to": [ 13.5, 6.5, 13.5 ],
     "faces": {
@@ -1255,7 +1255,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13, 1.5, 2 ],
     "to": [ 14, 14, 12.5 ],
     "faces": {
@@ -1268,7 +1268,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13.5, 7, 11 ],
     "to": [ 14, 7.5, 13 ],
     "faces": {
@@ -1281,7 +1281,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13.5, 7.5, 11 ],
     "to": [ 14.5, 14, 12.5 ],
     "faces": {
@@ -1294,7 +1294,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13.5, 1.5, 12.5 ],
     "to": [ 14, 4.5, 14 ],
     "faces": {
@@ -1307,7 +1307,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13.5, 4.5, 12.5 ],
     "to": [ 14.5, 6, 13 ],
     "faces": {
@@ -1320,7 +1320,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13.5, 13.5, 13.5 ],
     "to": [ 14, 14, 14 ],
     "faces": {
@@ -1333,7 +1333,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 13.5, 2.5, 14 ],
     "to": [ 14, 4.5, 14.5 ],
     "faces": {
@@ -1346,7 +1346,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14, 1.5, 2.5 ],
     "to": [ 14.5, 14, 4 ],
     "faces": {
@@ -1359,7 +1359,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14, 7, 9.5 ],
     "to": [ 14.5, 7.5, 12 ],
     "faces": {
@@ -1372,7 +1372,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14, 7.5, 9.5 ],
     "to": [ 15, 14, 11 ],
     "faces": {
@@ -1385,7 +1385,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14, 1.5, 11.5 ],
     "to": [ 14.5, 4.5, 13.5 ],
     "faces": {
@@ -1398,7 +1398,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14, 4.5, 11.5 ],
     "to": [ 14.5, 6.5, 12.5 ],
     "faces": {
@@ -1411,7 +1411,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14, 6, 12.5 ],
     "to": [ 14.5, 6.5, 13 ],
     "faces": {
@@ -1424,7 +1424,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14, 4.5, 13 ],
     "to": [ 14.5, 6, 13.5 ],
     "faces": {
@@ -1437,7 +1437,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14.5, 1.5, 3 ],
     "to": [ 15, 6.5, 12 ],
     "faces": {
@@ -1450,7 +1450,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14.5, 6.5, 3 ],
     "to": [ 15, 7, 11.5 ],
     "faces": {
@@ -1463,7 +1463,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14.5, 7, 3 ],
     "to": [ 15, 7.5, 10 ],
     "faces": {
@@ -1476,7 +1476,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14.5, 7.5, 3 ],
     "to": [ 15, 14, 9.5 ],
     "faces": {
@@ -1489,7 +1489,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14, 13.5, 4 ],
     "to": [ 14.5, 14, 10 ],
     "faces": {
@@ -1502,7 +1502,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 14.5, 7.5, 11 ],
     "to": [ 15, 14, 12 ],
     "faces": {
@@ -1515,7 +1515,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 15, 1.5, 5.5 ],
     "to": [ 15.5, 6.5, 9.5 ],
     "faces": {
@@ -1528,7 +1528,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 15, 6.5, 5.5 ],
     "to": [ 15.5, 13.5, 9 ],
     "faces": {
@@ -1541,7 +1541,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 15, 13.5, 6 ],
     "to": [ 15.5, 14, 9 ],
     "faces": {
@@ -1554,7 +1554,7 @@
     }
 },
 {
-    "__comment": "Knight_Helm",
+    "__comment": "knight_helm",
     "from": [ 15, 7.5, 9 ],
     "to": [ 15.5, 13.5, 9.5 ],
     "faces": {

@@ -2,7 +2,7 @@
 "__comment": "Wizard Hat",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "texture": "blocks/hats/hats_wizard1"
+    "texture": "block/hats/hats_wizard1"
 },
 "elements": [ 
 {

@@ -2,8 +2,8 @@
 "__comment": "The Wolf Hunter",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "side": "blocks/hats/hats_wolfhunter2",
-    "scale": "blocks/hats/hats_wolfhunter1"
+    "side": "block/hats/hats_wolfhunter2",
+    "scale": "block/hats/hats_wolfhunter1"
 },
 "elements": [ 
 {

@@ -2,8 +2,8 @@
 "__comment": "Dwarven Beard",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "hairband": "blocks/hats/hat_beard2",
-    "beard": "blocks/hats/hat_beard1"
+    "hairband": "block/hats/hat_beard2",
+    "beard": "block/hats/hat_beard1"
 },
 "elements": [ 
 {

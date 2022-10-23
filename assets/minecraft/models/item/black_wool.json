@@ -2,14 +2,14 @@
 "__comment": "Fallen Valk",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "Splinter_Base": "blocks/hats/hats_fallenvalk1",
-    "Splinter_Wing": "blocks/hats/hats_fallenvalk2",
-    "Splinter_Eye_F": "blocks/hats/hats_fallenvalk3",
-    "Splinter_Eye_S": "blocks/hats/hats_fallenvalk4"
+    "Splinter_Base": "block/hats/hats_fallenvalk1",
+    "Splinter_Wing": "block/hats/hats_fallenvalk2",
+    "Splinter_Eye_F": "block/hats/hats_fallenvalk3",
+    "Splinter_Eye_S": "block/hats/hats_fallenvalk4"
 },
 "elements": [ 
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 2, 5, 7 ],
     "to": [ 4, 7, 11 ],
     "faces": {
@@ -22,7 +22,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 2, 4.5, 7.5 ],
     "to": [ 4, 5, 10.5 ],
     "faces": {
@@ -35,7 +35,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 2, 7, 7.5 ],
     "to": [ 4, 7.5, 11 ],
     "faces": {
@@ -48,7 +48,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 7.5, 7.5 ],
     "to": [ 4, 8, 11 ],
     "faces": {
@@ -61,7 +61,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 12, 1.5 ],
     "to": [ 4, 12.5, 4.5 ],
     "faces": {
@@ -74,7 +74,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 11.5, 2 ],
     "to": [ 4, 12, 5 ],
     "faces": {
@@ -87,7 +87,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 12.5, 2 ],
     "to": [ 4, 13, 4 ],
     "faces": {
@@ -100,7 +100,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 11, 2.5 ],
     "to": [ 4, 11.5, 5.5 ],
     "faces": {
@@ -113,7 +113,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 13, 2.5 ],
     "to": [ 4, 13.5, 3.5 ],
     "faces": {
@@ -126,7 +126,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 10.5, 3 ],
     "to": [ 4, 11, 6 ],
     "faces": {
@@ -139,7 +139,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 10, 3.5 ],
     "to": [ 4, 10.5, 6.5 ],
     "faces": {
@@ -152,7 +152,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 9.5, 4 ],
     "to": [ 4, 10, 7 ],
     "faces": {
@@ -165,7 +165,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 2.5, 4.5 ],
     "to": [ 4, 3.5, 7.5 ],
     "faces": {
@@ -178,7 +178,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 9, 4.5 ],
     "to": [ 4, 9.5, 7.5 ],
     "faces": {
@@ -191,7 +191,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 2, 5 ],
     "to": [ 4, 2.5, 6.5 ],
     "faces": {
@@ -204,7 +204,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 3.5, 5 ],
     "to": [ 4, 4, 8.5 ],
     "faces": {
@@ -217,7 +217,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 8.5, 5 ],
     "to": [ 4, 9, 8.5 ],
     "faces": {
@@ -230,7 +230,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 4, 5.5 ],
     "to": [ 4, 4.5, 10.5 ],
     "faces": {
@@ -243,7 +243,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 7.5, 5.5 ],
     "to": [ 4, 8.5, 7.5 ],
     "faces": {
@@ -256,7 +256,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 4.5, 6 ],
     "to": [ 3, 5, 7.5 ],
     "faces": {
@@ -269,7 +269,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 7, 6 ],
     "to": [ 3, 7.5, 7.5 ],
     "faces": {
@@ -282,7 +282,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 5, 6.5 ],
     "to": [ 3, 5.5, 7 ],
     "faces": {
@@ -295,7 +295,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 6.5, 6.5 ],
     "to": [ 3, 7, 7 ],
     "faces": {
@@ -308,7 +308,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 3, 7.5 ],
     "to": [ 4, 3.5, 8 ],
     "faces": {
@@ -321,7 +321,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 8, 7.5 ],
     "to": [ 4, 8.5, 10 ],
     "faces": {
@@ -334,7 +334,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 4.5, 10.5 ],
     "to": [ 4, 5, 11 ],
     "faces": {
@@ -347,7 +347,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 2.5, 5.5, 11 ],
     "to": [ 4, 7, 11.5 ],
     "faces": {
@@ -360,7 +360,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 13.5, 0 ],
     "to": [ 4, 14, 3 ],
     "faces": {
@@ -373,7 +373,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 14, 0 ],
     "to": [ 4, 14.5, 2.5 ],
     "faces": {
@@ -386,7 +386,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 14.5, 0 ],
     "to": [ 4, 15, 1.5 ],
     "faces": {
@@ -399,7 +399,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 15, 0 ],
     "to": [ 4, 15.5, 1 ],
     "faces": {
@@ -412,7 +412,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 13, 0.5 ],
     "to": [ 4, 13.5, 2.5 ],
     "faces": {
@@ -425,7 +425,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 12.5, 1 ],
     "to": [ 4, 13, 2 ],
     "faces": {
@@ -438,7 +438,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 1, 3.5 ],
     "to": [ 4, 2, 5.5 ],
     "faces": {
@@ -451,7 +451,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 0.5, 4 ],
     "to": [ 4, 1, 5 ],
     "faces": {
@@ -464,7 +464,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 2, 4 ],
     "to": [ 4, 2.5, 5 ],
     "faces": {
@@ -477,7 +477,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 5.5, 5 ],
     "to": [ 4, 6.5, 7 ],
     "faces": {
@@ -490,7 +490,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 6.5, 5 ],
     "to": [ 4, 7, 6.5 ],
     "faces": {
@@ -503,7 +503,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 7, 5 ],
     "to": [ 4, 7.5, 6 ],
     "faces": {
@@ -516,7 +516,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 3, 1.5, 5.5 ],
     "to": [ 4, 2, 6 ],
     "faces": {
@@ -529,7 +529,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 5, 6 ],
     "to": [ 4, 5.5, 6.5 ],
     "faces": {
@@ -542,7 +542,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 4.5, 11 ],
     "to": [ 4, 5.5, 13.5 ],
     "faces": {
@@ -555,7 +555,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 7, 11 ],
     "to": [ 4, 7.5, 13.5 ],
     "faces": {
@@ -568,7 +568,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 5.5, 11.5 ],
     "to": [ 4, 7, 13.5 ],
     "faces": {
@@ -581,7 +581,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 7.5, 12 ],
     "to": [ 13, 8, 13.5 ],
     "faces": {
@@ -594,7 +594,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3.5, 5, 5.5 ],
     "to": [ 4, 5.5, 6 ],
     "faces": {
@@ -607,7 +607,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3.5, 8, 12 ],
     "to": [ 12.5, 9, 13.5 ],
     "faces": {
@@ -620,7 +620,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3.5, 5.5, 13.5 ],
     "to": [ 12.5, 8, 14 ],
     "faces": {
@@ -633,7 +633,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 4, 4.5, 12 ],
     "to": [ 13, 7.5, 13.5 ],
     "faces": {
@@ -646,7 +646,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 4, 9, 12 ],
     "to": [ 12, 10, 13.5 ],
     "faces": {
@@ -659,7 +659,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 4, 5, 13.5 ],
     "to": [ 12, 5.5, 14 ],
     "faces": {
@@ -672,7 +672,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 4, 8, 13.5 ],
     "to": [ 12, 9, 14 ],
     "faces": {
@@ -685,7 +685,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 4.5, 4, 12 ],
     "to": [ 11.5, 4.5, 13.5 ],
     "faces": {
@@ -698,7 +698,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 4.5, 10, 12 ],
     "to": [ 11.5, 11, 13.5 ],
     "faces": {
@@ -711,7 +711,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 4.5, 9, 13.5 ],
     "to": [ 11.5, 10, 14 ],
     "faces": {
@@ -724,7 +724,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 5, 11, 12 ],
     "to": [ 11, 11.5, 13.5 ],
     "faces": {
@@ -737,7 +737,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 5, 4.5, 13.5 ],
     "to": [ 11, 5, 14 ],
     "faces": {
@@ -750,7 +750,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 5, 10, 13.5 ],
     "to": [ 11, 11, 14 ],
     "faces": {
@@ -763,7 +763,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 5, 6.5, 14 ],
     "to": [ 11, 8.5, 14.5 ],
     "faces": {
@@ -776,7 +776,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 5.5, 3.5, 12 ],
     "to": [ 10.5, 4, 13.5 ],
     "faces": {
@@ -789,7 +789,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 5.5, 11.5, 12 ],
     "to": [ 10.5, 12, 13.5 ],
     "faces": {
@@ -802,7 +802,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Eye",
+    "__comment": "dvz_Splinter_Eye",
     "from": [ 5.5, 5, 14 ],
     "to": [ 6.5, 6.5, 16 ],
     "faces": {
@@ -815,7 +815,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 5.5, 8.5, 14 ],
     "to": [ 10.5, 9.5, 14.5 ],
     "faces": {
@@ -828,7 +828,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 6, 4, 13.5 ],
     "to": [ 10, 4.5, 14 ],
     "faces": {
@@ -841,7 +841,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 6, 11, 13.5 ],
     "to": [ 10, 11.5, 14 ],
     "faces": {
@@ -854,7 +854,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 6, 9.5, 14 ],
     "to": [ 10, 10.5, 14.5 ],
     "faces": {
@@ -867,7 +867,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 6.5, 12, 12 ],
     "to": [ 9.5, 12.5, 13.5 ],
     "faces": {
@@ -880,7 +880,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 6.5, 11.5, 13.5 ],
     "to": [ 9.5, 12, 14 ],
     "faces": {
@@ -893,7 +893,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 6.5, 5, 14 ],
     "to": [ 9.5, 6.5, 14.5 ],
     "faces": {
@@ -906,7 +906,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 6.5, 10.5, 14 ],
     "to": [ 9.5, 11, 14.5 ],
     "faces": {
@@ -919,7 +919,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Eye",
+    "__comment": "dvz_Splinter_Eye",
     "from": [ 6.5, 7.5, 14.5 ],
     "to": [ 8, 8.5, 15 ],
     "faces": {
@@ -932,7 +932,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 7, 12.5, 12 ],
     "to": [ 9, 13, 13.5 ],
     "faces": {
@@ -945,7 +945,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 7.5, 3, 12 ],
     "to": [ 8.5, 3.5, 13.5 ],
     "faces": {
@@ -958,7 +958,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 7.5, 12, 13.5 ],
     "to": [ 8.5, 12.5, 14 ],
     "faces": {
@@ -971,7 +971,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Eye",
+    "__comment": "dvz_Splinter_Eye",
     "from": [ 8.5, 6, 14.5 ],
     "to": [ 10.5, 7.5, 15.5 ],
     "faces": {
@@ -984,7 +984,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 9.5, 5.5, 14 ],
     "to": [ 10, 6.5, 14.5 ],
     "faces": {
@@ -997,7 +997,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 10, 6, 14 ],
     "to": [ 11, 6.5, 14.5 ],
     "faces": {
@@ -1010,7 +1010,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 13.5, 0 ],
     "to": [ 13, 14, 3 ],
     "faces": {
@@ -1023,7 +1023,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 14, 0 ],
     "to": [ 13, 14.5, 2.5 ],
     "faces": {
@@ -1036,7 +1036,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 14.5, 0 ],
     "to": [ 13, 15, 1.5 ],
     "faces": {
@@ -1049,7 +1049,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 15, 0 ],
     "to": [ 13, 15.5, 1 ],
     "faces": {
@@ -1062,7 +1062,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 13, 0.5 ],
     "to": [ 13, 13.5, 3.5 ],
     "faces": {
@@ -1075,7 +1075,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 12.5, 1 ],
     "to": [ 13, 13, 4 ],
     "faces": {
@@ -1088,7 +1088,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 12, 1.5 ],
     "to": [ 13.5, 12.5, 4.5 ],
     "faces": {
@@ -1101,7 +1101,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 11.5, 2 ],
     "to": [ 13.5, 12, 5 ],
     "faces": {
@@ -1114,7 +1114,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 11, 2.5 ],
     "to": [ 13.5, 11.5, 5.5 ],
     "faces": {
@@ -1127,7 +1127,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 10.5, 3 ],
     "to": [ 13.5, 11, 6 ],
     "faces": {
@@ -1140,7 +1140,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 1, 3.5 ],
     "to": [ 13, 2, 5.5 ],
     "faces": {
@@ -1153,7 +1153,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 10, 3.5 ],
     "to": [ 13.5, 10.5, 6.5 ],
     "faces": {
@@ -1166,7 +1166,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 0.5, 4 ],
     "to": [ 13, 1, 5 ],
     "faces": {
@@ -1179,7 +1179,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 2, 4 ],
     "to": [ 13, 2.5, 6.5 ],
     "faces": {
@@ -1192,7 +1192,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 9.5, 4 ],
     "to": [ 13.5, 10, 7 ],
     "faces": {
@@ -1205,7 +1205,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 2.5, 4.5 ],
     "to": [ 13.5, 3.5, 7.5 ],
     "faces": {
@@ -1218,7 +1218,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 9, 4.5 ],
     "to": [ 13.5, 9.5, 7.5 ],
     "faces": {
@@ -1231,7 +1231,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 3.5, 5 ],
     "to": [ 13.5, 4, 8.5 ],
     "faces": {
@@ -1244,7 +1244,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 12, 5.5, 5 ],
     "to": [ 13, 7.5, 12 ],
     "faces": {
@@ -1257,7 +1257,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 8.5, 5 ],
     "to": [ 13.5, 9, 8.5 ],
     "faces": {
@@ -1270,7 +1270,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 1.5, 5.5 ],
     "to": [ 13, 2, 6 ],
     "faces": {
@@ -1283,7 +1283,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 4, 5.5 ],
     "to": [ 13.5, 4.5, 10.5 ],
     "faces": {
@@ -1296,7 +1296,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 12, 5, 5.5 ],
     "to": [ 12.5, 5.5, 12 ],
     "faces": {
@@ -1309,7 +1309,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 7.5, 5.5 ],
     "to": [ 13.5, 8, 11 ],
     "faces": {
@@ -1322,7 +1322,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 8, 5.5 ],
     "to": [ 13.5, 8.5, 10 ],
     "faces": {
@@ -1335,7 +1335,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 12, 4.5, 6 ],
     "to": [ 13, 5, 12 ],
     "faces": {
@@ -1348,7 +1348,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 12, 3, 7.5 ],
     "to": [ 13.5, 3.5, 8 ],
     "faces": {
@@ -1361,7 +1361,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 12.5, 5, 6 ],
     "to": [ 13, 5.5, 12 ],
     "faces": {
@@ -1374,7 +1374,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 13, 12.5, 2 ],
     "to": [ 13.5, 13, 4 ],
     "faces": {
@@ -1387,7 +1387,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 13, 13, 2.5 ],
     "to": [ 13.5, 13.5, 3.5 ],
     "faces": {
@@ -1400,7 +1400,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 13, 2, 5 ],
     "to": [ 13.5, 2.5, 6.5 ],
     "faces": {
@@ -1413,7 +1413,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 13, 4.5, 7.5 ],
     "to": [ 13.5, 5, 10.5 ],
     "faces": {
@@ -1426,7 +1426,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 13, 7, 7.5 ],
     "to": [ 13.5, 7.5, 11 ],
     "faces": {
@@ -1439,7 +1439,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 13, 5, 7 ],
     "to": [ 13.5, 5.5, 11 ],
     "faces": {
@@ -1452,7 +1452,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 13, 6.5, 6.5 ],
     "to": [ 13.5, 7, 7 ],
     "faces": {
@@ -1465,7 +1465,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 13, 5.5, 7 ],
     "to": [ 13.5, 7, 11.5 ],
     "faces": {
@@ -1478,7 +1478,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 13.5, 5, 7 ],
     "to": [ 14, 7, 11 ],
     "faces": {
@@ -1491,7 +1491,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 13.5, 4.5, 7.5 ],
     "to": [ 14, 5, 10.5 ],
     "faces": {
@@ -1504,7 +1504,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 13.5, 7, 7.5 ],
     "to": [ 14, 7.5, 11 ],
     "faces": {
@@ -1517,7 +1517,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 13.5, 7.5, 7.5 ],
     "to": [ 14, 8, 10.5 ],
     "faces": {
@@ -1530,7 +1530,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 13.5, 4, 8 ],
     "to": [ 14, 4.5, 10 ],
     "faces": {
@@ -1543,7 +1543,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 2, 7.5, 7.5 ],
     "to": [ 2.5, 8, 10.5 ],
     "faces": {
@@ -1556,7 +1556,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 2, 4, 8 ],
     "to": [ 2.5, 4.5, 10 ],
     "faces": {
@@ -1569,7 +1569,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 6.5, 6.5 ],
     "to": [ 4, 7, 7 ],
     "faces": {
@@ -1582,7 +1582,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 4.5, 6 ],
     "to": [ 4, 5, 7.5 ],
     "faces": {
@@ -1595,7 +1595,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 5, 6.5 ],
     "to": [ 4, 5.5, 7 ],
     "faces": {
@@ -1608,7 +1608,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter",
+    "__comment": "dvz_Splinter",
     "from": [ 3, 7, 6 ],
     "to": [ 4, 7.5, 7.5 ],
     "faces": {
@@ -1621,7 +1621,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 2.5, 4.5, 10.5 ],
     "to": [ 3, 5, 11 ],
     "faces": {
@@ -1634,7 +1634,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 13, 7, 6 ],
     "to": [ 13.5, 7.5, 7.5 ],
     "faces": {
@@ -1647,7 +1647,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 13, 4.5, 6 ],
     "to": [ 13.5, 5, 7.5 ],
     "faces": {
@@ -1660,7 +1660,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 13, 5, 6.5 ],
     "to": [ 13.5, 5.5, 7 ],
     "faces": {
@@ -1673,7 +1673,7 @@
     }
 },
 {
-    "__comment": "DvZ_Splinter_Wing",
+    "__comment": "dvz_Splinter_Wing",
     "from": [ 13, 4.5, 10.5 ],
     "to": [ 13.5, 5, 11 ],
     "faces": {
