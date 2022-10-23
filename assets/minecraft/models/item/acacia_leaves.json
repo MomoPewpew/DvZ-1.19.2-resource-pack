@@ -1,0 +1,207 @@
+{
+"__comment": "DvZ Statue",
+"__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
+    "textures": {
+        "0": "blocks/characters/zombie/Head - Back",
+        "1": "blocks/characters/zombie/Head - Left",
+        "2": "blocks/characters/zombie/Head - Front",
+        "3": "blocks/characters/zombie/Head - Right",
+        "4": "blocks/characters/zombie/Head - Top",
+        "5": "blocks/characters/zombie/Head - Bottom",
+        "6": "blocks/characters/zombie/Body - Back",
+        "7": "blocks/characters/zombie/Body - Left",
+        "8": "blocks/characters/zombie/Body - Front",
+        "9": "blocks/characters/zombie/Body - Right",
+        "10": "blocks/characters/zombie/Body - Top",
+        "11": "blocks/characters/zombie/Body - Bottom",
+        "12": "blocks/characters/zombie/Right Shoulder - Back",
+        "13": "blocks/characters/zombie/Right Shoulder - Left",
+        "14": "blocks/characters/zombie/Right Shoulder - Front",
+        "15": "blocks/characters/zombie/Right Shoulder - Right",
+        "16": "blocks/characters/zombie/Right Shoulder - Top",
+        "17": "blocks/characters/zombie/Right Shoulder - Bottom",
+        "18": "blocks/characters/zombie/Left Shoulder - Back",
+        "19": "blocks/characters/zombie/Left Shoulder - Left",
+        "20": "blocks/characters/zombie/Left Shoulder - Front",
+        "21": "blocks/characters/zombie/Left Shoulder - Right",
+        "22": "blocks/characters/zombie/Left Shoulder - Top",
+        "23": "blocks/characters/zombie/Left Shoulder - Bottom",
+        "24": "blocks/characters/zombie/Right Arm - Back",
+        "25": "blocks/characters/zombie/Right Arm - Left",
+        "26": "blocks/characters/zombie/Right Arm - Front",
+        "27": "blocks/characters/zombie/Right Arm - Right",
+        "28": "blocks/characters/zombie/Right Arm - Top",
+        "29": "blocks/characters/zombie/Right Arm - Bottom",
+        "30": "blocks/characters/zombie/Left Arm - Back",
+        "31": "blocks/characters/zombie/Left Arm - Left",
+        "32": "blocks/characters/zombie/Left Arm - Front",
+        "33": "blocks/characters/zombie/Left Arm - Right",
+        "34": "blocks/characters/zombie/Left Arm - Top",
+        "35": "blocks/characters/zombie/Left Arm - Bottom",
+        "36": "blocks/characters/zombie/Right Thigh - Back",
+        "37": "blocks/characters/zombie/Right Thigh - Left",
+        "38": "blocks/characters/zombie/Right Thigh - Front",
+        "39": "blocks/characters/zombie/Right Thigh - Right",
+        "40": "blocks/characters/zombie/Right Thigh - Top",
+        "41": "blocks/characters/zombie/Right Thigh - Bottom",
+        "42": "blocks/characters/zombie/Left Thigh - Back",
+        "43": "blocks/characters/zombie/Left Thigh - Left",
+        "44": "blocks/characters/zombie/Left Thigh - Front",
+        "45": "blocks/characters/zombie/Left Thigh - Right",
+        "46": "blocks/characters/zombie/Left Thigh - Top",
+        "47": "blocks/characters/zombie/Left Thigh - Bottom",
+        "48": "blocks/characters/zombie/Right Foot - Back",
+        "49": "blocks/characters/zombie/Right Foot - Left",
+        "50": "blocks/characters/zombie/Right Foot - Front",
+        "51": "blocks/characters/zombie/Right Foot - Right",
+        "52": "blocks/characters/zombie/Right Foot - Top",
+        "53": "blocks/characters/zombie/Right Foot - Bottom",
+        "54": "blocks/characters/zombie/Left Foot - Back",
+        "55": "blocks/characters/zombie/Left Foot - Left",
+        "56": "blocks/characters/zombie/Left Foot - Front",
+        "57": "blocks/characters/zombie/Left Foot - Right",
+        "58": "blocks/characters/zombie/Left Foot - Top",
+        "59": "blocks/characters/zombie/Left Foot - Bottom"
+    },
+    "elements": [
+        {
+            "name": "Head",
+            "from": [ 7.0, 22.0, 10.0 ], 
+            "to": [ 15.0, 30.0, 18.0 ], 
+            "shade": false,
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -22.5 },
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "east": { "texture": "#1", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "south": { "texture": "#2", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "west": { "texture": "#3", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "up": { "texture": "#4", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "down": { "texture": "#5", "uv": [ 0.0, 0.0, 8.0, 8.0 ] }
+            }
+        },
+        {
+            "name": "Torso",
+            "from": [ 2.0, 12.0, 6.0 ], 
+            "to": [ 10.0, 24.0, 10.0 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "z", "angle": -22.5 },
+            "faces": {
+                "north": { "texture": "#6", "uv": [ 0.0, 0.0, 8.0, 12.0 ] },
+                "east": { "texture": "#7", "uv": [ 0.0, 0.0, 4.0, 12.0 ] },
+                "south": { "texture": "#8", "uv": [ 0.0, 0.0, 8.0, 12.0 ] },
+                "west": { "texture": "#9", "uv": [ 0.0, 0.0, 4.0, 12.0 ] },
+                "up": { "texture": "#10", "uv": [ 0.0, 0.0, 8.0, 4.0 ] },
+                "down": { "texture": "#11", "uv": [ 0.0, 0.0, 8.0, 4.0 ] }
+            }
+        },
+        {
+            "name": "Shoulder - Right",
+            "from": [ 4.0, 15.0, 16.0 ], 
+            "to": [ 8.0, 19.0, 20.0 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#12", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "east": { "texture": "#13", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "south": { "texture": "#14", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "west": { "texture": "#15", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "up": { "texture": "#16", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "down": { "texture": "#17", "uv": [ 0.0, 0.0, 4.0, 4.0 ] }
+            }
+        },
+        {
+            "name": "Shoulder - Left",
+            "from": [ 13.0, 19.0, 11.0 ], 
+            "to": [ 17.0, 23.0, 15.0 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#18", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "east": { "texture": "#19", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "south": { "texture": "#20", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "west": { "texture": "#21", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "up": { "texture": "#22", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "down": { "texture": "#23", "uv": [ 0.0, 0.0, 4.0, 4.0 ] }
+            }
+        },
+        {
+            "name": "Arm - Right",
+            "from": [ 4.0, 9.0, 13.0 ], 
+            "to": [ 8.0, 18.0, 17.0 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": -22.5 },
+            "faces": {
+                "north": { "texture": "#24", "uv": [ 0.0, 0.0, 4.0, 9.0 ] },
+                "east": { "texture": "#25", "uv": [ 0.0, 0.0, 4.0, 9.0 ] },
+                "south": { "texture": "#26", "uv": [ 0.0, 0.0, 4.0, 9.0 ] },
+                "west": { "texture": "#27", "uv": [ 0.0, 0.0, 4.0, 9.0 ] },
+                "up": { "texture": "#28", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "down": { "texture": "#29", "uv": [ 0.0, 0.0, 4.0, 4.0 ] }
+            }
+        },
+        {
+            "name": "Arm - Left",
+            "from": [ 19.0, 6.0, 4.0 ], 
+            "to": [ 23.0, 15.0, 8.0 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "z", "angle": 22.5 },
+            "faces": {
+                "north": { "texture": "#30", "uv": [ 0.0, 0.0, 4.0, 9.0 ] },
+                "east": { "texture": "#31", "uv": [ 0.0, 0.0, 4.0, 9.0 ] },
+                "south": { "texture": "#32", "uv": [ 0.0, 0.0, 4.0, 9.0 ] },
+                "west": { "texture": "#33", "uv": [ 0.0, 0.0, 2.0, 9.0 ] },
+                "up": { "texture": "#34", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "down": { "texture": "#35", "uv": [ 0.0, 0.0, 4.0, 4.0 ] }
+            }
+        },
+        {
+            "name": "Thigh - Right",
+            "from": [ 2.0, 6.0, 6.0 ], 
+            "to": [ 6.0, 14.0, 10.0 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "z", "angle": -22.5 },
+            "faces": {
+                "north": { "texture": "#36", "uv": [ 0.0, 0.0, 4.0, 8.0 ] },
+                "east": { "texture": "#37", "uv": [ 0.0, 0.0, 4.0, 8.0 ] },
+                "south": { "texture": "#38", "uv": [ 0.0, 0.0, 4.0, 8.0 ] },
+                "west": { "texture": "#39", "uv": [ 0.0, 0.0, 4.0, 8.0 ] },
+                "up": { "texture": "#40", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "down": { "texture": "#41", "uv": [ 0.0, 0.0, 4.0, 4.0 ] }
+            }
+        },
+        {
+            "name": "Thigh - Left",
+            "from": [ 8.0, 6.0, 6.0 ], 
+            "to": [ 12.0, 14.0, 10.0 ], 
+            "faces": {
+                "north": { "texture": "#42", "uv": [ 0.0, 0.0, 4.0, 8.0 ] },
+                "east": { "texture": "#43", "uv": [ 0.0, 0.0, 4.0, 8.0 ] },
+                "south": { "texture": "#44", "uv": [ 0.0, 0.0, 4.0, 8.0 ] },
+                "west": { "texture": "#45", "uv": [ 0.0, 0.0, 4.0, 8.0 ] },
+                "up": { "texture": "#46", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "down": { "texture": "#47", "uv": [ 0.0, 0.0, 4.0, 4.0 ] }
+            }
+        },
+        {
+            "name": "Foot - Right",
+            "from": [ 2.0, 1.0, 6.0 ], 
+            "to": [ 6.0, 8.0, 10.0 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#48", "uv": [ 0.0, 0.0, 4.0, 7.0 ] },
+                "east": { "texture": "#49", "uv": [ 0.0, 0.0, 2.0, 7.0 ] },
+                "south": { "texture": "#50", "uv": [ 0.0, 0.0, 4.0, 7.0 ] },
+                "west": { "texture": "#51", "uv": [ 0.0, 0.0, 4.0, 7.0 ] },
+                "up": { "texture": "#52", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "down": { "texture": "#53", "uv": [ 0.0, 0.0, 4.0, 4.0 ] }
+            }
+        },
+        {
+            "name": "Foot - Left",
+            "from": [ 8.0, 0.0, 6.0 ], 
+            "to": [ 12.0, 7.0, 10.0 ], 
+            "faces": {
+                "north": { "texture": "#54", "uv": [ 0.0, 0.0, 4.0, 7.0 ] },
+                "east": { "texture": "#55", "uv": [ 0.0, 0.0, 4.0, 7.0 ] },
+                "south": { "texture": "#56", "uv": [ 0.0, 0.0, 4.0, 7.0 ] },
+                "west": { "texture": "#57", "uv": [ 0.0, 0.0, 4.0, 7.0 ] },
+                "up": { "texture": "#58", "uv": [ 0.0, 0.0, 4.0, 4.0 ] },
+                "down": { "texture": "#59", "uv": [ 0.0, 0.0, 4.0, 4.0 ] }
+            }
+        }
+    ]
+}
