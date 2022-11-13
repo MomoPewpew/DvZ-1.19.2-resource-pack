@@ -2294,5 +2294,14 @@
                 "stream": true
             }
         ]
+    },
+	    "ratlaugh": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "ratlaugh",
+                "stream": true
+            }
+        ]
     }
 }
