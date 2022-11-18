@@ -2321,5 +2321,14 @@
                 "stream": true
             }
         ]
+    },
+	    "musical.oldgods": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "musical.oldgods",
+                "stream": true
+            }
+        ]
     }
 }
