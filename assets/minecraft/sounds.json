@@ -2295,11 +2295,29 @@
             }
         ]
     },
-	    "ratlaugh": {
+	    "rat.laugh": {
         "category": "ambient",
         "sounds": [
             {
-                "name": "ratlaugh",
+                "name": "rat.laugh",
+                "stream": true
+            }
+        ]
+    },
+	    "bow.reload": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "bow.reload",
+                "stream": true
+            }
+        ]
+    },
+	    "sword.prepare": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "sword.prepare",
                 "stream": true
             }
         ]
