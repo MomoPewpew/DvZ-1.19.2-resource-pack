@@ -352,6 +352,22 @@
             "wpnenchantedlamp"
         ]
     },
+  "coin": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "misc/coin"
+      }
+    ]
+  },
+  "coinflip": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "misc/coinflip"
+      }
+    ]
+  },
     "brucecasual1": {
         "category": "record",
         "sounds": [
