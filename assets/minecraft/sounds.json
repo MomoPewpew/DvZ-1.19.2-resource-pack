@@ -2346,5 +2346,14 @@
                 "stream": true
             }
         ]
+    },
+	    "deathsound": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "deathsound",
+                "stream": true
+            }
+        ]
     }
 }
