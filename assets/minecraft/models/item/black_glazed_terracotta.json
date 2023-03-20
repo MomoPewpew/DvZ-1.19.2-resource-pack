@@ -2,8 +2,8 @@
 "__comment": "Paladin Helmet",
 "__comment": "Not to be reused. Created for the Lords of Minecraft Server",
 "textures": {
-    "cross": "blocks/hats_knight1",
-    "metal": "blocks/hats_knight2"
+    "cross": "block/hats/hats_knight1",
+    "metal": "block/hats/hats_knight2"
 },
 "elements": [ 
 {

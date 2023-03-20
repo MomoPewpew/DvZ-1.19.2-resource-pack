@@ -1,10 +1,10 @@
 {
 	"__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 	"textures": {
-		"Elven_Dagger_Hilt": "items/weapons/Elven_Dagger_Hilt",
-		"Elven_Dagger_Handle": "items/weapons/Elven_Dagger_Handle",
-		"Elven_Dagger_Catch": "items/weapons/Elven_Dagger_Catch",
-		"Elven_Dagger_Blade": "items/weapons/Elven_Dagger_Blade"
+		"Elven_Dagger_Hilt": "item/weapons/elven_dagger_hilt",
+		"Elven_Dagger_Handle": "item/weapons/elven_dagger_handle",
+		"Elven_Dagger_Catch": "item/weapons/elven_dagger_catch",
+		"Elven_Dagger_Blade": "item/weapons/elven_dagger_blade"
 	},
 	"elements": [
 		{

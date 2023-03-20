@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"DvZ_Flame_Fist_Guard": "items/weapons/DvZ_Flame_Fist_Guard",
-		"DvZ_Flame_Fist_Knuckle": "items/weapons/DvZ_Flame_Fist_Knuckle",
-		"DvZ_Flame_Fist_Wings": "items/weapons/DvZ_Flame_Fist_Wings",
-		"DvZ_Flame_Fist_Plug": "items/weapons/DvZ_Flame_Fist_Plug"
+		"DvZ_Flame_Fist_Guard": "item/weapons/dvz_flame_fist_guard",
+		"DvZ_Flame_Fist_Knuckle": "item/weapons/dvz_flame_fist_knuckle",
+		"DvZ_Flame_Fist_Wings": "item/weapons/dvz_flame_fist_wings",
+		"DvZ_Flame_Fist_Plug": "item/weapons/dvz_flame_fist_plug"
 	},
 	"elements": [
 		{

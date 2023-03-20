@@ -1,7 +1,7 @@
 {
 	"__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 	"textures": {
-		"Beard": "blocks/hats/hat_beard1"
+		"Beard": "block/hats/hat_beard1"
 	},
 	"elements": [
 		{

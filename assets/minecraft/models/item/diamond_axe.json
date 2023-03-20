@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"Malice_Blade": "items/weapons/Malice_Blade",
-		"Malice_Shaft": "items/weapons/Malice_Shaft",
-		"Malice_Guard": "items/weapons/Malice_Guard",
-		"Malice_Ornate": "items/weapons/Malice_Ornate",
-		"Malice_Handle": "items/weapons/Malice_Handle",
-		"Malice_Eye": "items/weapons/Malice_Eye",
-		"Malice_Mesh": "items/weapons/Malice_Mesh"
+		"Malice_Blade": "item/weapons/malice_blade",
+		"Malice_Shaft": "item/weapons/malice_shaft",
+		"Malice_Guard": "item/weapons/malice_guard",
+		"Malice_Ornate": "item/weapons/malice_ornate",
+		"Malice_Handle": "item/weapons/malice_handle",
+		"Malice_Eye": "item/weapons/malice_eye",
+		"Malice_Mesh": "item/weapons/malice_mesh"
 	},
 	"elements": [
 		{

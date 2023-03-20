@@ -2,8 +2,8 @@
 "__comment": "Shaman Mask",
 "__comment": "Not to be reused. Created for the Lords of Minecraft Server",
 "textures": {
-    "particle": "blocks/hats_shamanmask1",
-    "texture": "blocks/hats_shamanmask1"
+    "particle": "block/hats/hats_shamanmask1",
+    "texture": "block/hats/hats_shamanmask1"
 },
 "elements": [ 
 {

@@ -2,8 +2,8 @@
 "__comment": "Imperfect Crown",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "gem": "blocks/hats/hats_crown1",
-    "crown": "blocks/hats/hats_crown2"
+    "gem": "block/hats/hats_crown1",
+    "crown": "block/hats/hats_crown2"
 },
 "elements": [ 
 {

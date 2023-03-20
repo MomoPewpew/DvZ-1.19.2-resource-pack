@@ -1,11 +1,11 @@
 {
 	"__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 	"textures": {
-		"RuneMk1_Blade": "items/weapons/RuneMk1_Blade",
-		"RuneMk1_Shell": "items/weapons/RuneMk1_Shell",
-		"RuneMk1_Guard": "items/weapons/RuneMk1_Guard",
-		"RuneMk1_Handle": "items/weapons/RuneMk1_Handle",
-		"RuneMk1_Rune": "items/weapons/RuneMk1_Rune"
+		"RuneMk1_Blade": "item/weapons/runemk1_blade",
+		"RuneMk1_Shell": "item/weapons/runemk1_shell",
+		"RuneMk1_Guard": "item/weapons/runemk1_guard",
+		"RuneMk1_Handle": "item/weapons/runemk1_handle",
+		"RuneMk1_Rune": "item/weapons/runemk1_rune"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Manifusion with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"TEX_Mama_Hat": "blocks/tex_mama_hat2"
+		"TEX_Mama_Hat": "block/tex_mama_hat2"
 	},
 	"elements": [ 	 
 		{

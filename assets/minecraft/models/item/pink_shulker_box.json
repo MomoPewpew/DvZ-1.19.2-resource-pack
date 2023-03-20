@@ -2,8 +2,8 @@
 "__comment": "Paladin Helmet",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "cross": "blocks/hats/hats_knight1",
-    "metal": "blocks/hats/hats_knight2"
+    "cross": "block/hats/hats_knight1",
+    "metal": "block/hats/hats_knight2"
 },
 "elements": [ 
 {

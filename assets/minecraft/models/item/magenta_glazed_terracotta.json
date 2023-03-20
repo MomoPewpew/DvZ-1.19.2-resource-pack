@@ -2,9 +2,9 @@
 "__comment": "Shell Wall",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "Sentinel_Base": "blocks/hats/hats_shellwall1",
-    "Sentinel_Trim": "blocks/hats/hats_shellwall2",
-    "Sentinel_Strap": "blocks/hats/hats_shellwall3"
+    "Sentinel_Base": "block/hats/hats_shellwall1",
+    "Sentinel_Trim": "block/hats/hats_shellwall2",
+    "Sentinel_Strap": "block/hats/hats_shellwall3"
 },
 "elements": [ 
 {

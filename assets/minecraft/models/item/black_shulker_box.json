@@ -2,8 +2,8 @@
 "__comment": "Imperfect Crown",
 "__comment": "Not to be reused. Created for the Lords of Minecraft Server",
 "textures": {
-    "gem": "blocks/hats_crown1",
-    "crown": "blocks/hats_crown2"
+    "gem": "block/hats/hats_crown1",
+    "crown": "block/hats/hats_crown2"
 },
 "elements": [ 
 {
