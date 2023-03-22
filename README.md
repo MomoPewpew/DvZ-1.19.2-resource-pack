@@ -1,9 +1,7 @@
 # DvZ
 Resource pack for DvZ 1.19.2
 
-## Content
-
-### Language Edits
+## Language Edits
 The following Changes have been made to the main English language files (`en_AU`, `en_CA`, `en_GB`, `en_US`):
 | key                     | original (`en_US`)  | custom                |
 |-------------------------|---------------------|-----------------------|
@@ -19,7 +17,7 @@ The following Changes have been made to the main English language files (`en_AU`
 | `soundCategory.weather` | Weather             | Tools/Crafting*       |
 *: Edited
 
-### Sounds
+## Sounds
 The following default sounds have been removed:
 - `ambient.cave`
 - `weather.rain`
@@ -49,6 +47,11 @@ The following default sounds have been removed:
 - `music.overworld.stony_peaks`
 - `music.overworld.swamp`
 - `music.under_water`
+
+The following default sounds have been replaced by custom sounds:
+- [`entity.arrow.shoot`](assets/minecraft/sounds/random/bow.ogg?raw=true)
+- [`entity.skeleton.shoot`](assets/minecraft/sounds/random/bow.ogg?raw=true)
+- [`entity.arrow.hit`](assets/minecraft/sounds/random/bowhit1.ogg?raw=true)
 
 The following custom sounds have been added:
 | key                                                                                                                 | intended category |
@@ -252,3 +255,4 @@ The following custom sounds have been added:
 | [`musical.oldgods`](assets/minecraft/sounds/musical.oldgods.ogg?raw=true)                                           | `ambient`         |
 | [`deathsound`](assets/minecraft/sounds/deathsound.ogg?raw=true)                                                     | `player`          |
 | [`sawmillaccident`](assets/minecraft/sounds/sawmillaccident.ogg?raw=true)                                           | `player`          |
+

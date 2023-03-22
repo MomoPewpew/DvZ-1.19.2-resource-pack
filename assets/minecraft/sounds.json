@@ -1449,6 +1449,30 @@
         "replace": true,
         "sounds": []
     },
+    "entity.arrow.shoot": {
+        "replace": true,
+        "sounds": [
+            "random/custom.bow"
+        ],
+        "subtitle": "subtitles.entity.arrow.shoot"
+    },
+    "entity.skeleton.shoot": {
+        "replace": true,
+        "sounds": [
+            "random/custom.bow"
+        ],
+        "subtitle": "subtitles.entity.skeleton.shoot"
+    },
+    "entity.arrow.hit": {
+        "replace": true,
+        "sounds": [
+            "random/custom.bowhit1",
+            "random/custom.bowhit2",
+            "random/custom.bowhit3",
+            "random/custom.bowhit4"
+        ],
+        "subtitle": "subtitles.entity.arrow.hit"
+    },
     "roamindeath": {
         "sounds": [
             {
