@@ -1,87 +1,74 @@
 {
     "ambient.cave.cave": {
-        "category": "ambient",
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
     "ambient.weather.rain": {
-        "category": "weather",
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
     "game.neutral.hurt": {
-        "category": "weather",
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
     "game.hostile.hurt": {
-        "category": "weather",
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
     "game.player.die": {
-        "category": "weather",
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
     "game.neutral.die": {
-        "category": "weather",
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
     "game.hostile.die": {
-        "category": "weather",
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
     "mob.villager.idle": {
-        "category": "neutral",
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
     "activatebow": {
-        "category": "weather",
         "sounds": [
             "activatebow"
         ]
     },
     "activateshield": {
-        "category": "weather",
         "sounds": [
             "activateshield"
         ]
     },
     "activatesword": {
-        "category": "weather",
         "sounds": [
             "activatesword"
         ]
     },
     "toolaxehit": {
-        "category": "weather",
         "sounds": [
             "toolaxehit1",
             "toolaxehit2"
         ]
     },
     "toolwoodchop": {
-        "category": "weather",
         "sounds": [
             "toolwoodchop1",
             "toolwoodchop2",
@@ -90,7 +77,6 @@
         ]
     },
     "wpnmonstersmash": {
-        "category": "weather",
         "sounds": [
             "wpnmonstersmash1",
             "wpnmonstersmash2",
@@ -99,7 +85,6 @@
         ]
     },
     "wpnmonstersmashbig": {
-        "category": "weather",
         "sounds": [
             "wpnmonstersmashbig1",
             "wpnmonstersmashbig2",
@@ -107,7 +92,6 @@
         ]
     },
     "wpnwarhammer": {
-        "category": "weather",
         "sounds": [
             "wpnwarhammer1",
             "wpnwarhammer2",
@@ -116,7 +100,6 @@
         ]
     },
     "wpncrossbow": {
-        "category": "weather",
         "sounds": [
             "wpncrossbow1",
             "wpncrossbow2",
@@ -125,7 +108,6 @@
         ]
     },
     "emeraldbowfire": {
-        "category": "weather",
         "sounds": [
             "emeraldbowfire1",
             "emeraldbowfire2",
@@ -133,7 +115,6 @@
         ]
     },
     "emeraldbowdraw": {
-        "category": "weather",
         "sounds": [
             "emeraldbowdraw"
         ]
@@ -178,7 +159,6 @@
         ]
     },
     "doomeventbarnyard": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "doomeventbarnyard",
@@ -187,7 +167,6 @@
         ]
     },
     "doomeventbopen": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "doomeventbopen",
@@ -196,7 +175,6 @@
         ]
     },
     "doomeventkrungor": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "doomeventkrungor",
@@ -204,8 +182,7 @@
             }
         ]
     },
-	"entity.player.attack.sweep": {
-        "category": "player",
+    "entity.player.attack.sweep": {
         "sounds": [
             {
                 "name": "entity/player/attack/sweep",
@@ -214,7 +191,6 @@
         ]
     },
     "doomevent1": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "doomevent1",
@@ -223,7 +199,6 @@
         ]
     },
     "doomevent2": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "doomevent2",
@@ -232,7 +207,6 @@
         ]
     },
     "doomevent3": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "doomevent3",
@@ -241,7 +215,6 @@
         ]
     },
     "doomevent4": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "doomevent4",
@@ -250,7 +223,6 @@
         ]
     },
     "doomevent5": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "doomevent5",
@@ -259,13 +231,11 @@
         ]
     },
     "wpnwarpweaver": {
-        "category": "weather",
         "sounds": [
             "wpnwarpweaver"
         ]
     },
     "wpnplunder": {
-        "category": "weather",
         "sounds": [
             "wpnplunder"
         ]
@@ -276,7 +246,6 @@
         ]
     },
     "wpnsos": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "wpnsos",
@@ -285,7 +254,6 @@
         ]
     },
     "magiccoil": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "magiccoil",
@@ -294,7 +262,6 @@
         ]
     },
     "wpnbuffalohorn": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "wpnbuffalohorn",
@@ -303,7 +270,6 @@
         ]
     },
     "wpnproc": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "wpnproc",
@@ -320,7 +286,6 @@
         ]
     },
     "warhammercharge": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "warhammercharge",
@@ -329,7 +294,6 @@
         ]
     },
     "warhammerrankup": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "warhammerrankup",
@@ -338,7 +302,6 @@
         ]
     },
     "runebladerunedash": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "runebladerunedash",
@@ -347,29 +310,25 @@
         ]
     },
     "wpnenchantedlamp": {
-        "category": "weather",
         "sounds": [
             "wpnenchantedlamp"
         ]
     },
-  "coin": {
-    "category": "player",
-    "sounds": [
-      {
-        "name": "misc/coin"
-      }
-    ]
-  },
-  "coinflip": {
-    "category": "player",
-    "sounds": [
-      {
-        "name": "misc/coinflip"
-      }
-    ]
-  },
+    "coin": {
+        "sounds": [
+            {
+                "name": "misc/coin"
+            }
+        ]
+    },
+    "coinflip": {
+        "sounds": [
+            {
+                "name": "misc/coinflip"
+            }
+        ]
+    },
     "brucecasual1": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecasual1",
@@ -378,7 +337,6 @@
         ]
     },
     "brucecombatgeneral1": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral1",
@@ -387,7 +345,6 @@
         ]
     },
     "brucecombatgeneral2": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral2",
@@ -396,7 +353,6 @@
         ]
     },
     "brucecombatgeneral3": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral3",
@@ -405,7 +361,6 @@
         ]
     },
     "brucecombatgeneral4": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral4",
@@ -414,7 +369,6 @@
         ]
     },
     "brucecombatgeneral5": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral5",
@@ -423,7 +377,6 @@
         ]
     },
     "brucecombatgeneral6": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral6",
@@ -432,7 +385,6 @@
         ]
     },
     "brucecombatgeneral7": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral7",
@@ -441,7 +393,6 @@
         ]
     },
     "brucecombatgeneral8": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral8",
@@ -450,7 +401,6 @@
         ]
     },
     "brucecombatgeneral9": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral9",
@@ -459,7 +409,6 @@
         ]
     },
     "brucecombatgeneral10": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral10",
@@ -468,7 +417,6 @@
         ]
     },
     "brucecombatgeneral11": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral11",
@@ -477,7 +425,6 @@
         ]
     },
     "brucecombatgeneral12": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral12",
@@ -486,7 +433,6 @@
         ]
     },
     "brucecombatgeneral13": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatgeneral13",
@@ -495,7 +441,6 @@
         ]
     },
     "brucecombatindoors1": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatindoors1",
@@ -504,7 +449,6 @@
         ]
     },
     "brucecombatindoors2": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatindoors2",
@@ -513,7 +457,6 @@
         ]
     },
     "brucecombatindoors3": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatindoors3",
@@ -522,7 +465,6 @@
         ]
     },
     "brucecombatindoors4": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatindoors4",
@@ -531,7 +473,6 @@
         ]
     },
     "brucecombatoutdoors1": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatoutdoors1",
@@ -540,7 +481,6 @@
         ]
     },
     "brucecombatoutdoors2": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatoutdoors2",
@@ -549,7 +489,6 @@
         ]
     },
     "brucecombatoutdoors3": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatoutdoors3",
@@ -558,7 +497,6 @@
         ]
     },
     "brucecombatoutdoors4": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatoutdoors4",
@@ -567,7 +505,6 @@
         ]
     },
     "brucecombatoutdoors5": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucecombatoutdoors5",
@@ -576,7 +513,6 @@
         ]
     },
     "bruceexplosionnearby1": {
-        "category": "record",
         "sounds": [
             {
                 "name": "bruceexplosionnearby1",
@@ -585,7 +521,6 @@
         ]
     },
     "bruceexplosionnearby2": {
-        "category": "record",
         "sounds": [
             {
                 "name": "bruceexplosionnearby2",
@@ -594,7 +529,6 @@
         ]
     },
     "bruceexplosionnearby3": {
-        "category": "record",
         "sounds": [
             {
                 "name": "bruceexplosionnearby3",
@@ -603,7 +537,6 @@
         ]
     },
     "brucedeath": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "brucedeath",
@@ -612,7 +545,6 @@
         ]
     },
     "brucediggingzombiewarning": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "brucediggingzombiewarning",
@@ -621,7 +553,6 @@
         ]
     },
     "brucegolemwarning": {
-        "category": "ambient",
         "sounds": [
             "brucegolemwarning1",
             "brucegolemwarning2",
@@ -630,7 +561,6 @@
         ]
     },
     "bruceintro": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "bruceintro",
@@ -639,7 +569,6 @@
         ]
     },
     "brucelowonmana1": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucelowonmana1",
@@ -648,7 +577,6 @@
         ]
     },
     "brucelowonmana2": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucelowonmana2",
@@ -657,7 +585,6 @@
         ]
     },
     "brucelowonmana3": {
-        "category": "record",
         "sounds": [
             {
                 "name": "brucelowonmana3",
@@ -666,7 +593,6 @@
         ]
     },
     "bruceproc1": {
-        "category": "record",
         "sounds": [
             {
                 "name": "bruceproc1",
@@ -675,7 +601,6 @@
         ]
     },
     "bruceproc2": {
-        "category": "record",
         "sounds": [
             {
                 "name": "bruceproc2",
@@ -684,7 +609,6 @@
         ]
     },
     "bruceproc3": {
-        "category": "record",
         "sounds": [
             {
                 "name": "bruceproc3",
@@ -693,7 +617,6 @@
         ]
     },
     "bruceproc": {
-        "category": "ambient",
         "sounds": [
             "bruceproc1",
             "bruceproc2",
@@ -701,7 +624,6 @@
         ]
     },
     "bruceratswarning": {
-        "category": "ambient",
         "sounds": [
             "bruceratswarning1",
             "bruceratswarning2",
@@ -710,7 +632,6 @@
         ]
     },
     "bruceshrinedestroyed1": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "bruceshrinedestroyed1",
@@ -719,7 +640,6 @@
         ]
     },
     "bruceshrinedestroyed2": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "bruceshrinedestroyed2",
@@ -728,7 +648,6 @@
         ]
     },
     "bruceshrinedestroyed3": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "bruceshrinedestroyed3",
@@ -737,7 +656,6 @@
         ]
     },
     "brucespideringswarning": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "brucespiderlingswarning1",
@@ -750,7 +668,6 @@
         ]
     },
     "brucevenomburnerswarning": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "brucevenomburnerswarning1",
@@ -771,7 +688,6 @@
         ]
     },
     "brucewolveswarning": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "brucewolveswarning1",
@@ -789,10 +705,9 @@
                 "name": "brucewolveswarning4",
                 "stream": true
             }
-          ]
+        ]
     },
     "brucemonstersreleased": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "brucemonstersreleased",
@@ -801,7 +716,6 @@
         ]
     },
     "brucenoprocwarning": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "brucenoprocwarning1",
@@ -815,10 +729,9 @@
                 "name": "brucenoprocwarning3",
                 "stream": true
             }
-          ]
+        ]
     },
     "brucenomanawarning": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "brucenomanawarning1",
@@ -832,10 +745,9 @@
                 "name": "brucenomanawarning3",
                 "stream": true
             }
-          ]
+        ]
     },
     "brucenorepairwarning": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "brucenorepairwarning1",
@@ -849,10 +761,9 @@
                 "name": "brucenorepairwarning3",
                 "stream": true
             }
-          ]
+        ]
     },
     "maliceintro": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "maliceintro",
@@ -861,7 +772,6 @@
         ]
     },
     "malicegeneral": {
-        "category": "record",
         "sounds": [
             {
                 "name": "malicegeneral1",
@@ -895,10 +805,9 @@
                 "name": "malicegeneral8",
                 "stream": true
             }
-          ]
+        ]
     },
     "maliceuse": {
-        "category": "record",
         "sounds": [
             {
                 "name": "maliceuse1",
@@ -920,10 +829,9 @@
                 "name": "maliceuse5",
                 "stream": true
             }
-          ]
+        ]
     },
     "daragorattack": {
-        "category": "ambient",
         "sounds": [
             "daragorattack1",
             "daragorattack2",
@@ -932,19 +840,16 @@
         ]
     },
     "daragordeath": {
-        "category": "ambient",
         "sounds": [
             "daragordeath"
         ]
     },
     "daragorspawn": {
-        "category": "ambient",
         "sounds": [
             "daragorspawn"
         ]
     },
     "daragortaunt": {
-        "category": "ambient",
         "sounds": [
             "daragortaunt1",
             "daragortaunt2",
@@ -955,429 +860,381 @@
         ]
     },
     "daragorworldcracker": {
-        "category": "ambient",
         "sounds": [
             "daragorworldcracker1",
             "daragorworldcracker2"
         ]
     },
     "dig.gravel": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "dig/gravel1",
-        "dig/gravel2",
-        "dig/gravel3",
-        "dig/gravel4"
-      ]
+        "replace": true,
+        "sounds": [
+            "dig/gravel1",
+            "dig/gravel2",
+            "dig/gravel3",
+            "dig/gravel4"
+        ]
     },
     "dvzlore1": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore1",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore1",
+                "stream": true
+            }
+        ]
     },
     "dvzlore2": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore2",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore2",
+                "stream": true
+            }
+        ]
     },
     "dvzlore3": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore3",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore3",
+                "stream": true
+            }
+        ]
     },
     "dvzlore4": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore4",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore4",
+                "stream": true
+            }
+        ]
     },
     "dvzlore5": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore5",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore5",
+                "stream": true
+            }
+        ]
     },
     "dvzlore6": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore6",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore6",
+                "stream": true
+            }
+        ]
     },
     "dvzlore7": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore7",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore7",
+                "stream": true
+            }
+        ]
     },
     "dvzlore8": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore8",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore8",
+                "stream": true
+            }
+        ]
     },
     "dvzlore9": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore9",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore9",
+                "stream": true
+            }
+        ]
     },
     "dvzlore10": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore10",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore10",
+                "stream": true
+            }
+        ]
     },
     "dvzlore11": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore11",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore11",
+                "stream": true
+            }
+        ]
     },
     "dvzlore12": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore12",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore12",
+                "stream": true
+            }
+        ]
     },
     "dvzlore13": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore13",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore13",
+                "stream": true
+            }
+        ]
     },
     "dvzlore14": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore14",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore14",
+                "stream": true
+            }
+        ]
     },
     "dvzlore15": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore15",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore15",
+                "stream": true
+            }
+        ]
     },
     "dvzlore16": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore16",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore16",
+                "stream": true
+            }
+        ]
     },
     "dvzlore17": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore17",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore17",
+                "stream": true
+            }
+        ]
     },
     "dvzlore18": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore18",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore18",
+                "stream": true
+            }
+        ]
     },
     "dvzlore19": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore19",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore19",
+                "stream": true
+            }
+        ]
     },
     "dvzlore20": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore20",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore20",
+                "stream": true
+            }
+        ]
     },
     "dvzlore21": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore21",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore21",
+                "stream": true
+            }
+        ]
     },
     "dvzlore22": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore22",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore22",
+                "stream": true
+            }
+        ]
     },
     "dvzlore23": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore23",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore23",
+                "stream": true
+            }
+        ]
     },
     "dvzlore24": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore24",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore24",
+                "stream": true
+            }
+        ]
     },
     "dvzlore25": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore25",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore25",
+                "stream": true
+            }
+        ]
     },
     "dvzlore26": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore26",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore26",
+                "stream": true
+            }
+        ]
     },
     "dvzlore27": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore27",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore27",
+                "stream": true
+            }
+        ]
     },
     "dvzlore28": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore28",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore28",
+                "stream": true
+            }
+        ]
     },
     "dvzlore29": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore29",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore29",
+                "stream": true
+            }
+        ]
     },
     "dvzlore30": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore30",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore30",
+                "stream": true
+            }
+        ]
     },
     "dvzlore31": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore31",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore31",
+                "stream": true
+            }
+        ]
     },
     "dvzlore32": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore32",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore32",
+                "stream": true
+            }
+        ]
     },
     "dvzlore33": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore33",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore33",
+                "stream": true
+            }
+        ]
     },
     "dvzlore34": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore34",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore34",
+                "stream": true
+            }
+        ]
     },
     "dvzlore35": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore35",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore35",
+                "stream": true
+            }
+        ]
     },
     "dvzlore36": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore36",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore36",
+                "stream": true
+            }
+        ]
     },
     "dvzlore37": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore37",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore37",
+                "stream": true
+            }
+        ]
     },
     "dvzlore38": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore38",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore38",
+                "stream": true
+            }
+        ]
     },
     "dvzlore39": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore39",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore39",
+                "stream": true
+            }
+        ]
     },
     "dvzlore40": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore40",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore40",
+                "stream": true
+            }
+        ]
     },
     "dvzlore41": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore41",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore41",
+                "stream": true
+            }
+        ]
     },
     "dvzlore42": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore42",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore42",
+                "stream": true
+            }
+        ]
     },
     "dvzlore43": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore43",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore43",
+                "stream": true
+            }
+        ]
     },
     "dvzlore44": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore44",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore44",
+                "stream": true
+            }
+        ]
     },
     "dvzlore45": {
-      "category": "neutral",
-      "sounds": [
-        {
-          "name": "dvzlore45",
-          "stream": true
-        }
-      ]
+        "sounds": [
+            {
+                "name": "dvzlore45",
+                "stream": true
+            }
+        ]
     },
     "daragorfirebreath": {
-        "category": "ambient",
         "sounds": [
             "daragorfirebreath1",
             "daragorfirebreath2",
@@ -1385,7 +1242,6 @@
         ]
     },
     "introsong": {
-        "category": "neutral",
         "sounds": [
             {
                 "name": "introsong",
@@ -1394,49 +1250,42 @@
         ]
     },
     "fireworks.blast": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "fireworks/blast1"
-      ]
+        "replace": true,
+        "sounds": [
+            "fireworks/blast1"
+        ]
     },
     "fireworks.blast_far": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "fireworks/blast_far1"
-      ]
+        "replace": true,
+        "sounds": [
+            "fireworks/blast_far1"
+        ]
     },
     "fireworks.largeblast": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "fireworks/largeblast1"
-      ]
+        "replace": true,
+        "sounds": [
+            "fireworks/largeblast1"
+        ]
     },
     "fireworks.largeblast_far": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "fireworks/largeblast_far1"
-      ]
+        "replace": true,
+        "sounds": [
+            "fireworks/largeblast_far1"
+        ]
     },
     "fireworks.twinkle": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "fireworks/twinkle1"
-      ]
+        "replace": true,
+        "sounds": [
+            "fireworks/twinkle1"
+        ]
     },
     "fireworks.twinkle_far": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "fireworks/twinkle_far1"
-      ]
+        "replace": true,
+        "sounds": [
+            "fireworks/twinkle_far1"
+        ]
     },
     "nisovin.rocketboots": {
-        "category": "weather",
         "sounds": [
             {
                 "name": "nisovin.rocketboots",
@@ -1445,7 +1294,6 @@
         ]
     },
     "nisovin.voicewormhole": {
-        "category": "hostile",
         "sounds": [
             {
                 "name": "nisovin.voicewormhole",
@@ -1454,7 +1302,6 @@
         ]
     },
     "nisovin.wandfire": {
-        "category": "weather",
         "sounds": [
             {
                 "name": "nisovin.wandfire",
@@ -1463,7 +1310,6 @@
         ]
     },
     "nisovin.wandhit": {
-        "category": "weather",
         "sounds": [
             {
                 "name": "nisovin.wandhit",
@@ -1472,7 +1318,6 @@
         ]
     },
     "nisovin.wormholeactivate": {
-        "category": "weather",
         "sounds": [
             {
                 "name": "nisovin.wormholeactivate",
@@ -1481,7 +1326,6 @@
         ]
     },
     "nisovin.wormholefire": {
-        "category": "weather",
         "sounds": [
             {
                 "name": "nisovin.wormholefire",
@@ -1490,7 +1334,6 @@
         ]
     },
     "nisovin.tinderflamedraw": {
-        "category": "weather",
         "sounds": [
             {
                 "name": "nisovin.tinderflamedraw",
@@ -1499,7 +1342,6 @@
         ]
     },
     "nisovin.tinderflame": {
-        "category": "weather",
         "sounds": [
             "nisovin.tinderflame1",
             "nisovin.tinderflame2",
@@ -1507,7 +1349,6 @@
         ]
     },
     "nisovin.voicerocketboots": {
-        "category": "hostile",
         "sounds": [
             "nisovin.voicerocketboots1",
             "nisovin.voicerocketboots2",
@@ -1515,7 +1356,6 @@
         ]
     },
     "nisovin.voicetinderflame": {
-        "category": "hostile",
         "sounds": [
             "nisovin.voicetinderflame1",
             "nisovin.voicetinderflame2",
@@ -1531,7 +1371,6 @@
         ]
     },
     "nisovinboltfire": {
-        "category": "weather",
         "sounds": [
             {
                 "name": "nisovinboltfire1",
@@ -1548,7 +1387,6 @@
         ]
     },
     "nisovindeath": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "nisovindeath",
@@ -1557,7 +1395,6 @@
         ]
     },
     "nisovinlaugh": {
-        "category": "record",
         "sounds": [
             {
                 "name": "nisovinlaugh1",
@@ -1575,11 +1412,9 @@
                 "name": "nisovinlaugh4",
                 "stream": true
             }
-     
         ]
     },
     "nisovinlowonmana1": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "nisovinlowonmana1",
@@ -1588,7 +1423,6 @@
         ]
     },
     "nisovinlowonmana2": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "nisovinlowonmana2",
@@ -1597,7 +1431,6 @@
         ]
     },
     "nisovinlowonmana3": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "nisovinlowonmana3",
@@ -1606,249 +1439,218 @@
         ]
     },
     "mob.enderdragon.end": {
-      "category": "ambient",
-      "replace": true,
-      "sounds": [
-        "mob/enderdragon/end"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/enderdragon/end"
+        ]
     },
     "mob.endermen.stare": {
-      "category": "ambient",
-      "replace": true,
-      "sounds": [
-        "mob/endermen/stare"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/endermen/stare"
+        ]
     },
     "mob.irongolem.death": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/irongolem/death"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/irongolem/death"
+        ]
     },
     "mob.irongolem.hit": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/irongolem/hit1",
-        "mob/irongolem/hit2",
-        "mob/irongolem/hit3",
-        "mob/irongolem/hit4"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/irongolem/hit1",
+            "mob/irongolem/hit2",
+            "mob/irongolem/hit3",
+            "mob/irongolem/hit4"
+        ]
     },
     "mob.irongolem.throw": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/irongolem/throw"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/irongolem/throw"
+        ]
     },
     "mob.magmacube.big": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "mob/magmacube/big1",
-        "mob/magmacube/big2",
-        "mob/magmacube/big3",
-        "mob/magmacube/big4"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/magmacube/big1",
+            "mob/magmacube/big2",
+            "mob/magmacube/big3",
+            "mob/magmacube/big4"
+        ]
     },
     "mob.slime.big": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "mob/slime/big1",
-        "mob/slime/big2",
-        "mob/slime/big3",
-        "mob/slime/big4"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/slime/big1",
+            "mob/slime/big2",
+            "mob/slime/big3",
+            "mob/slime/big4"
+        ]
     },
     "mob.irongolem.walk": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/irongolem/walk1",
-        "mob/irongolem/walk2",
-        "mob/irongolem/walk3",
-        "mob/irongolem/walk4"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/irongolem/walk1",
+            "mob/irongolem/walk2",
+            "mob/irongolem/walk3",
+            "mob/irongolem/walk4"
+        ]
     },
     "mob.wither.hurt": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "mob/wither/hurt1",
-        "mob/wither/hurt2",
-        "mob/wither/hurt3",
-        "mob/wither/hurt4"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wither/hurt1",
+            "mob/wither/hurt2",
+            "mob/wither/hurt3",
+            "mob/wither/hurt4"
+        ]
     },
     "mob.wolf.bark": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/wolf/bark1",
-        "mob/wolf/bark2",
-        "mob/wolf/bark3"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wolf/bark1",
+            "mob/wolf/bark2",
+            "mob/wolf/bark3"
+        ]
     },
     "mob.wolf.death": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/wolf/death"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wolf/death"
+        ]
     },
     "mob.wolf.growl": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/wolf/growl1",
-        "mob/wolf/growl2",
-        "mob/wolf/growl3"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wolf/growl1",
+            "mob/wolf/growl2",
+            "mob/wolf/growl3"
+        ]
     },
     "mob.wolf.howl": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/wolf/howl1",
-        "mob/wolf/howl2"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wolf/howl1",
+            "mob/wolf/howl2"
+        ]
     },
     "mob.wolf.hurt": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/wolf/hurt1",
-        "mob/wolf/hurt2",
-        "mob/wolf/hurt3"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wolf/hurt1",
+            "mob/wolf/hurt2",
+            "mob/wolf/hurt3"
+        ]
     },
     "mob.wolf.panting": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/wolf/panting"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wolf/panting"
+        ]
     },
     "mob.wolf.shake": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/wolf/shake"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wolf/shake"
+        ]
     },
     "mob.wolf.step": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/wolf/step1",
-        "mob/wolf/step2",
-        "mob/wolf/step3",
-        "mob/wolf/step4",
-        "mob/wolf/step5"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wolf/step1",
+            "mob/wolf/step2",
+            "mob/wolf/step3",
+            "mob/wolf/step4",
+            "mob/wolf/step5"
+        ]
     },
     "mob.wolf.whine": {
-      "category": "hostile",
-      "replace": true,
-      "sounds": [
-        "mob/wolf/whine"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/wolf/whine"
+        ]
     },
     "mob.zombie.remedy": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "mob/zombie/wood1",
-        "mob/zombie/wood2",
-        "mob/zombie/wood3",
-        "mob/zombie/wood4"
-      ]
+        "replace": true,
+        "sounds": [
+            "mob/zombie/wood1",
+            "mob/zombie/wood2",
+            "mob/zombie/wood3",
+            "mob/zombie/wood4"
+        ]
     },
     "music.game": {
-        "category": "neutral",
         "replace": true,
         "sounds": [
             "blank"
-      ]
+        ]
     },
     "music.game.creative": {
-        "category": "neutral",
         "replace": true,
         "sounds": [
             "blank"
-      ]
+        ]
     },
     "music.game.end": {
-        "category": "neutral",
         "replace": true,
         "sounds": [
             "blank"
-      ]
+        ]
     },
     "music.game.end.credits": {
-        "category": "neutral",
         "replace": true,
         "sounds": [
             "blank"
-      ]
+        ]
     },
     "music.game.end.dragon": {
-        "category": "neutral",
         "replace": true,
         "sounds": [
             "blank"
-      ]
+        ]
     },
     "music.game.nether": {
-        "category": "neutral",
         "replace": true,
         "sounds": [
             "blank"
-      ]
+        ]
     },
     "random.anvil_break": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "random/anvil_break"
-      ]
+        "replace": true,
+        "sounds": [
+            "random/anvil_break"
+        ]
     },
     "random.anvil_land": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "random/anvil_land"
-      ]
+        "replace": true,
+        "sounds": [
+            "random/anvil_land"
+        ]
     },
     "random.anvil_use": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "random/anvil_use"
-      ]
+        "replace": true,
+        "sounds": [
+            "random/anvil_use"
+        ]
     },
     "random.bow": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "random/bow"
-      ]
+        "replace": true,
+        "sounds": [
+            "random/bow"
+        ]
     },
     "random.bowhit": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "random/bowhit1",
-        "random/bowhit2",
-        "random/bowhit3",
-        "random/bowhit4"
-      ]
+        "replace": true,
+        "sounds": [
+            "random/bowhit1",
+            "random/bowhit2",
+            "random/bowhit3",
+            "random/bowhit4"
+        ]
     },
     "roamindeath": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roamindeath",
@@ -1857,21 +1659,18 @@
         ]
     },
     "random.drink": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "random/drink"
-      ]
+        "replace": true,
+        "sounds": [
+            "random/drink"
+        ]
     },
     "random.levelup": {
-      "category": "weather",
-      "replace": true,
-      "sounds": [
-        "random/levelup"
-      ]
+        "replace": true,
+        "sounds": [
+            "random/levelup"
+        ]
     },
     "roaminflamethrower": {
-        "category": "weather",
         "sounds": [
             {
                 "name": "roaminflamethrower"
@@ -1879,7 +1678,6 @@
         ]
     },
     "roaminheal": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminheal",
@@ -1888,7 +1686,6 @@
         ]
     },
     "roaminholypurifier1": {
-        "category": "record",
         "sounds": [
             {
                 "name": "roaminholypurifier1",
@@ -1897,7 +1694,6 @@
         ]
     },
     "roaminholypurifier2": {
-        "category": "record",
         "sounds": [
             {
                 "name": "roaminholypurifier2",
@@ -1906,7 +1702,6 @@
         ]
     },
     "roaminholypurifier3": {
-        "category": "record",
         "sounds": [
             {
                 "name": "roaminholypurifier3",
@@ -1915,7 +1710,6 @@
         ]
     },
     "roaminholypurifier4": {
-        "category": "record",
         "sounds": [
             {
                 "name": "roaminholypurifier4",
@@ -1924,7 +1718,6 @@
         ]
     },
     "roaminholypurifier5": {
-        "category": "record",
         "sounds": [
             {
                 "name": "roaminholypurifier5",
@@ -1933,7 +1726,6 @@
         ]
     },
     "roaminlowonarmor1": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminlowonarmor1",
@@ -1942,7 +1734,6 @@
         ]
     },
     "roaminlowonarmor2": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminlowonarmor2",
@@ -1951,7 +1742,6 @@
         ]
     },
     "roaminlowonarmor3": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminlowonarmor3",
@@ -1960,7 +1750,6 @@
         ]
     },
     "roaminlowonmana1": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminlowonmana1",
@@ -1969,7 +1758,6 @@
         ]
     },
     "roaminlowonmana2": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminlowonmana2",
@@ -1978,7 +1766,6 @@
         ]
     },
     "roaminlowonmana3": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminlowonmana3",
@@ -1987,7 +1774,6 @@
         ]
     },
     "roaminoutofammo1": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminoutofammo1",
@@ -1996,7 +1782,6 @@
         ]
     },
     "roaminoutofammo2": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminoutofammo2",
@@ -2005,7 +1790,6 @@
         ]
     },
     "roaminoutofammo3": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminoutofammo3",
@@ -2014,7 +1798,6 @@
         ]
     },
     "roaminrecharged1": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminrecharged1",
@@ -2023,7 +1806,6 @@
         ]
     },
     "roaminrecharged2": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminrecharged2",
@@ -2032,7 +1814,6 @@
         ]
     },
     "roaminrecharged3": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminrecharged3",
@@ -2041,7 +1822,6 @@
         ]
     },
     "roaminrecharged4": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "roaminrecharged4",
@@ -2050,7 +1830,6 @@
         ]
     },
     "goblinaction": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "goblinaction1",
@@ -2083,7 +1862,6 @@
         ]
     },
     "goblinhurt": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "goblinhurt1",
@@ -2116,7 +1894,6 @@
         ]
     },
     "goblindie": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "goblindie1",
@@ -2133,7 +1910,6 @@
         ]
     },
     "goblinspawn": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "goblinspawn1",
@@ -2150,7 +1926,6 @@
         ]
     },
     "goblinkaboomready": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "goblinkaboomready",
@@ -2159,7 +1934,6 @@
         ]
     },
     "goblinkaboomfire": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "goblinkaboomfire",
@@ -2168,7 +1942,6 @@
         ]
     },
     "ogredie": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "ogredie1",
@@ -2189,7 +1962,6 @@
         ]
     },
     "ogreattack": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "ogreattack1",
@@ -2222,7 +1994,6 @@
         ]
     },
     "ogrehurt": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "ogrehurt1",
@@ -2239,7 +2010,6 @@
         ]
     },
     "ogrespawn": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "ogrespawn1",
@@ -2256,7 +2026,6 @@
         ]
     },
     "storejimmy": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "storejimmy1",
@@ -2285,7 +2054,6 @@
         ]
     },
     "monsterheroevent": {
-        "category": "ambient",
         "sounds": [
             {
                 "name": "monsterheroevent",
@@ -2293,8 +2061,7 @@
             }
         ]
     },
-	    "grand_paladin_authorization_required": {
-        "category": "ambient",
+    "grand_paladin_authorization_required": {
         "sounds": [
             {
                 "name": "grand_paladin_authorization_required",
@@ -2302,8 +2069,7 @@
             }
         ]
     },
-	    "musical.levelup": {
-        "category": "ambient",
+    "musical.levelup": {
         "sounds": [
             {
                 "name": "musical.levelup",
@@ -2311,8 +2077,7 @@
             }
         ]
     },
-	    "rat.laugh": {
-        "category": "ambient",
+    "rat.laugh": {
         "sounds": [
             {
                 "name": "rat.laugh",
@@ -2320,8 +2085,7 @@
             }
         ]
     },
-	    "bow.reload": {
-        "category": "ambient",
+    "bow.reload": {
         "sounds": [
             {
                 "name": "bow.reload",
@@ -2329,8 +2093,7 @@
             }
         ]
     },
-	    "sword.prepare": {
-        "category": "ambient",
+    "sword.prepare": {
         "sounds": [
             {
                 "name": "sword.prepare",
@@ -2338,8 +2101,7 @@
             }
         ]
     },
-	    "musical.oldgods": {
-        "category": "ambient",
+    "musical.oldgods": {
         "sounds": [
             {
                 "name": "musical.oldgods",
@@ -2347,8 +2109,7 @@
             }
         ]
     },
-	    "deathsound": {
-        "category": "player",
+    "deathsound": {
         "sounds": [
             {
                 "name": "deathsound",
@@ -2356,8 +2117,7 @@
             }
         ]
     },
-	    "sawmillaccident": {
-        "category": "player",
+    "sawmillaccident": {
         "sounds": [
             {
                 "name": "sawmillaccident",
