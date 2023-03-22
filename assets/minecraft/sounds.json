@@ -1,47 +1,29 @@
 {
-    "ambient.cave.cave": {
+    "ambient.cave": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "ambient.weather.rain": {
+    "weather.rain": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "game.neutral.hurt": {
+    "weather.rain.above": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "game.hostile.hurt": {
+    "entity.player.death": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "game.player.die": {
-        "replace": true,
-        "sounds": [
-            "blank"
-        ]
-    },
-    "game.neutral.die": {
-        "replace": true,
-        "sounds": [
-            "blank"
-        ]
-    },
-    "game.hostile.die": {
-        "replace": true,
-        "sounds": [
-            "blank"
-        ]
-    },
-    "mob.villager.idle": {
+    "entity.villager.ambient": {
         "replace": true,
         "sounds": [
             "blank"
@@ -178,14 +160,6 @@
         "sounds": [
             {
                 "name": "doomeventkrungor",
-                "stream": true
-            }
-        ]
-    },
-    "entity.player.attack.sweep": {
-        "sounds": [
-            {
-                "name": "entity/player/attack/sweep",
                 "stream": true
             }
         ]
@@ -865,15 +839,6 @@
             "daragorworldcracker2"
         ]
     },
-    "dig.gravel": {
-        "replace": true,
-        "sounds": [
-            "dig/gravel1",
-            "dig/gravel2",
-            "dig/gravel3",
-            "dig/gravel4"
-        ]
-    },
     "dvzlore1": {
         "sounds": [
             {
@@ -1249,42 +1214,6 @@
             }
         ]
     },
-    "fireworks.blast": {
-        "replace": true,
-        "sounds": [
-            "fireworks/blast1"
-        ]
-    },
-    "fireworks.blast_far": {
-        "replace": true,
-        "sounds": [
-            "fireworks/blast_far1"
-        ]
-    },
-    "fireworks.largeblast": {
-        "replace": true,
-        "sounds": [
-            "fireworks/largeblast1"
-        ]
-    },
-    "fireworks.largeblast_far": {
-        "replace": true,
-        "sounds": [
-            "fireworks/largeblast_far1"
-        ]
-    },
-    "fireworks.twinkle": {
-        "replace": true,
-        "sounds": [
-            "fireworks/twinkle1"
-        ]
-    },
-    "fireworks.twinkle_far": {
-        "replace": true,
-        "sounds": [
-            "fireworks/twinkle_far1"
-        ]
-    },
     "nisovin.rocketboots": {
         "sounds": [
             {
@@ -1438,216 +1367,142 @@
             }
         ]
     },
-    "mob.enderdragon.end": {
-        "replace": true,
-        "sounds": [
-            "mob/enderdragon/end"
-        ]
-    },
-    "mob.endermen.stare": {
-        "replace": true,
-        "sounds": [
-            "mob/endermen/stare"
-        ]
-    },
-    "mob.irongolem.death": {
-        "replace": true,
-        "sounds": [
-            "mob/irongolem/death"
-        ]
-    },
-    "mob.irongolem.hit": {
-        "replace": true,
-        "sounds": [
-            "mob/irongolem/hit1",
-            "mob/irongolem/hit2",
-            "mob/irongolem/hit3",
-            "mob/irongolem/hit4"
-        ]
-    },
-    "mob.irongolem.throw": {
-        "replace": true,
-        "sounds": [
-            "mob/irongolem/throw"
-        ]
-    },
-    "mob.magmacube.big": {
-        "replace": true,
-        "sounds": [
-            "mob/magmacube/big1",
-            "mob/magmacube/big2",
-            "mob/magmacube/big3",
-            "mob/magmacube/big4"
-        ]
-    },
-    "mob.slime.big": {
-        "replace": true,
-        "sounds": [
-            "mob/slime/big1",
-            "mob/slime/big2",
-            "mob/slime/big3",
-            "mob/slime/big4"
-        ]
-    },
-    "mob.irongolem.walk": {
-        "replace": true,
-        "sounds": [
-            "mob/irongolem/walk1",
-            "mob/irongolem/walk2",
-            "mob/irongolem/walk3",
-            "mob/irongolem/walk4"
-        ]
-    },
-    "mob.wither.hurt": {
-        "replace": true,
-        "sounds": [
-            "mob/wither/hurt1",
-            "mob/wither/hurt2",
-            "mob/wither/hurt3",
-            "mob/wither/hurt4"
-        ]
-    },
-    "mob.wolf.bark": {
-        "replace": true,
-        "sounds": [
-            "mob/wolf/bark1",
-            "mob/wolf/bark2",
-            "mob/wolf/bark3"
-        ]
-    },
-    "mob.wolf.death": {
-        "replace": true,
-        "sounds": [
-            "mob/wolf/death"
-        ]
-    },
-    "mob.wolf.growl": {
-        "replace": true,
-        "sounds": [
-            "mob/wolf/growl1",
-            "mob/wolf/growl2",
-            "mob/wolf/growl3"
-        ]
-    },
-    "mob.wolf.howl": {
-        "replace": true,
-        "sounds": [
-            "mob/wolf/howl1",
-            "mob/wolf/howl2"
-        ]
-    },
-    "mob.wolf.hurt": {
-        "replace": true,
-        "sounds": [
-            "mob/wolf/hurt1",
-            "mob/wolf/hurt2",
-            "mob/wolf/hurt3"
-        ]
-    },
-    "mob.wolf.panting": {
-        "replace": true,
-        "sounds": [
-            "mob/wolf/panting"
-        ]
-    },
-    "mob.wolf.shake": {
-        "replace": true,
-        "sounds": [
-            "mob/wolf/shake"
-        ]
-    },
-    "mob.wolf.step": {
-        "replace": true,
-        "sounds": [
-            "mob/wolf/step1",
-            "mob/wolf/step2",
-            "mob/wolf/step3",
-            "mob/wolf/step4",
-            "mob/wolf/step5"
-        ]
-    },
-    "mob.wolf.whine": {
-        "replace": true,
-        "sounds": [
-            "mob/wolf/whine"
-        ]
-    },
-    "mob.zombie.remedy": {
-        "replace": true,
-        "sounds": [
-            "mob/zombie/wood1",
-            "mob/zombie/wood2",
-            "mob/zombie/wood3",
-            "mob/zombie/wood4"
-        ]
-    },
     "music.game": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "music.game.creative": {
+    "music.creative": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "music.game.end": {
+    "music.end": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "music.game.end.credits": {
+    "music.credits": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "music.game.end.dragon": {
+    "music.dragon": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "music.game.nether": {
+    "music.nether.basalt_deltas": {
         "replace": true,
         "sounds": [
             "blank"
         ]
     },
-    "random.anvil_break": {
+    "music.nether.crimson_forest": {
         "replace": true,
         "sounds": [
-            "random/anvil_break"
+            "blank"
         ]
     },
-    "random.anvil_land": {
+    "music.nether.nether_wastes": {
         "replace": true,
         "sounds": [
-            "random/anvil_land"
+            "blank"
         ]
     },
-    "random.anvil_use": {
+    "music.nether.soul_sand_valley": {
         "replace": true,
         "sounds": [
-            "random/anvil_use"
+            "blank"
         ]
     },
-    "random.bow": {
+    "music.nether.warped_forest": {
         "replace": true,
         "sounds": [
-            "random/bow"
+            "blank"
         ]
     },
-    "random.bowhit": {
+    "music.overworld.deep_dark": {
         "replace": true,
         "sounds": [
-            "random/bowhit1",
-            "random/bowhit2",
-            "random/bowhit3",
-            "random/bowhit4"
+            "blank"
+        ]
+    },
+    "music.overworld.dripstone_caves": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.frozen_peaks": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.grove": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.jagged_peaks": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.jungle_and_forest": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.lush_caves": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.meadow": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.old_growth_taiga": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.snowy_slopes": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.stony_peaks": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.overworld.swamp": {
+        "replace": true,
+        "sounds": [
+            "blank"
+        ]
+    },
+    "music.under_water": {
+        "replace": true,
+        "sounds": [
+            "blank"
         ]
     },
     "roamindeath": {
