@@ -1,33 +1,23 @@
 {
     "ambient.cave": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "weather.rain": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "weather.rain.above": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "entity.player.death": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "entity.villager.ambient": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "activatebow": {
         "sounds": [
@@ -1369,141 +1359,95 @@
     },
     "music.game": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.creative": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.end": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.credits": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.dragon": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.nether.basalt_deltas": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.nether.crimson_forest": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.nether.nether_wastes": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.nether.soul_sand_valley": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.nether.warped_forest": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.deep_dark": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.dripstone_caves": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.frozen_peaks": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.grove": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.jagged_peaks": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.jungle_and_forest": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.lush_caves": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.meadow": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.old_growth_taiga": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.snowy_slopes": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.stony_peaks": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.overworld.swamp": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "music.under_water": {
         "replace": true,
-        "sounds": [
-            "blank"
-        ]
+        "sounds": []
     },
     "roamindeath": {
         "sounds": [
