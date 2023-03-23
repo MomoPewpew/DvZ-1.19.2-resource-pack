@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by Manifusion with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
 "textures": {
-    "LoM_D20_Base": "items/d20base",
-    "LoM_D20_Frame": "items/d20frame"
+    "LoM_D20_Base": "item/d20base",
+    "LoM_D20_Frame": "item/d20frame"
 },
 "elements": [ 
 {

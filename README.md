@@ -256,3 +256,66 @@ The following custom sounds have been added:
 | [`deathsound`](assets/minecraft/sounds/deathsound.ogg?raw=true)                                                     | `player`          |
 | [`sawmillaccident`](assets/minecraft/sounds/sawmillaccident.ogg?raw=true)                                           | `player`          |
 
+## Models
+| name | item | comments |
+| --- | --- | --- |
+| Excaliju | Black Dye | has animation? |
+| Knight Helm | Black Glazed Terracotta | |
+| Imperfect Crown | Black Shulker Box | |
+| Fallen Valk | Black Wool | |
+| Flamethrower | Blaze Rod | |
+| Elven Dagger | Blue Dye | |
+| Mama 5 | Blue Glazed Terracotta | |
+| Shell Wall | Blue Wool | |
+| Runeblade | Brown Dye | |
+| Shaman Mask | Brown Glazed Terracotta | |
+| Pharaoh | Brown Wool | |
+| Mama 2 | Cyan Glazed Terracotta | |
+| Wowzers | Cyan Shulker Box | |
+| Gravedigger | Diamond Shovel | |
+| Warhammer | Diamond Sword | |
+| Jimmy The Rat | Gray Glazed Terracotta | |
+| Gnomish Googles | Gray Wool | |
+| Rainbow Kitty | Green Glazed Terracotta | animated |
+| Chameleon | Green Wool | animated |
+| Beard | Light Blue Wool | |
+| D20 | Lime Candle | |
+| Tophat | Light Gray Glazed Terracotta | |
+| Dragon Warrior | Light Gray Shulker Box | |
+| Mama 4 | Lime Glazed Terracotta | |
+| SOS | Magenta Dye | |
+| Wizard Hat | Magenta Shulker Box | |
+| Roamin Helmet | Magenta Stainded Glass | |
+| Bull Horn | Orange Shulker Box | |
+| Flame Bow | Paper | |
+| Spellbook | Pink Candle | |
+| Mama | Pink Glazed Terracotta | |
+| Paladin Helmet | Pink Wool | |
+| Emerald Bow | Purple Dye | |
+| Tiara | Purple Glazed Terracotta | |
+| The Wolf Hunter | Purple Shulker Box | |
+| Flame Fist | Rabbit Foot | |
+| Malice | Red Dye | |
+| Dwarven Beard | Red Glazed Terracotta | |
+| Dragon's Breath | Red Wool | |
+| Hammer | Stone Sword | |
+| Mama 3 | White Glazed Terracotta | |
+| Nismas Hat | White Wool | |
+| The Buccaneer | Yellow Glazed Terracotta | |
+
+
+
+## Textures
+
+
+# TODO:
+- Move custom resources to dvz namespace
+  - Add warden sounds to sounds.json
+- Rename sounds group related sounds together
+- Update icons.png
+  - hardcore absorption hearts
+  - attack cooldown indicators
+  - freezing hearts
+- Fix Excaliju animation
+- Fix Emerald Bow pulling
+- 

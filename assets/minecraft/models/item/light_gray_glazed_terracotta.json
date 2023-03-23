@@ -2,8 +2,8 @@
 "__comment": "Top Hat",
 "__comment": "Not to be reused. Created for the Lords of Minecraft Server",
 "textures": {
-    "ribbon": "blocks/hats_tophat1",
-    "hat": "blocks/hats_tophat2"
+    "ribbon": "block/hats/hats_tophat1",
+    "hat": "block/hats/hats_tophat2"
 },
 "elements": [ 
 {

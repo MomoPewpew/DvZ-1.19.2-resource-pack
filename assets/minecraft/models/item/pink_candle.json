@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Manifusion with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"tex_smrp_spellbook": "blocks/tex_smrp_spellbook"
+		"tex_smrp_spellbook": "block/tex_smrp_spellbook"
 	},
 	"elements": [ 	 
 		{
