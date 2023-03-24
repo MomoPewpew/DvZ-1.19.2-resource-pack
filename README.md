@@ -302,7 +302,11 @@ The following custom sounds have been added:
 | Mama 3 | White Glazed Terracotta | |
 | Nismas Hat | White Wool | |
 | The Buccaneer | Yellow Glazed Terracotta | |
-
+| Zombie Statue | Acacia Leaves | Walking |
+| Zombie Statue | Acacia Log | Standing |
+| Zombie Statue | Acacia Planks | Crawling |
+| Bruce Statue | Birch Planks | Heroic |
+| Zombie Statue | Jungle Planks | Sneaking |
 
 
 ## Textures
