@@ -1,8 +1,5 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/rabbit_foot"
-	},
+	"parent": "item/vanilla/rabbit_foot",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "item/weapons/excaliju" },
 		{ "predicate": { "custom_model_data": 2 }, "model": "item/weapons/runeblade" },

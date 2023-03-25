@@ -273,6 +273,8 @@ The following custom sounds have been added:
 | Emerald Bow     | `rabbit_foot`, 12       |                |
 | Spellbook       | `rabbit_foot`, 1001     |                |
 | D20             | `rabbit_foot`, 1002     |                |
+| Buckler         | `shield`, 1             |                |
+| Heater          | `shield`, 2             |                |
 | Beard           | `carved_pumpkin`, 1     |                |
 | Dwarven Beard   | `carved_pumpkin`, 2     |                |
 | Roamin Helmet   | `carved_pumpkin`, 3     |                |
