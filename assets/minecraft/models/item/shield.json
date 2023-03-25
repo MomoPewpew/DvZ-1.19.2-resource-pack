@@ -60,6 +60,19 @@
 				"blocking": 1
 			},
 			"model":"item/shields/buckler_blocking"
+		},
+		{
+			"predicate": {
+				"custom_model_data":2
+			},
+			"model":"item/shields/heater"
+		},
+		{
+			"predicate": {
+				"custom_model_data":2,
+				"blocking": 1
+			},
+			"model":"item/shields/heater_blocking"
 		}
     ]
 }
