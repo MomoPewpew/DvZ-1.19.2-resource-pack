@@ -257,56 +257,55 @@ The following custom sounds have been added:
 | [`sawmillaccident`](assets/minecraft/sounds/sawmillaccident.ogg?raw=true)                                           | `player`          |
 
 ## Models
-| name | item | comments |
-| --- | --- | --- |
-| Excaliju | Black Dye | has animation? |
-| Knight Helm | Black Glazed Terracotta | |
-| Imperfect Crown | Black Shulker Box | |
-| Fallen Valk | Black Wool | |
-| Flamethrower | Blaze Rod | |
-| Elven Dagger | Blue Dye | |
-| Mama 5 | Blue Glazed Terracotta | |
-| Shell Wall | Blue Wool | |
-| Runeblade | Brown Dye | |
-| Shaman Mask | Brown Glazed Terracotta | |
-| Pharaoh | Brown Wool | |
-| Mama 2 | Cyan Glazed Terracotta | |
-| Wowzers | Cyan Shulker Box | |
-| Gravedigger | Diamond Shovel | |
-| Warhammer | Diamond Sword | |
-| Jimmy The Rat | Gray Glazed Terracotta | |
-| Gnomish Googles | Gray Wool | |
-| Rainbow Kitty | Green Glazed Terracotta | animated |
-| Chameleon | Green Wool | animated |
-| Beard | Light Blue Wool | |
-| D20 | Lime Candle | |
-| Tophat | Light Gray Glazed Terracotta | |
-| Dragon Warrior | Light Gray Shulker Box | |
-| Mama 4 | Lime Glazed Terracotta | |
-| SOS | Magenta Dye | |
-| Wizard Hat | Magenta Shulker Box | |
-| Roamin Helmet | Magenta Stainded Glass | |
-| Bull Horn | Orange Shulker Box | |
-| Flame Bow | Paper | |
-| Spellbook | Pink Candle | |
-| Mama | Pink Glazed Terracotta | |
-| Paladin Helmet | Pink Wool | |
-| Emerald Bow | Purple Dye | |
-| Tiara | Purple Glazed Terracotta | |
-| The Wolf Hunter | Purple Shulker Box | |
-| Flame Fist | Rabbit Foot | |
-| Malice | Red Dye | |
-| Dwarven Beard | Red Glazed Terracotta | |
-| Dragon's Breath | Red Wool | |
-| Hammer | Stone Sword | |
-| Mama 3 | White Glazed Terracotta | |
-| Nismas Hat | White Wool | |
-| The Buccaneer | Yellow Glazed Terracotta | |
-| Zombie Statue | Acacia Leaves | Walking |
-| Zombie Statue | Acacia Log | Standing |
-| Zombie Statue | Acacia Planks | Crawling |
-| Bruce Statue | Birch Planks | Heroic |
-| Zombie Statue | Jungle Planks | Sneaking |
+| name            | item, custom model data | comments       |
+|-----------------|-------------------------|----------------|
+| Excaliju        | `rabbit_foot`, 1        | has animation? |
+| Runeblade       | `rabbit_foot`, 2        |                |
+| Flamethrower    | `rabbit_foot`, 3        |                |
+| Elven Dagger    | `rabbit_foot`, 4        |                |
+| SOS             | `rabbit_foot`, 5        |                |
+| Warhammer       | `rabbit_foot`, 6        |                |
+| Hammer          | `rabbit_foot`, 7        |                |
+| Malice          | `rabbit_foot`, 8        |                |
+| Gravedigger     | `rabbit_foot`, 9        |                |
+| Flame Fist      | `rabbit_foot`, 10       |                |
+| Flame Bow       | `rabbit_foot`, 11       |                |
+| Emerald Bow     | `rabbit_foot`, 12       |                |
+| Spellbook       | `rabbit_foot`, 1001     |                |
+| D20             | `rabbit_foot`, 1002     |                |
+| Beard           | `carved_pumpkin`, 1     |                |
+| Dwarven Beard   | `carved_pumpkin`, 2     |                |
+| Roamin Helmet   | `carved_pumpkin`, 3     |                |
+| Knight Helm     | `carved_pumpkin`, 4     |                |
+| Wizard Hat      | `carved_pumpkin`, 5     |                |
+| Imperfect Crown | `carved_pumpkin`, 6     |                |
+| Tiara           | `carved_pumpkin`, 7     |                |
+| Shell Wall      | `carved_pumpkin`, 8     |                |
+| Fallen Valk     | `carved_pumpkin`, 9     |                |
+| Pharaoh         | `carved_pumpkin`, 10    |                |
+| The Buccaneer   | `carved_pumpkin`, 11    |                |
+| Shaman Mask     | `carved_pumpkin`, 12    |                |
+| The Wolf Hunter | `carved_pumpkin`, 13    |                |
+| Dragon's Breath | `carved_pumpkin`, 14    | animated       |
+| Bull Horn       | `carved_pumpkin`, 15    |                |
+| Wowzers         | `carved_pumpkin`, 16    |                |
+| Tophat          | `carved_pumpkin`, 17    |                |
+| Gnomish Googles | `carved_pumpkin`, 18    |                |
+| Dragon Warrior  | `carved_pumpkin`, 19    |                |
+| Nismas Hat      | `carved_pumpkin`, 20    |                |
+| Chameleon       | `carved_pumpkin`, 21    | animated       |
+| Rainbow Kitty   | `carved_pumpkin`, 22    | animated       |
+| Mama            | `carved_pumpkin`, 23    |                |
+| Mama 2          | `carved_pumpkin`, 24    |                |
+| Mama 3          | `carved_pumpkin`, 28    |                |
+| Mama 4          | `carved_pumpkin`, 26    |                |
+| Mama 5          | `carved_pumpkin`, 27    |                |
+| Jimmy The Rat   | `carved_pumpkin`, 28    |                |
+| Zombie Statue   | `carved_pumpkin`, 1001  | Walking        |
+| Zombie Statue   | `carved_pumpkin`, 1002  | Standing       |
+| Zombie Statue   | `carved_pumpkin`, 1003  | Crawling       |
+| Zombie Statue   | `carved_pumpkin`, 1004  | Sneaking       |
+| Bruce Statue    | `carved_pumpkin`, 1005  | Heroic         |
 
 
 ## Textures
@@ -321,5 +320,5 @@ The following custom sounds have been added:
   - attack cooldown indicators
   - freezing hearts
 - Fix Excaliju animation
-- Fix Emerald Bow pulling
+- Fix Custom Bow pulling
 - 
