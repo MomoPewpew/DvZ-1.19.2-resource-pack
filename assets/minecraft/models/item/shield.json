@@ -73,6 +73,19 @@
 				"blocking": 1
 			},
 			"model":"item/shields/heater_blocking"
+		},
+		{
+			"predicate": {
+				"custom_model_data":3
+			},
+			"model":"item/shields/targe"
+		},
+		{
+			"predicate": {
+				"custom_model_data":3,
+				"blocking": 1
+			},
+			"model":"item/shields/targe_blocking"
 		}
     ]
 }
