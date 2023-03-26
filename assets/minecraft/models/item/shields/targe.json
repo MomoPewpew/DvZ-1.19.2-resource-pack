@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+    "gui_light": "front",
 	"textures": {
 		"0": "block/redstone_block",
 		"1": "block/ice",
