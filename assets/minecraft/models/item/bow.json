@@ -48,20 +48,20 @@
         },
 		{
             "predicate": {
-				"custom_model_data":1
+				"damage": 0.001
             },
-            "model": "item/bows/emeraldbow"
+            "model": "item/bows/emerald_bow"
         },
 		{
             "predicate": {
-				"custom_model_data":1
+				"damage": 0.001,
                 "pulling": 1
             },
             "model": "item/bow_pulling_0"
         },
         {
             "predicate": {
-				"custom_model_data":1
+				"damage": 0.001,
                 "pulling": 1,
                 "pull": 0.65
             },
@@ -69,7 +69,7 @@
         },
         {
             "predicate": {
-				"custom_model_data":1
+				"damage": 0.001,
                 "pulling": 1,
                 "pull": 0.9
             },
