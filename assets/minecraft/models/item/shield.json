@@ -86,6 +86,19 @@
 				"blocking": 1
 			},
 			"model":"item/shields/targe_blocking"
+		},
+		{
+			"predicate": {
+				"custom_model_data":4
+			},
+			"model":"item/shields/rapier"
+		},
+		{
+			"predicate": {
+				"custom_model_data":4,
+				"blocking": 1
+			},
+			"model":"item/shields/rapier_blocking"
 		}
     ]
 }
