@@ -1,0 +1,182 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_ward"
+  },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data":1
+			},
+			"model":"item/hats/beard1"
+		},
+		{
+			"predicate": {
+				"custom_model_data":2
+			},
+			"model":"item/hats/beard2"
+		},
+		{
+			"predicate": {
+				"custom_model_data":3
+			},
+			"model":"item/hats/buccaneer"
+		},
+		{
+			"predicate": {
+				"custom_model_data":4
+			},
+			"model":"item/hats/bullhorn"
+		},
+		{
+			"predicate": {
+				"custom_model_data":5
+			},
+			"model":"item/hats/chameleon"
+		},
+		{
+			"predicate": {
+				"custom_model_data":6
+			},
+			"model":"item/hats/crown"
+		},
+		{
+			"predicate": {
+				"custom_model_data":7
+			},
+			"model":"item/hats/dragonsbreath"
+		},
+		{
+			"predicate": {
+				"custom_model_data":8
+			},
+			"model":"item/hats/dragonwarrior"
+		},
+		{
+			"predicate": {
+				"custom_model_data":9
+			},
+			"model":"item/hats/fallenvalk"
+		},
+		{
+			"predicate": {
+				"custom_model_data":10
+			},
+			"model":"item/hats/goggles"
+		},
+		{
+			"predicate": {
+				"custom_model_data":11
+			},
+			"model":"item/hats/jimmytherat"
+		},
+		{
+			"predicate": {
+				"custom_model_data":12
+			},
+			"model":"item/hats/knight2"
+		},
+		{
+			"predicate": {
+				"custom_model_data":13
+			},
+			"model":"item/hats/nismas"
+		},
+		{
+			"predicate": {
+				"custom_model_data":14
+			},
+			"model":"item/hats/pharaoh"
+		},
+		{
+			"predicate": {
+				"custom_model_data":15
+			},
+			"model":"item/hats/rainbowkitty"
+		},
+		{
+			"predicate": {
+				"custom_model_data":16
+			},
+			"model":"item/hats/roamin"
+		},
+		{
+			"predicate": {
+				"custom_model_data":17
+			},
+			"model":"item/hats/shamanmask"
+		},
+		{
+			"predicate": {
+				"custom_model_data":18
+			},
+			"model":"item/hats/shellwall"
+		},
+		{
+			"predicate": {
+				"custom_model_data":19
+			},
+			"model":"item/hats/sunglasses"
+		},
+		{
+			"predicate": {
+				"custom_model_data":20
+			},
+			"model":"item/hats/texmama"
+		},
+		{
+			"predicate": {
+				"custom_model_data":21
+			},
+			"model":"item/hats/texmama2"
+		},
+		{
+			"predicate": {
+				"custom_model_data":22
+			},
+			"model":"item/hats/texmama3"
+		},
+		{
+			"predicate": {
+				"custom_model_data":23
+			},
+			"model":"item/hats/texmama4"
+		},
+		{
+			"predicate": {
+				"custom_model_data":24
+			},
+			"model":"item/hats/texmama5"
+		},
+		{
+			"predicate": {
+				"custom_model_data":25
+			},
+			"model":"item/hats/tiara"
+		},
+		{
+			"predicate": {
+				"custom_model_data":26
+			},
+			"model":"item/hats/tophat"
+		},
+		{
+			"predicate": {
+				"custom_model_data":27
+			},
+			"model":"item/hats/tricorne"
+		},
+		{
+			"predicate": {
+				"custom_model_data":28
+			},
+			"model":"item/hats/wizard"
+		},
+		{
+			"predicate": {
+				"custom_model_data":29
+			},
+			"model":"item/hats/wolfhunter"
+		}
+    ]
+}

@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_cat"
+  },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data":1
+			},
+			"model":"item/melee/axeofmalice"
+		},
+		{
+			"predicate": {
+				"custom_model_data":2
+			},
+			"model":"item/melee/elvendagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data":3
+			},
+			"model":"item/melee/excaliju"
+		},
+		{
+			"predicate": {
+				"custom_model_data":4
+			},
+			"model":"item/melee/flamefist"
+		},
+		{
+			"predicate": {
+				"custom_model_data":5
+			},
+			"model":"item/melee/hammer"
+		},
+		{
+			"predicate": {
+				"custom_model_data":6
+			},
+			"model":"item/melee/runeblade"
+		},
+		{
+			"predicate": {
+				"custom_model_data":7
+			},
+			"model":"item/melee/warhammer"
+		}
+    ]
+}
