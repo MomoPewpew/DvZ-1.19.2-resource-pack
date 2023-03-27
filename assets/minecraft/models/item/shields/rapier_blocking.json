@@ -470,7 +470,7 @@
 			"scale": [2.2, 2.2, 2.2]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [90, -20, -70],
+			"rotation": [90, -20, 120],
 			"translation": [3.25, 10.5, 0.75],
 			"scale": [2.2, 2.2, 2.2]
 		},
