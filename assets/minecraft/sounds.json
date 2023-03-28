@@ -1947,5 +1947,13 @@
                 "stream": true
             }
         ]
+    },
+    "nisovin.tinderflameload": {
+        "sounds": [
+            {
+                "name": "nisovin.tinderflameload",
+                "stream": true
+            }
+        ]
     }
 }
