@@ -347,9 +347,7 @@ In addition to adding custom textures for the models, the following textures of 
   - Add warden sounds to sounds.json
 - Rename sounds group related sounds together
 - Update icons.png
-  - hardcore absorption hearts
   - attack cooldown indicators
-  - freezing hearts
 - Fix Excaliju animation
 - Fix Custom Bow pulling
 - 
