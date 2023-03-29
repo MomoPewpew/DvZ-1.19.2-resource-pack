@@ -2,9 +2,9 @@
 "__comment": "Chameleon",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "Lancer_guard": "block/hats/hats_chameleon1",
-    "Lancer_helmet": "block/hats/hats_chameleon2",
-    "Lancer_Insignia": "block/hats/hats_chameleon3"
+    "Lancer_guard": "item/hats/hats_chameleon1",
+    "Lancer_helmet": "item/hats/hats_chameleon2",
+    "Lancer_Insignia": "item/hats/hats_chameleon3"
 },
 "elements": [ 
 {

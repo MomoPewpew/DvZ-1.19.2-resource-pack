@@ -2,8 +2,8 @@
 "__comment": "Bull Horn",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "Overseer_Wing": "block/hats/hats_bullhorn1",
-    "Overseer_Helmet": "block/hats/hats_bullhorn2"
+    "Overseer_Wing": "item/hats/hats_bullhorn1",
+    "Overseer_Helmet": "item/hats/hats_bullhorn2"
 },
 "elements": [ 
 {

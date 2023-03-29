@@ -2,8 +2,8 @@
 "__comment": "Dwarven Beard",
 "__comment": "Not to be reused. Created for the Lords of Minecraft Server",
 "textures": {
-    "hairband": "block/hats/hat_beard2",
-    "beard": "block/hats/hat_beard1"
+    "hairband": "item/hats/hat_dwarven_beard2",
+    "beard": "item/hats/hat_dwarven_beard1"
 },
 "elements": [ 
 {

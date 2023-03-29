@@ -2,10 +2,10 @@
 "__comment": "Fallen Valk",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "Splinter_Base": "block/hats/hats_fallenvalk1",
-    "Splinter_Wing": "block/hats/hats_fallenvalk2",
-    "Splinter_Eye_F": "block/hats/hats_fallenvalk3",
-    "Splinter_Eye_S": "block/hats/hats_fallenvalk4"
+    "Splinter_Base": "item/hats/hats_fallenvalk1",
+    "Splinter_Wing": "item/hats/hats_fallenvalk2",
+    "Splinter_Eye_F": "item/hats/hats_fallenvalk3",
+    "Splinter_Eye_S": "item/hats/hats_fallenvalk4"
 },
 "elements": [ 
 {

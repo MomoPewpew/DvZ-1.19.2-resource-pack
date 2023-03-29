@@ -25,7 +25,7 @@
 		{ "predicate": { "custom_model_data": 22 }, "model": "item/hats/rainbow_kitty" },
 		{ "predicate": { "custom_model_data": 23 }, "model": "item/hats/mama" },
 		{ "predicate": { "custom_model_data": 24 }, "model": "item/hats/mama2" },
-		{ "predicate": { "custom_model_data": 28 }, "model": "item/hats/mama3" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "item/hats/mama3" },
 		{ "predicate": { "custom_model_data": 26 }, "model": "item/hats/mama4" },
 		{ "predicate": { "custom_model_data": 27 }, "model": "item/hats/mama5" },
 		{ "predicate": { "custom_model_data": 28 }, "model": "item/hats/jimmy_the_rat" },

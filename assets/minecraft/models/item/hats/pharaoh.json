@@ -2,10 +2,10 @@
 "__comment": "Pharaoh",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "Luna_Base": "block/hats/hats_pharaoh1",
-    "Luna_Crest": "block/hats/hats_pharaoh2",
-    "Luna_Tassle": "block/hats/hats_pharaoh3",
-    "Luna_Base_bottom": "block/hats/hats_pharaoh4"
+    "Luna_Base": "item/hats/hats_pharaoh1",
+    "Luna_Crest": "item/hats/hats_pharaoh2",
+    "Luna_Tassle": "item/hats/hats_pharaoh3",
+    "Luna_Base_bottom": "item/hats/hats_pharaoh4"
 },
 "elements": [ 
 {

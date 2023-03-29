@@ -2,8 +2,8 @@
 "__comment": "Roamin helmet",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "cross": "block/hats/hats_roamin1",
-    "metal": "block/hats/hats_roamin2"
+    "cross": "item/hats/hats_roamin1",
+    "metal": "item/hats/hats_roamin2"
 },
 "elements": [ 
 {

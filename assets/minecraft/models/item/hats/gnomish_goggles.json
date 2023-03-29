@@ -2,8 +2,8 @@
 "__comment": "Gnomish Googles",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "Band": "block/hats/hats_goggles1",
-    "Googles": "block/hats/hats_goggles2"
+    "Band": "item/hats/hats_goggles1",
+    "Googles": "item/hats/hats_goggles2"
 },
 "elements": [ 
 {

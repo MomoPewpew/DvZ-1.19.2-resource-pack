@@ -2,11 +2,11 @@
 "__comment": "Dragon's Breath",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "headhunter_helmet": "block/hats/hats_dragonsbreath1",
-    "headhunter_Hair": "block/hats/hats_dragonsbreath2",
-    "headhunter_Clasp": "block/hats/hats_dragonsbreath3",
-    "headhunter_Emblem": "block/hats/hats_dragonsbreath4",
-    "headhunter_Strap": "block/hats/hats_dragonsbreath5"
+    "headhunter_helmet": "item/hats/hats_dragonsbreath1",
+    "headhunter_Hair": "item/hats/hats_dragonsbreath2",
+    "headhunter_Clasp": "item/hats/hats_dragonsbreath3",
+    "headhunter_Emblem": "item/hats/hats_dragonsbreath4",
+    "headhunter_Strap": "item/hats/hats_dragonsbreath5"
 },
 "elements": [ 
 {

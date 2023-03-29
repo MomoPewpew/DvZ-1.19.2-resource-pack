@@ -1,0 +1,26 @@
+{
+	"parent": "item/vanilla/music_disc_cat",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/weapons/excaliju" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "item/weapons/runeblade" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/weapons/flamethrower" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/weapons/elven_dagger" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/weapons/sos" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "item/weapons/warhammer" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "item/weapons/hammer" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "item/weapons/malice" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "item/weapons/gravedigger" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "item/weapons/flame_fist" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "item/weapons/flame_bow" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "item/weapons/emerald_bow" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "item/weapons/wand_of_fire" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "item/weapons/tombmaker" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "item/weapons/staff_of_defile" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "item/weapons/wand_of_limited_probabilities" },
+		{ "predicate": { "custom_model_data": 17 }, "model": "item/weapons/tinder_flame" },
+		{ "predicate": { "custom_model_data": 18 }, "model": "item/weapons/dwarven_crossbow" },
+		{ "predicate": { "custom_model_data": 19 }, "model": "item/weapons/wiggly_wrench" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "item/tools/quiver" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "item/tools/spellbook" }
+	]
+}

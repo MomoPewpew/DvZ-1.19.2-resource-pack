@@ -2,8 +2,8 @@
 "__comment": "Wowzers",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "glass": "block/hats/hat_sunglasses2",
-    "texture": "block/hats/hat_sunglasses1"
+    "glass": "item/hats/hat_sunglasses2",
+    "texture": "item/hats/hat_sunglasses1"
 },
 "elements": [ 
 {

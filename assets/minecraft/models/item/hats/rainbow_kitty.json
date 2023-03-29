@@ -2,8 +2,8 @@
 "__comment": "Rainbow Kitty",
 "__comment": "Not to be reused. Created for the Lords of Minecraft Server",
 "textures": {
-    "Face": "block/hats/hats_rainbowkitty2",
-    "Fur": "block/hats/hats_rainbowkitty1"
+    "Face": "item/hats/hats_rainbowkitty2",
+    "Fur": "item/hats/hats_rainbowkitty1"
 },
 "elements": [ 
 {

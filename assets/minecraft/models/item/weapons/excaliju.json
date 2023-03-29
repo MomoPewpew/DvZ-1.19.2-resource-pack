@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"handle": "item/excaliju_handle",
-		"blade": "item/excaliju_blade",
-		"blunt": "item/excaliju_blunt",
-		"arch": "item/excaliju_arch",
-		"animation": "item/excaliju_animation",
-		"Gem": "item/excaliju_emerald"
+		"handle": "item/weapons/excaliju_handle",
+		"blade": "item/weapons/excaliju_blade",
+		"blunt": "item/weapons/excaliju_blunt",
+		"arch": "item/weapons/excaliju_arch",
+		"animation": "item/weapons/excaliju_animation",
+		"Gem": "item/weapons/excaliju_emerald"
 	},
 	"elements": [
 		{

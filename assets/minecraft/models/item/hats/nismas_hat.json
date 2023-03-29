@@ -2,8 +2,8 @@
 "__comment": "Nismas Hat",
 "__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
 "textures": {
-    "Santa_Hat_Main": "block/hats/hat_nismasmain",
-    "Santa_Fluff_Fluff": "block/hats/hat_nismasfluff"
+    "Santa_Hat_Main": "item/hats/hat_nismasmain",
+    "Santa_Fluff_Fluff": "item/hats/hat_nismasfluff"
 },
 "elements": [ 
 {
