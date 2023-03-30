@@ -360,6 +360,63 @@ The following textures of mobs have been changed:
 - Demon Warden - `textures/entity/warden/warden_pulsating_spots_1.png`
 - Demon Warden - `textures/entity/warden/warden_pulsating_spots_2.png`
 
+The following armor textures have been changed:
+- `textures/models/armor/chainmail_layer_1.png`
+- `textures/models/armor/chainmail_layer_2.png`
+- `textures/models/armor/diamond_layer_1.png`
+- `textures/models/armor/diamond_layer_2.png`
+- `textures/models/armor/iron_layer_1.png`
+- `textures/models/armor/iron_layer_2.png`
+
+The following blocks have been changed:
+- Sword Pickup - `textures/blocks/ladder.png`
+- Bow Pickup - `textures/blocks/detector_rail.png`
+- Shovel Pickup - `textures/blocks/powered_rail.png`
+- Axe Pickup - `textures/blocks/rail.png`
+- Pickaxe Pickup - `textures/blocks/activator_rail.png`
+- Juice Pickup - `textures/blocks/redstone_torch.png`
+- Juice Pickup - `textures/blocks/redstone_torch_off.png`
+- Sawmill - `textures/blocks/iron_bars.png`
+- Conveyor Belt - `textures/blocks/piston_side.png`
+- Conveyor Belt - `textures/blocks/piston_top_normal.png`
+- Conveyor Belt - `textures/blocks/piston_top_sticky.png`
+- Oil - `textures/blocks/sponge.png`
+- Blue Bricks - `textures/blocks/lapis_ore.png`
+- Darker Stone - `textures/blocks/bedrock.png`
+- Shrine - `textures/blocks/end_portal_frame_side.png`
+- Shrine - `textures/blocks/end_portal_frame_top.png`
+- Goblin Bomb - `textures/blocks/end_stone.png`
+- Gobo TNT - `textures/blocks/tnt_bottom.png`
+- Gobo TNT - `textures/blocks/tnt_side.png`
+- Gobo TNT - `textures/blocks/tnt_top.png`
+- Smooth Gold - `textures/blocks/gold_block.png`
+- Armor Crafting Mk. 1 - `textures/blocks/orange_wool.png`
+- Armor Crafting Mk. 2 - `textures/blocks/yellow_wool.png`
+- Armor Crafting Mk. 3 - `textures/blocks/magenta_wool.png`
+- Spider Poison - `textures/blocks/lime_wool.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_bottom.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_side.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_side_bloom.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_top.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_top_bloom.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_bottom.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_side.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_tendril_active.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_tendril_inactive.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_top.png`
+- Demon Shrieker - `textures/blocks/skulk_shrieker_bottom.png`
+- Demon Shrieker - `textures/blocks/sculk_shrieker_can_summon_inner_top.png`
+- Demon Shrieker - `textures/blocks/sculk_shrieker_inner_top.png`
+- Demon Shrieker - `textures/blocks/skulk_shrieker_side.png`
+- Demon Shrieker - `textures/blocks/skulk_shrieker_top.png`
+- Demon Vein - `textures/blocks/skulk_vein.png`
+- Demon Block - `textures/blocks/skulk.png`
+- Demon Campfire - `textures/blocks/soul_campfire_fire.png`
+- Demon Campfire - `textures/blocks/soul_campfire_log_lit.png`
+- Demon Fire - `textures/blocks/soul_fire_0.png`
+- Demon Fire - `textures/blocks/soul_fire_1.png`
+- Demon Lantern - `textures/blocks/soul_lantern.png`
+
 # TODO:
 - Move custom resources to dvz namespace
   - Add warden sounds to sounds.json
@@ -369,3 +426,4 @@ The following textures of mobs have been changed:
 - Fix Excaliju animation
 - Fix Custom Bow pulling
 - retexture dragon fireball
+- replace custom block textures in the model files rather than overwriting vanilla textures (see pumpkin)
