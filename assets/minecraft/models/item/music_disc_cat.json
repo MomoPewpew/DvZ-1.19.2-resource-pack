@@ -19,7 +19,7 @@
 		{ "predicate": { "custom_model_data": 16 }, "model": "item/weapons/wand_of_limited_probabilities" },
 		{ "predicate": { "custom_model_data": 17 }, "model": "item/weapons/tinder_flame" },
 		{ "predicate": { "custom_model_data": 18 }, "model": "item/weapons/dwarven_crossbow" },
-		{ "predicate": { "custom_model_data": 19 }, "model": "item/weapons/wiggly_wrench" },
+		{ "predicate": { "custom_model_data": 19 }, "model": "item/tools/wiggly_wrench" },
 		{ "predicate": { "custom_model_data": 20 }, "model": "item/tools/quiver" },
 		{ "predicate": { "custom_model_data": 21 }, "model": "item/tools/spellbook" }
 	]
