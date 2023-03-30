@@ -346,6 +346,20 @@ In addition to adding custom textures for the models, the following textures of 
 - `textures/item/gold_nugget.png`
 - `textures/item/goat_horn.png`
 
+The following textures of mobs have been changed:
+- Gobo - `textures/entity/creeper/creeper.png`
+- Vlaurunga - `textures/entity/enderdragon/dragon.png`
+- Vlaurunga - `textures/entity/enderdragon/dragon_eyes.png`
+- Sandworm - `textures/entity/ghast/ghast.png`
+- Sandworm - `textures/entity/ghast/ghast_shooting.png`
+- Lava Spider - `textures/entity/spider/spider.png`
+- Nostalgia - `textures/entity/spider/cave_spider.png`
+- Demon Warden - `textures/entity/warden/warden.png`
+- Demon Warden - `textures/entity/warden/warden_bioluminescent_layer.png`
+- Demon Warden - `textures/entity/warden/warden_heart.png`
+- Demon Warden - `textures/entity/warden/warden_pulsating_spots_1.png`
+- Demon Warden - `textures/entity/warden/warden_pulsating_spots_2.png`
+
 # TODO:
 - Move custom resources to dvz namespace
   - Add warden sounds to sounds.json
