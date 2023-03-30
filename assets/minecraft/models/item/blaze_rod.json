@@ -7949,5 +7949,13 @@
 			"translation":  [ 1, 0, 0.8 ],
 			"scale":  [ 1.2, 1.2, 1.2 ]
 		}
-	}
+	},
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data":1
+			},
+			"model":"item/items/foamer"
+		}
+    ]
 }
