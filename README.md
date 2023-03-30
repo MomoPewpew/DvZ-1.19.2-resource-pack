@@ -353,7 +353,7 @@ The following textures of mobs have been changed:
 - Sandworm - `textures/entity/ghast/ghast.png`
 - Sandworm - `textures/entity/ghast/ghast_shooting.png`
 - Lava Spider - `textures/entity/spider/spider.png`
-- Nostalgia - `textures/entity/spider/cave_spider.png`
+- Poison Spider - `textures/entity/spider/cave_spider.png`
 - Demon Warden - `textures/entity/warden/warden.png`
 - Demon Warden - `textures/entity/warden/warden_bioluminescent_layer.png`
 - Demon Warden - `textures/entity/warden/warden_heart.png`
