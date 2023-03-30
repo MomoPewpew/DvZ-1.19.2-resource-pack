@@ -255,6 +255,7 @@ The following custom sounds have been added:
 | [`musical.oldgods`](assets/minecraft/sounds/musical.oldgods.ogg?raw=true)                                           | `ambient`         |
 | [`deathsound`](assets/minecraft/sounds/deathsound.ogg?raw=true)                                                     | `player`          |
 | [`sawmillaccident`](assets/minecraft/sounds/sawmillaccident.ogg?raw=true)                                           | `player`          |
+| [`nisovin.tinderflameload`](assets/minecraft/sounds/nisovin.tinderflameload.ogg?raw=true)                           | `weather`         |
 
 ## Models
 The following items are used for different categories of custom models:
@@ -295,6 +296,7 @@ The following items are used for different categories of custom models:
 | Dwarven Log                   | `rabbit_foot`, 5        |                                   |
 | Dwarven Planks                | `rabbit_foot`, 6        |                                   |
 | Buffalo Horn                  | `goat_horn`, 1          |                                   |
+| Lumberjack Axe                | `stone_axe`, 1          |                                   |
 | Dwarven Pickaxe               | `iron_pickaxe`, 1       |                                   |
 | Dwarven Shovel                | `iron_shovel`, 1        |                                   |
 | Dwarven Axe                   | `iron_axe`, 1           |                                   |
@@ -302,6 +304,8 @@ The following items are used for different categories of custom models:
 | Dwarven Chestplate            | `diamond_chestplate`, 1 |                                   |
 | Buckler                       | `shield`, 1             |                                   |
 | Heater                        | `shield`, 2             |                                   |
+| Targe                         | `shield`, 3             |                                   |
+| Rapier                        | `shield`, 4             |                                   |
 | Beard                         | `carved_pumpkin`, 1     |                                   |
 | Dwarven Beard                 | `carved_pumpkin`, 2     |                                   |
 | Roamin Helmet                 | `carved_pumpkin`, 3     |                                   |

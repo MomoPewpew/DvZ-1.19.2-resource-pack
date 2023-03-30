@@ -48,6 +48,42 @@
             "toolwoodchop4"
         ]
     },
+    "axe.chop": {
+        "sounds": [
+            "axe/axe.chop1",
+            "axe/axe.chop2",
+            "axe/axe.chop3",
+            "axe/axe.chop4",
+			"axe/axe.chop5"
+        ]
+    },
+    "axe.timber": {
+        "sounds": [
+            "axe/axe.timber1",
+            "axe/axe.timber2",
+            "axe/axe.timber3",
+            "axe/axe.timber4",
+			"axe/axe.timber5"
+        ]
+    },
+    "pickaxe.mine": {
+        "sounds": [
+            "pickaxe/pickaxe.mine1",
+            "pickaxe/pickaxe.mine2",
+            "pickaxe/pickaxe.mine3",
+            "pickaxe/pickaxe.mine4",
+			"pickaxe/pickaxe.mine5"
+        ]
+    },
+    "pickaxe.break": {
+        "sounds": [
+            "pickaxe/pickaxe.break1",
+            "pickaxe/pickaxe.break2",
+            "pickaxe/pickaxe.break3",
+            "pickaxe/pickaxe.break4",
+			"pickaxe/pickaxe.break5"
+        ]
+    },
     "wpnmonstersmash": {
         "sounds": [
             "wpnmonstersmash1",
@@ -1944,6 +1980,14 @@
         "sounds": [
             {
                 "name": "sawmillaccident",
+                "stream": true
+            }
+        ]
+    },
+    "nisovin.tinderflameload": {
+        "sounds": [
+            {
+                "name": "nisovin.tinderflameload",
                 "stream": true
             }
         ]

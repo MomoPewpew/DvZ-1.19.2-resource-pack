@@ -3,7 +3,7 @@
 	"textures": {
 		"flamethrower_paladin_accessory": "item/weapons/dvz_flamer_accessory_paladin",
 		"flamethrower_paladin_barrel": "item/weapons/dvz_flamer_barrel_paladin",
-		"flamethrower_paladin_chassis": "item/weapons/dvz_flamer_chassis_paladin",
+		"flamethrower_paladin_chassis": "item/weapons/dvz_foamer_chassis_paladin",
 		"flamethrower_paladin_handle": "item/weapons/dvz_flamer_handle_paladin",
 		"flamethrower_paladin_hose": "item/weapons/dvz_flamer_hose_paladin"
 	},
@@ -7949,13 +7949,5 @@
 			"translation":  [ 1, 0, 0.8 ],
 			"scale":  [ 1.2, 1.2, 1.2 ]
 		}
-	},
-    "overrides": [
-		{
-			"predicate": {
-				"custom_model_data":1
-			},
-			"model":"item/items/foamer"
-		}
-    ]
+	}
 }

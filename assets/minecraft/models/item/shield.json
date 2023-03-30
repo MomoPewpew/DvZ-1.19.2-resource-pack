@@ -5,6 +5,10 @@
 		{ "predicate": { "custom_model_data": 1, "blocking": 0 }, "model": "item/shields/buckler" },
 		{ "predicate": { "custom_model_data": 1, "blocking": 1 }, "model": "item/shields/buckler_blocking" },
 		{ "predicate": { "custom_model_data": 2, "blocking": 0 }, "model": "item/shields/heater" },
-		{ "predicate": { "custom_model_data": 2, "blocking": 1 }, "model": "item/shields/heater_blocking" }
+		{ "predicate": { "custom_model_data": 2, "blocking": 1 }, "model": "item/shields/heater_blocking" },
+		{ "predicate": { "custom_model_data": 3, "blocking": 0 }, "model": "item/shields/targe" },
+		{ "predicate": { "custom_model_data": 3, "blocking": 1 }, "model": "item/shields/targe_blocking" },
+		{ "predicate": { "custom_model_data": 4, "blocking": 0 }, "model": "item/shields/rapier" },
+		{ "predicate": { "custom_model_data": 4, "blocking": 1 }, "model": "item/shields/rapier_blocking" }
 	]
 }
