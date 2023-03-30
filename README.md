@@ -354,4 +354,4 @@ In addition to adding custom textures for the models, the following textures of 
   - attack cooldown indicators
 - Fix Excaliju animation
 - Fix Custom Bow pulling
-- 
+- retexture dragon fireball
