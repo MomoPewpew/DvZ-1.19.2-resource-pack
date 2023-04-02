@@ -84,6 +84,22 @@
 			"pickaxe/pickaxe.break5"
         ]
     },
+	"pop": {
+        "sounds": [
+            {
+                "name": "misc/pop",
+                "stream": true
+            }
+        ]
+    },
+	"d20": {
+        "sounds": [
+            {
+                "name": "misc/d20",
+                "stream": true
+            }
+        ]
+    },
     "wpnmonstersmash": {
         "sounds": [
             "wpnmonstersmash1",
