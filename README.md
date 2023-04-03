@@ -340,6 +340,7 @@ The following items are used for different categories of custom models:
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
 | Zombie Statue                 | `carved_pumpkin`, 1004  | Sneaking                          |
 | Bruce Statue                  | `carved_pumpkin`, 1005  | Heroic                            |
+| Tinder Flame (3D model)       | `spyglass`, 1           |                                   |
 
 
 ## Textures
