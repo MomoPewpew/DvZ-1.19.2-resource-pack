@@ -19,6 +19,10 @@
         "replace": true,
         "sounds": []
     },
+    "item.goat_horn.sound.0": {
+        "replace": true,
+        "sounds": []
+    },
     "activatebow": {
         "sounds": [
             "activatebow"

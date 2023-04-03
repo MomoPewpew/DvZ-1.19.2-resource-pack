@@ -47,6 +47,7 @@ The following default sounds have been removed:
 - `music.overworld.stony_peaks`
 - `music.overworld.swamp`
 - `music.under_water`
+- `item.goat_horn.sound.0`
 
 The following default sounds have been replaced by custom sounds:
 - [`entity.arrow.shoot`](assets/minecraft/sounds/random/bow.ogg?raw=true)
