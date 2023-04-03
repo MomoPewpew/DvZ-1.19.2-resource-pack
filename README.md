@@ -256,3 +256,174 @@ The following custom sounds have been added:
 | [`deathsound`](assets/minecraft/sounds/deathsound.ogg?raw=true)                                                     | `player`          |
 | [`sawmillaccident`](assets/minecraft/sounds/sawmillaccident.ogg?raw=true)                                           | `player`          |
 | [`nisovin.tinderflameload`](assets/minecraft/sounds/nisovin.tinderflameload.ogg?raw=true)                           | `weather`         |
+
+## Models
+The following items are used for different categories of custom models:
+- Weapons/Tools: `music_disc_cat` - No crafting recipes, unplacable, unstackable
+- Items: `rabbit_foot` - No crafting recipes, unplacable, stackable
+- Hats/Helmets: `carved_pumpkin` - Wearable, no crafting recipes, but unfortunately placable and stackable
+- Statues: also `carved_pumpkin` - Easy to place on armor stand, but current models have to be reworked for this
+- Tools: nearest vanilla tool - depends on mining speed, (can be enchanted?)
+- Special exceptions based on vanilla mechanics (Shields, Buffalo Horn, etc.)
+
+| name                          | item, custom model data | comments                          |
+|-------------------------------|-------------------------|-----------------------------------|
+| Excaliju                      | `music_disc_cat`, 1     | has animation?                    |
+| Runeblade                     | `music_disc_cat`, 2     |                                   |
+| Flamethrower                  | `music_disc_cat`, 3     |                                   |
+| Elven Dagger                  | `music_disc_cat`, 4     |                                   |
+| SOS                           | `music_disc_cat`, 5     |                                   |
+| Warhammer                     | `music_disc_cat`, 6     |                                   |
+| Hammer                        | `music_disc_cat`, 7     |                                   |
+| Malice                        | `music_disc_cat`, 8     |                                   |
+| Gravedigger                   | `music_disc_cat`, 9     |                                   |
+| Flame Fist                    | `music_disc_cat`, 10    |                                   |
+| Flame Bow                     | `music_disc_cat`, 11    |                                   |
+| Emerald Bow                   | `music_disc_cat`, 12    |                                   |
+| Wand of Fire                  | `music_disc_cat`, 13    |                                   |
+| Tombmaker                     | `music_disc_cat`, 14    |                                   |
+| Staff of Defile               | `music_disc_cat`, 15    |                                   |
+| Wand of Limited Probabilities | `music_disc_cat`, 16    |                                   |
+| Tinder Flame                  | `music_disc_cat`, 17    |                                   |
+| Dwarven Crossbow              | `music_disc_cat`, 18    | needs to be converted to 3d model |
+| Wiggly Wrench                 | `music_disc_cat`, 19    |                                   |
+| Quiver                        | `music_disc_cat`, 20    |                                   |
+| Spellbook                     | `music_disc_cat`, 21    |                                   |
+| D20                           | `rabbit_foot`, 1        |                                   |
+| Scroll                        | `rabbit_foot`, 2        |                                   |
+| Mortar                        | `rabbit_foot`, 3        |                                   |
+| Wizard Mortar                 | `rabbit_foot`, 4        |                                   |
+| Dwarven Log                   | `rabbit_foot`, 5        |                                   |
+| Dwarven Planks                | `rabbit_foot`, 6        |                                   |
+| Buffalo Horn                  | `goat_horn`, 1          |                                   |
+| Lumberjack Axe                | `stone_axe`, 1          |                                   |
+| Dwarven Pickaxe               | `iron_pickaxe`, 1       |                                   |
+| Dwarven Shovel                | `iron_shovel`, 1        |                                   |
+| Dwarven Axe                   | `iron_axe`, 1           |                                   |
+| Ancient Pickaxe               | `diamond_pickaxe`, 1    |                                   |
+| Dwarven Chestplate            | `diamond_chestplate`, 1 |                                   |
+| Buckler                       | `shield`, 1             |                                   |
+| Heater                        | `shield`, 2             |                                   |
+| Targe                         | `shield`, 3             |                                   |
+| Rapier                        | `shield`, 4             |                                   |
+| Beard                         | `carved_pumpkin`, 1     |                                   |
+| Dwarven Beard                 | `carved_pumpkin`, 2     |                                   |
+| Roamin Helmet                 | `carved_pumpkin`, 3     |                                   |
+| Knight Helm                   | `carved_pumpkin`, 4     |                                   |
+| Wizard Hat                    | `carved_pumpkin`, 5     |                                   |
+| Imperfect Crown               | `carved_pumpkin`, 6     |                                   |
+| Tiara                         | `carved_pumpkin`, 7     |                                   |
+| Shell Wall                    | `carved_pumpkin`, 8     |                                   |
+| Fallen Valk                   | `carved_pumpkin`, 9     |                                   |
+| Pharaoh                       | `carved_pumpkin`, 10    |                                   |
+| The Buccaneer                 | `carved_pumpkin`, 11    |                                   |
+| Shaman Mask                   | `carved_pumpkin`, 12    |                                   |
+| The Wolf Hunter               | `carved_pumpkin`, 13    |                                   |
+| Dragon's Breath               | `carved_pumpkin`, 14    | animated                          |
+| Bull Horn                     | `carved_pumpkin`, 15    |                                   |
+| Wowzers                       | `carved_pumpkin`, 16    |                                   |
+| Tophat                        | `carved_pumpkin`, 17    |                                   |
+| Gnomish Googles               | `carved_pumpkin`, 18    |                                   |
+| Dragon Warrior                | `carved_pumpkin`, 19    |                                   |
+| Nismas Hat                    | `carved_pumpkin`, 20    |                                   |
+| Chameleon                     | `carved_pumpkin`, 21    | animated                          |
+| Rainbow Kitty                 | `carved_pumpkin`, 22    | animated                          |
+| Mama                          | `carved_pumpkin`, 23    |                                   |
+| Mama 2                        | `carved_pumpkin`, 24    | blue                              |
+| Mama 3                        | `carved_pumpkin`, 28    | purple                            |
+| Mama 4                        | `carved_pumpkin`, 26    | orange                            |
+| Mama 5                        | `carved_pumpkin`, 27    | green                             |
+| Jimmy The Rat                 | `carved_pumpkin`, 28    |                                   |
+| Zombie Statue                 | `carved_pumpkin`, 1001  | Walking                           |
+| Zombie Statue                 | `carved_pumpkin`, 1002  | Standing                          |
+| Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
+| Zombie Statue                 | `carved_pumpkin`, 1004  | Sneaking                          |
+| Bruce Statue                  | `carved_pumpkin`, 1005  | Heroic                            |
+
+
+## Textures
+In addition to adding custom textures for the models, the following textures of existing items have been changed:
+- `textures/item/gold_nugget.png`
+- `textures/item/goat_horn.png`
+
+The following textures of mobs have been changed:
+- Gobo - `textures/entity/creeper/creeper.png`
+- Vlaurunga - `textures/entity/enderdragon/dragon.png`
+- Vlaurunga - `textures/entity/enderdragon/dragon_eyes.png`
+- Sandworm - `textures/entity/ghast/ghast.png`
+- Sandworm - `textures/entity/ghast/ghast_shooting.png`
+- Lava Spider - `textures/entity/spider/spider.png`
+- Poison Spider - `textures/entity/spider/cave_spider.png`
+- Demon Warden - `textures/entity/warden/warden.png`
+- Demon Warden - `textures/entity/warden/warden_bioluminescent_layer.png`
+- Demon Warden - `textures/entity/warden/warden_heart.png`
+- Demon Warden - `textures/entity/warden/warden_pulsating_spots_1.png`
+- Demon Warden - `textures/entity/warden/warden_pulsating_spots_2.png`
+
+The following armor textures have been changed:
+- `textures/models/armor/chainmail_layer_1.png`
+- `textures/models/armor/chainmail_layer_2.png`
+- `textures/models/armor/diamond_layer_1.png`
+- `textures/models/armor/diamond_layer_2.png`
+- `textures/models/armor/iron_layer_1.png`
+- `textures/models/armor/iron_layer_2.png`
+
+The following blocks have been changed:
+- Sword Pickup - `textures/blocks/ladder.png`
+- Bow Pickup - `textures/blocks/detector_rail.png`
+- Shovel Pickup - `textures/blocks/powered_rail.png`
+- Axe Pickup - `textures/blocks/rail.png`
+- Pickaxe Pickup - `textures/blocks/activator_rail.png`
+- Juice Pickup - `textures/blocks/redstone_torch.png`
+- Juice Pickup - `textures/blocks/redstone_torch_off.png`
+- Sawmill - `textures/blocks/iron_bars.png`
+- Conveyor Belt - `textures/blocks/piston_side.png`
+- Conveyor Belt - `textures/blocks/piston_top_normal.png`
+- Conveyor Belt - `textures/blocks/piston_top_sticky.png`
+- Oil - `textures/blocks/sponge.png`
+- Blue Bricks - `textures/blocks/lapis_ore.png`
+- Darker Stone - `textures/blocks/bedrock.png`
+- Shrine - `textures/blocks/end_portal_frame_side.png`
+- Shrine - `textures/blocks/end_portal_frame_top.png`
+- Goblin Bomb - `textures/blocks/end_stone.png`
+- Gobo TNT - `textures/blocks/tnt_bottom.png`
+- Gobo TNT - `textures/blocks/tnt_side.png`
+- Gobo TNT - `textures/blocks/tnt_top.png`
+- Smooth Gold - `textures/blocks/gold_block.png`
+- Armor Crafting Mk. 1 - `textures/blocks/orange_wool.png`
+- Armor Crafting Mk. 2 - `textures/blocks/yellow_wool.png`
+- Armor Crafting Mk. 3 - `textures/blocks/magenta_wool.png`
+- Spider Poison - `textures/blocks/lime_wool.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_bottom.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_side.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_side_bloom.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_top.png`
+- Demon Catalyst - `textures/blocks/skulk_catalyst_top_bloom.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_bottom.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_side.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_tendril_active.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_tendril_inactive.png`
+- Demon Sensor - `textures/blocks/skulk_sensor_top.png`
+- Demon Shrieker - `textures/blocks/skulk_shrieker_bottom.png`
+- Demon Shrieker - `textures/blocks/sculk_shrieker_can_summon_inner_top.png`
+- Demon Shrieker - `textures/blocks/sculk_shrieker_inner_top.png`
+- Demon Shrieker - `textures/blocks/skulk_shrieker_side.png`
+- Demon Shrieker - `textures/blocks/skulk_shrieker_top.png`
+- Demon Vein - `textures/blocks/skulk_vein.png`
+- Demon Block - `textures/blocks/skulk.png`
+- Demon Campfire - `textures/blocks/soul_campfire_fire.png`
+- Demon Campfire - `textures/blocks/soul_campfire_log_lit.png`
+- Demon Fire - `textures/blocks/soul_fire_0.png`
+- Demon Fire - `textures/blocks/soul_fire_1.png`
+- Demon Lantern - `textures/blocks/soul_lantern.png`
+
+# TODO:
+- Move custom resources to dvz namespace
+  - Add warden sounds to sounds.json
+- Rename sounds group related sounds together
+- Update icons.png
+  - attack cooldown indicators
+- Fix Excaliju animation
+- Fix Custom Bow pulling
+- retexture dragon fireball
+- replace custom block textures in the model files rather than overwriting vanilla textures (see pumpkin)
