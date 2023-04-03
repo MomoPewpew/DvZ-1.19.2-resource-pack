@@ -305,6 +305,7 @@ The following items are used for different categories of custom models:
 | Wizard Mortar                 | `rabbit_foot`, 4        |                                   |
 | Dwarven Log                   | `rabbit_foot`, 5        |                                   |
 | Dwarven Planks                | `rabbit_foot`, 6        |                                   |
+| Invisible                     | `rabbit_foot`, 7        |                                   |
 | Buffalo Horn                  | `goat_horn`, 1          |                                   |
 | Lumberjack Axe                | `stone_axe`, 1          |                                   |
 | Dwarven Pickaxe               | `iron_pickaxe`, 1       |                                   |
