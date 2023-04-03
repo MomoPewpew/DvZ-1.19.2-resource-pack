@@ -371,6 +371,12 @@ The following textures of mobs have been changed:
 - Demon Warden - `textures/entity/warden/warden_heart.png`
 - Demon Warden - `textures/entity/warden/warden_pulsating_spots_1.png`
 - Demon Warden - `textures/entity/warden/warden_pulsating_spots_2.png`
+- Wolf - `textures/entity/wolf/wolf.png`
+- Wolf - `textures/entity/wolf/wolf_angry.png`
+- Nisovin - `textures/entity/zombie/husk.png`
+- Pause Blaze - `textures/entity/blaze.png`
+- Swammy - `textures/entity/endermite.png`
+- Bone Phantom - `textures/entity/phantom.png`
 
 The following armor textures have been changed:
 - `textures/models/armor/chainmail_layer_1.png`
@@ -439,3 +445,4 @@ The following blocks have been changed:
 - Fix Custom Bow pulling
 - retexture dragon fireball
 - replace custom block textures in the model files rather than overwriting vanilla textures (see pumpkin)
+- Modify Zombified Piglin texture similar to the old Zombie Pigman
