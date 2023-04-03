@@ -256,7 +256,13 @@ The following custom sounds have been added:
 | [`musical.oldgods`](assets/minecraft/sounds/musical.oldgods.ogg?raw=true)                                           | `ambient`         |
 | [`deathsound`](assets/minecraft/sounds/deathsound.ogg?raw=true)                                                     | `player`          |
 | [`sawmillaccident`](assets/minecraft/sounds/sawmillaccident.ogg?raw=true)                                           | `player`          |
-| [`nisovin.tinderflameload`](assets/minecraft/sounds/nisovin.tinderflameload.ogg?raw=true)                           | `weather`         |
+| [`nisovin.tinderflameload`](assets/minecraft/sounds/nisovin.tinderflameload.ogg?raw=true)                           | `player`          |
+| [`d20`](assets/minecraft/sounds/misc/d20.ogg?raw=true)                                                              | `player`          |
+| [`pop`](assets/minecraft/sounds/misc/pop.ogg?raw=true)                                                              | `player`          |
+| [`axe.chop`](assets/minecraft/sounds/axe/axe.chop1.ogg?raw=true)                                                    | `ambient`         |
+| [`axe.timber`](assets/minecraft/sounds/axe/axe.timber1.ogg?raw=true)                                                | `ambient`         |
+| [`pickaxe.mine`](assets/minecraft/sounds/pickaxe/pickaxe.mine1.ogg?raw=true)                                        | `ambient`         |
+| [`pickaxe.break`](assets/minecraft/sounds/pickaxe/pickaxe.break1.ogg?raw=true)                                      | `ambient`         |
 
 ## Models
 The following items are used for different categories of custom models:
