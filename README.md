@@ -290,6 +290,7 @@ The following items are used for different categories of custom models:
 | Wiggly Wrench                 | `music_disc_cat`, 19    |                                   |
 | Quiver                        | `music_disc_cat`, 20    |                                   |
 | Spellbook                     | `music_disc_cat`, 21    |                                   |
+| Foamer                        | `music_disc_cat`, 22    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
