@@ -330,7 +330,7 @@ The following items are used for different categories of custom models:
 | Rainbow Kitty                 | `carved_pumpkin`, 22    | animated                          |
 | Mama                          | `carved_pumpkin`, 23    |                                   |
 | Mama 2                        | `carved_pumpkin`, 24    | blue                              |
-| Mama 3                        | `carved_pumpkin`, 28    | purple                            |
+| Mama 3                        | `carved_pumpkin`, 25    | purple                            |
 | Mama 4                        | `carved_pumpkin`, 26    | orange                            |
 | Mama 5                        | `carved_pumpkin`, 27    | green                             |
 | Jimmy The Rat                 | `carved_pumpkin`, 28    |                                   |
