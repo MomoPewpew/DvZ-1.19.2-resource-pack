@@ -2284,36 +2284,24 @@
             }
         ]
     },
-    "dark.banshee1": {
+    "dark.banshee": {
         "sounds": [
             {
                 "name": "spells/dark.banshee1",
                 "category": "sound",
                 "stream": true
-            }
-        ]
-    },
-    "dark.banshee2": {
-        "sounds": [
-            {
+            },
+			            {
                 "name": "spells/dark.banshee2",
                 "category": "sound",
                 "stream": true
-            }
-        ]
-    },
-    "dark.banshee3": {
-        "sounds": [
-            {
+            },
+			{
                 "name": "spells/dark.banshee3",
                 "category": "sound",
                 "stream": true
-            }
-        ]
-    },
-    "dark.banshee4": {
-        "sounds": [
-            {
+            },
+			{
                 "name": "spells/dark.banshee4",
                 "category": "sound",
                 "stream": true
@@ -2356,36 +2344,24 @@
             }
         ]
     },
-    "dark.demontalk1": {
+    "dark.demontalk": {
         "sounds": [
             {
                 "name": "spells/dark.demontalk1",
                 "category": "sound",
                 "stream": true
-            }
-        ]
-    },
-    "dark.demontalk2": {
-        "sounds": [
-            {
+            },
+			{
                 "name": "spells/dark.demontalk2",
                 "category": "sound",
                 "stream": true
-            }
-        ]
-    },
-    "dark.demontalk3": {
-        "sounds": [
-            {
+            },
+			{
                 "name": "spells/dark.demontalk3",
                 "category": "sound",
                 "stream": true
-            }
-        ]
-    },
-    "dark.demontalk4": {
-        "sounds": [
-            {
+            },
+			{
                 "name": "spells/dark.demontalk4",
                 "category": "sound",
                 "stream": true
@@ -2665,33 +2641,21 @@
             }
         ]
     },
-    "fire.hit1": {
+    "fire.hit": {
         "sounds": [
             {
                 "name": "spells/fire.hit1",
                 "category": "sound"
-            }
-        ]
-    },
-    "fire.hit2": {
-        "sounds": [
-            {
+            },
+			{
                 "name": "spells/fire.hit2",
                 "category": "sound"
-            }
-        ]
-    },
-    "fire.hit3": {
-        "sounds": [
-            {
+            },
+			{
                 "name": "spells/fire.hit3",
                 "category": "sound"
-            }
-        ]
-    },
-    "fire.hit4": {
-        "sounds": [
-            {
+            },
+			{
                 "name": "spells/fire.hit4",
                 "category": "sound"
             }
@@ -2776,32 +2740,20 @@
             }
         ]
     },
-    "ice.hit1": {
+    "ice.hit": {
         "sounds": [
             {
                 "name": "spells/ice.hit1",
                 "category": "sound"
-            }
-        ]
-    },
-    "ice.hit2": {
-        "sounds": [
-            {
+            },
+			{
                 "name": "spells/ice.hit2",
                 "category": "sound"
-            }
-        ]
-    },
-    "ice.hit3": {
-        "sounds": [
+            },
             {
                 "name": "spells/ice.hit3",
                 "category": "sound"
-            }
-        ]
-    },
-    "ice.hit4": {
-        "sounds": [
+            },
             {
                 "name": "spells/ice.hit4",
                 "category": "sound"
@@ -2924,32 +2876,20 @@
             }
         ]
     },
-    "poison.hit1": {
+    "poison.hit": {
         "sounds": [
             {
                 "name": "spells/poison.hit1",
                 "category": "sound"
-            }
-        ]
-    },
-    "poison.hit2": {
-        "sounds": [
+            },
             {
                 "name": "spells/poison.hit2",
                 "category": "sound"
-            }
-        ]
-    },
-    "poison.hit3": {
-        "sounds": [
+            },
             {
                 "name": "spells/poison.hit3",
                 "category": "sound"
-            }
-        ]
-    },
-    "poison.hit4": {
-        "sounds": [
+            },
             {
                 "name": "spells/poison.hit4",
                 "category": "sound"
