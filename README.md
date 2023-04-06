@@ -351,6 +351,7 @@ The following items are used for different categories of custom models:
 | Zombie Statue                 | `carved_pumpkin`, 1004  | Sneaking                          |
 | Bruce Statue                  | `carved_pumpkin`, 1005  | Heroic                            |
 | Tinder Flame (3D model)       | `spyglass`, 1           |                                   |
+| Ale                           | `honey_bottle`, 1       |                                   |
 
 
 ## Textures
@@ -377,6 +378,19 @@ The following textures of mobs have been changed:
 - Pause Blaze - `textures/entity/blaze.png`
 - Swammy - `textures/entity/endermite.png`
 - Bone Phantom - `textures/entity/phantom.png`
+- Phantom Eyes - `textures.entity/phantom_eyes.png`
+- Allay - `textures/entity/allay.png`
+- Goat - `textures/entity/goat/goat.png`
+- Ravager - `textures/entity/illager/ravager.png`
+- Iron Golem - `textures/entity/iron_golem/iron_golem.png`
+- Iron Golem Crackiness High - `textures/entity/iron_golem/iron_golem_crackiness_high.png`
+- Iron Golem Crackiness Low - `textures/entity/iron_golem/iron_golem_crackiness_low.png`
+- Iron Golem Crackiness Medium - `textures/entity/iron_golem/iron_golem_crackiness_medium.png`
+- Brown Panda - `textures/entity/panda/brown_panda.png`
+- Playful Panda - `textures/entity/panda/playful_panda.png`
+- Weak Panda - `textures/entity/panda/weak_panda.png`
+- Worried Panda - `textures/entity/panda/worried_panda.png`
+
 
 The following armor textures have been changed:
 - `textures/models/armor/chainmail_layer_1.png`
