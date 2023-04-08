@@ -32,7 +32,7 @@ for root, dirs, files in os.walk("."):
             stream_value = file_size > 20_000
 
             # Update the data dictionary with the nested dictionaries and sound data
-            sound_data = {"name": sound_name, "category": "sound"}
+            sound_data = {"name": sound_name}
             if stream_value:
                 sound_data["stream"] = True
             if "sounds" not in nested_dict.setdefault(filename, {}):

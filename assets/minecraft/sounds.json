@@ -2016,7 +2016,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.bigblast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2025,7 +2024,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.blast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2033,8 +2031,7 @@
     "arcane.blob": {
         "sounds": [
             {
-                "name": "spells/arcane.blob",
-                "category": "sound"
+                "name": "spells/arcane.blob"
             }
         ]
     },
@@ -2042,7 +2039,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.blobexplosion",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2051,7 +2047,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.blobhit",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2060,7 +2055,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.hit",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2069,7 +2063,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.mesmerize",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2078,7 +2071,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.mindcontrol",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2087,7 +2079,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.powerdown",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2096,7 +2087,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.powerloop",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2104,8 +2094,7 @@
     "arcane.resist": {
         "sounds": [
             {
-                "name": "spells/arcane.resist",
-                "category": "sound"
+                "name": "spells/arcane.resist"
             }
         ]
     },
@@ -2113,7 +2102,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.shock",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2122,7 +2110,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.summon",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2130,8 +2117,7 @@
     "arcane.time": {
         "sounds": [
             {
-                "name": "spells/arcane.time",
-                "category": "sound"
+                "name": "spells/arcane.time"
             }
         ]
     },
@@ -2139,7 +2125,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.tinkle",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2148,7 +2133,6 @@
         "sounds": [
             {
                 "name": "spells/arcane.wormhole",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2156,8 +2140,7 @@
     "cute.appear": {
         "sounds": [
             {
-                "name": "spells/cute.appear",
-                "category": "sound"
+                "name": "spells/cute.appear"
             }
         ]
     },
@@ -2165,7 +2148,6 @@
         "sounds": [
             {
                 "name": "spells/cute.cast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2173,64 +2155,56 @@
     "cute.charge": {
         "sounds": [
             {
-                "name": "spells/cute.charge",
-                "category": "sound"
+                "name": "spells/cute.charge"
             }
         ]
     },
     "cute.explode": {
         "sounds": [
             {
-                "name": "spells/cute.explode",
-                "category": "sound"
+                "name": "spells/cute.explode"
             }
         ]
     },
     "cute.fall": {
         "sounds": [
             {
-                "name": "spells/cute.fall",
-                "category": "sound"
+                "name": "spells/cute.fall"
             }
         ]
     },
     "cute.get": {
         "sounds": [
             {
-                "name": "spells/cute.get",
-                "category": "sound"
+                "name": "spells/cute.get"
             }
         ]
     },
     "cute.getbig": {
         "sounds": [
             {
-                "name": "spells/cute.getbig",
-                "category": "sound"
+                "name": "spells/cute.getbig"
             }
         ]
     },
     "cute.getbiggest": {
         "sounds": [
             {
-                "name": "spells/cute.getbiggest",
-                "category": "sound"
+                "name": "spells/cute.getbiggest"
             }
         ]
     },
     "cute.hit": {
         "sounds": [
             {
-                "name": "spells/cute.hit",
-                "category": "sound"
+                "name": "spells/cute.hit"
             }
         ]
     },
     "cute.levelup": {
         "sounds": [
             {
-                "name": "spells/cute.levelup",
-                "category": "sound"
+                "name": "spells/cute.levelup"
             }
         ]
     },
@@ -2238,7 +2212,6 @@
         "sounds": [
             {
                 "name": "spells/cute.reveal",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2246,16 +2219,14 @@
     "cute.run": {
         "sounds": [
             {
-                "name": "spells/cute.run",
-                "category": "sound"
+                "name": "spells/cute.run"
             }
         ]
     },
     "cute.summon": {
         "sounds": [
             {
-                "name": "spells/cute.summon",
-                "category": "sound"
+                "name": "spells/cute.summon"
             }
         ]
     },
@@ -2263,7 +2234,6 @@
         "sounds": [
             {
                 "name": "spells/cute.transformation",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2271,16 +2241,14 @@
     "cute.wink": {
         "sounds": [
             {
-                "name": "spells/cute.wink",
-                "category": "sound"
+                "name": "spells/cute.wink"
             }
         ]
     },
     "dark.appear": {
         "sounds": [
             {
-                "name": "spells/dark.appear",
-                "category": "sound"
+                "name": "spells/dark.appear"
             }
         ]
     },
@@ -2288,22 +2256,18 @@
         "sounds": [
             {
                 "name": "spells/dark.banshee1",
-                "category": "sound",
                 "stream": true
             },
 			            {
                 "name": "spells/dark.banshee2",
-                "category": "sound",
                 "stream": true
             },
 			{
                 "name": "spells/dark.banshee3",
-                "category": "sound",
                 "stream": true
             },
 			{
                 "name": "spells/dark.banshee4",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2312,7 +2276,6 @@
         "sounds": [
             {
                 "name": "spells/dark.blink",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2321,7 +2284,6 @@
         "sounds": [
             {
                 "name": "spells/dark.cast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2330,7 +2292,6 @@
         "sounds": [
             {
                 "name": "spells/dark.charge",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2339,7 +2300,6 @@
         "sounds": [
             {
                 "name": "spells/dark.curseexplode",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2348,22 +2308,18 @@
         "sounds": [
             {
                 "name": "spells/dark.demontalk1",
-                "category": "sound",
                 "stream": true
             },
 			{
                 "name": "spells/dark.demontalk2",
-                "category": "sound",
                 "stream": true
             },
 			{
                 "name": "spells/dark.demontalk3",
-                "category": "sound",
                 "stream": true
             },
 			{
                 "name": "spells/dark.demontalk4",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2372,7 +2328,6 @@
         "sounds": [
             {
                 "name": "spells/dark.detect",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2381,7 +2336,6 @@
         "sounds": [
             {
                 "name": "spells/dark.hit",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2390,7 +2344,6 @@
         "sounds": [
             {
                 "name": "spells/dark.mindcontrol",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2399,7 +2352,6 @@
         "sounds": [
             {
                 "name": "spells/dark.misfire",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2408,7 +2360,6 @@
         "sounds": [
             {
                 "name": "spells/dark.powerdown",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2417,7 +2368,6 @@
         "sounds": [
             {
                 "name": "spells/dark.powersource",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2426,7 +2376,6 @@
         "sounds": [
             {
                 "name": "spells/dark.teleport",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2434,8 +2383,7 @@
     "dark.vanish": {
         "sounds": [
             {
-                "name": "spells/dark.vanish",
-                "category": "sound"
+                "name": "spells/dark.vanish"
             }
         ]
     },
@@ -2443,7 +2391,6 @@
         "sounds": [
             {
                 "name": "spells/earth.blast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2451,8 +2398,7 @@
     "earth.cast": {
         "sounds": [
             {
-                "name": "spells/earth.cast",
-                "category": "sound"
+                "name": "spells/earth.cast"
             }
         ]
     },
@@ -2460,7 +2406,6 @@
         "sounds": [
             {
                 "name": "spells/earth.cast2",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2468,8 +2413,7 @@
     "earth.cast3": {
         "sounds": [
             {
-                "name": "spells/earth.cast3",
-                "category": "sound"
+                "name": "spells/earth.cast3"
             }
         ]
     },
@@ -2477,7 +2421,6 @@
         "sounds": [
             {
                 "name": "spells/earth.gather",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2486,7 +2429,6 @@
         "sounds": [
             {
                 "name": "spells/earth.gather2",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2495,7 +2437,6 @@
         "sounds": [
             {
                 "name": "spells/earth.gather3",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2504,7 +2445,6 @@
         "sounds": [
             {
                 "name": "spells/earth.hit",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2513,7 +2453,6 @@
         "sounds": [
             {
                 "name": "spells/earth.hit2",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2522,7 +2461,6 @@
         "sounds": [
             {
                 "name": "spells/earth.hit3",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2531,7 +2469,6 @@
         "sounds": [
             {
                 "name": "spells/earth.metalland",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2539,8 +2476,7 @@
     "earth.powerdown": {
         "sounds": [
             {
-                "name": "spells/earth.powerdown",
-                "category": "sound"
+                "name": "spells/earth.powerdown"
             }
         ]
     },
@@ -2548,7 +2484,6 @@
         "sounds": [
             {
                 "name": "spells/earth.prepare",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2557,7 +2492,6 @@
         "sounds": [
             {
                 "name": "spells/earth.shield",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2566,7 +2500,6 @@
         "sounds": [
             {
                 "name": "spells/fire.blast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2575,7 +2508,6 @@
         "sounds": [
             {
                 "name": "spells/fire.blazeloop",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2584,7 +2516,6 @@
         "sounds": [
             {
                 "name": "spells/fire.bonloop",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2593,7 +2524,6 @@
         "sounds": [
             {
                 "name": "spells/fire.camploop",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2602,7 +2532,6 @@
         "sounds": [
             {
                 "name": "spells/fire.cast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2610,8 +2539,7 @@
     "fire.cast2": {
         "sounds": [
             {
-                "name": "spells/fire.cast2",
-                "category": "sound"
+                "name": "spells/fire.cast2"
             }
         ]
     },
@@ -2619,7 +2547,6 @@
         "sounds": [
             {
                 "name": "spells/fire.cast3",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2627,8 +2554,7 @@
     "fire.fireball": {
         "sounds": [
             {
-                "name": "spells/fire.fireball",
-                "category": "sound"
+                "name": "spells/fire.fireball"
             }
         ]
     },
@@ -2636,7 +2562,6 @@
         "sounds": [
             {
                 "name": "spells/fire.gather",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2644,20 +2569,16 @@
     "fire.hit": {
         "sounds": [
             {
-                "name": "spells/fire.hit1",
-                "category": "sound"
+                "name": "spells/fire.hit1"
             },
 			{
-                "name": "spells/fire.hit2",
-                "category": "sound"
+                "name": "spells/fire.hit2"
             },
 			{
-                "name": "spells/fire.hit3",
-                "category": "sound"
+                "name": "spells/fire.hit3"
             },
 			{
-                "name": "spells/fire.hit4",
-                "category": "sound"
+                "name": "spells/fire.hit4"
             }
         ]
     },
@@ -2665,7 +2586,6 @@
         "sounds": [
             {
                 "name": "spells/fire.ignite",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2673,8 +2593,7 @@
     "fire.release": {
         "sounds": [
             {
-                "name": "spells/fire.release",
-                "category": "sound"
+                "name": "spells/fire.release"
             }
         ]
     },
@@ -2682,7 +2601,6 @@
         "sounds": [
             {
                 "name": "spells/fire.shield",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2691,7 +2609,6 @@
         "sounds": [
             {
                 "name": "spells/fire.summon",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2700,7 +2617,6 @@
         "sounds": [
             {
                 "name": "spells/fire.throw",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2709,7 +2625,6 @@
         "sounds": [
             {
                 "name": "spells/fire.throwfast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2718,7 +2633,6 @@
         "sounds": [
             {
                 "name": "spells/ice.blast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2726,8 +2640,7 @@
     "ice.cast": {
         "sounds": [
             {
-                "name": "spells/ice.cast",
-                "category": "sound"
+                "name": "spells/ice.cast"
             }
         ]
     },
@@ -2735,7 +2648,6 @@
         "sounds": [
             {
                 "name": "spells/ice.gather",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2743,20 +2655,16 @@
     "ice.hit": {
         "sounds": [
             {
-                "name": "spells/ice.hit1",
-                "category": "sound"
+                "name": "spells/ice.hit1"
             },
 			{
-                "name": "spells/ice.hit2",
-                "category": "sound"
+                "name": "spells/ice.hit2"
             },
             {
-                "name": "spells/ice.hit3",
-                "category": "sound"
+                "name": "spells/ice.hit3"
             },
             {
-                "name": "spells/ice.hit4",
-                "category": "sound"
+                "name": "spells/ice.hit4"
             }
         ]
     },
@@ -2764,7 +2672,6 @@
         "sounds": [
             {
                 "name": "spells/light.bigblast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2773,7 +2680,6 @@
         "sounds": [
             {
                 "name": "spells/light.buff",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2782,7 +2688,6 @@
         "sounds": [
             {
                 "name": "spells/light.buff2",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2791,7 +2696,6 @@
         "sounds": [
             {
                 "name": "spells/light.charge",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2800,7 +2704,6 @@
         "sounds": [
             {
                 "name": "spells/light.gather",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2809,7 +2712,6 @@
         "sounds": [
             {
                 "name": "spells/light.heal",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2818,7 +2720,6 @@
         "sounds": [
             {
                 "name": "spells/light.heal2",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2827,7 +2728,6 @@
         "sounds": [
             {
                 "name": "spells/light.powerdown",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2836,7 +2736,6 @@
         "sounds": [
             {
                 "name": "spells/light.powerup",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2845,7 +2744,6 @@
         "sounds": [
             {
                 "name": "spells/light.shield",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2854,7 +2752,6 @@
         "sounds": [
             {
                 "name": "spells/light.summon",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2862,8 +2759,7 @@
     "light.teleport": {
         "sounds": [
             {
-                "name": "spells/light.teleport",
-                "category": "sound"
+                "name": "spells/light.teleport"
             }
         ]
     },
@@ -2871,7 +2767,6 @@
         "sounds": [
             {
                 "name": "spells/poison.cast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2879,20 +2774,16 @@
     "poison.hit": {
         "sounds": [
             {
-                "name": "spells/poison.hit1",
-                "category": "sound"
+                "name": "spells/poison.hit1"
             },
             {
-                "name": "spells/poison.hit2",
-                "category": "sound"
+                "name": "spells/poison.hit2"
             },
             {
-                "name": "spells/poison.hit3",
-                "category": "sound"
+                "name": "spells/poison.hit3"
             },
             {
-                "name": "spells/poison.hit4",
-                "category": "sound"
+                "name": "spells/poison.hit4"
             }
         ]
     },
@@ -2900,7 +2791,6 @@
         "sounds": [
             {
                 "name": "spells/thunder.blast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2909,7 +2799,6 @@
         "sounds": [
             {
                 "name": "spells/thunder.cast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2918,7 +2807,6 @@
         "sounds": [
             {
                 "name": "spells/thunder.cast2",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2927,7 +2815,6 @@
         "sounds": [
             {
                 "name": "spells/thunder.gather",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2936,7 +2823,6 @@
         "sounds": [
             {
                 "name": "spells/thunder.gather2",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2945,7 +2831,6 @@
         "sounds": [
             {
                 "name": "spells/thunder.hit",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2954,7 +2839,6 @@
         "sounds": [
             {
                 "name": "spells/thunder.shield",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2963,7 +2847,6 @@
         "sounds": [
             {
                 "name": "spells/thunder.teleport",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2972,7 +2855,6 @@
         "sounds": [
             {
                 "name": "spells/wind.bell",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2981,7 +2863,6 @@
         "sounds": [
             {
                 "name": "spells/wind.blast",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -2989,8 +2870,7 @@
     "wind.blink": {
         "sounds": [
             {
-                "name": "spells/wind.blink",
-                "category": "sound"
+                "name": "spells/wind.blink"
             }
         ]
     },
@@ -2998,7 +2878,6 @@
         "sounds": [
             {
                 "name": "spells/wind.buff",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3006,8 +2885,7 @@
     "wind.cast": {
         "sounds": [
             {
-                "name": "spells/wind.cast",
-                "category": "sound"
+                "name": "spells/wind.cast"
             }
         ]
     },
@@ -3015,7 +2893,6 @@
         "sounds": [
             {
                 "name": "spells/wind.charge",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3024,7 +2901,6 @@
         "sounds": [
             {
                 "name": "spells/wind.echo",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3033,7 +2909,6 @@
         "sounds": [
             {
                 "name": "spells/wind.gather",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3042,7 +2917,6 @@
         "sounds": [
             {
                 "name": "spells/wind.gather2",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3051,7 +2925,6 @@
         "sounds": [
             {
                 "name": "spells/wind.hit",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3060,7 +2933,6 @@
         "sounds": [
             {
                 "name": "spells/wind.hit2",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3069,7 +2941,6 @@
         "sounds": [
             {
                 "name": "spells/wind.hit3",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3078,7 +2949,6 @@
         "sounds": [
             {
                 "name": "spells/wind.implosion",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3087,7 +2957,6 @@
         "sounds": [
             {
                 "name": "spells/wind.prepare",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3096,7 +2965,6 @@
         "sounds": [
             {
                 "name": "spells/wind.release",
-                "category": "sound",
                 "stream": true
             }
         ]
@@ -3104,8 +2972,7 @@
     "wind.teleport": {
         "sounds": [
             {
-                "name": "spells/wind.teleport",
-                "category": "sound"
+                "name": "spells/wind.teleport"
             }
         ]
     }
