@@ -22,6 +22,8 @@
 		{ "predicate": { "custom_model_data": 19 }, "model": "item/tools/wiggly_wrench" },
 		{ "predicate": { "custom_model_data": 20 }, "model": "item/tools/quiver" },
 		{ "predicate": { "custom_model_data": 21 }, "model": "item/tools/spellbook" },
-		{ "predicate": { "custom_model_data": 22 }, "model": "item/weapons/foamer" }
+		{ "predicate": { "custom_model_data": 22 }, "model": "item/weapons/foamer" },
+		{ "predicate": { "custom_model_data": 23 }, "model": "item/weapons/flintlock" },
+		{ "predicate": { "custom_model_data": 24 }, "model": "item/weapons/blunderbuss" }
 	]
 }
