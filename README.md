@@ -432,6 +432,8 @@ The following items are used for different categories of custom models:
 | Quiver                        | `music_disc_cat`, 20    |                                   |
 | Spellbook                     | `music_disc_cat`, 21    |                                   |
 | Foamer                        | `music_disc_cat`, 22    |                                   |
+| Flintlock                     | `music_disc_cat`, 23    |                                   |
+| Blunderbuss                   | `music_disc_cat`, 24    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
