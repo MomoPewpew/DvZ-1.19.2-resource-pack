@@ -2979,19 +2979,19 @@
 	"sandworm.dig": {
         "sounds": [
             {
-                "name": "sandwormDig1",
+                "name": "sandworm.dig1",
                 "stream": true
             },
 			{
-                "name": "sandwormDig2",
+                "name": "sandworm.dig2",
                 "stream": true
             },
 			{
-                "name": "sandwormDig3",
+                "name": "sandworm.dig3",
                 "stream": true
             },
 			{
-                "name": "sandwormDig4",
+                "name": "sandworm.dig4",
                 "stream": true
             }
         ]
@@ -2999,7 +2999,7 @@
     "sandworm.yell": {
         "sounds": [
             {
-                "name": "sandwormYell",
+                "name": "sandworm.yell",
                 "stream": true
             }
         ]
