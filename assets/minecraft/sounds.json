@@ -2976,7 +2976,7 @@
             }
         ]
     },
-	    "sandworm.dig": {
+	"sandworm.dig": {
         "sounds": [
             {
                 "name": "sandwormDig1",
