@@ -2976,7 +2976,7 @@
             }
         ]
     },
-	    "sandwormDig": {
+	    "sandworm.dig": {
         "sounds": [
             {
                 "name": "sandwormDig1",
@@ -2996,7 +2996,7 @@
             }
         ]
     },
-    "sandwormYell": {
+    "sandworm.yell": {
         "sounds": [
             {
                 "name": "sandwormYell",
