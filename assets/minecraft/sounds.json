@@ -2975,5 +2975,33 @@
                 "name": "spells/wind.teleport"
             }
         ]
+    },
+	"sandworm.dig": {
+        "sounds": [
+            {
+                "name": "sandworm.dig1",
+                "stream": true
+            },
+			{
+                "name": "sandworm.dig2",
+                "stream": true
+            },
+			{
+                "name": "sandworm.dig3",
+                "stream": true
+            },
+			{
+                "name": "sandworm.dig4",
+                "stream": true
+            }
+        ]
+    },
+    "sandworm.yell": {
+        "sounds": [
+            {
+                "name": "sandworm.yell",
+                "stream": true
+            }
+        ]
     }
 }
