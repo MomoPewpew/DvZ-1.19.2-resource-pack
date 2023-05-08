@@ -481,6 +481,7 @@ The following items are used for different categories of custom models:
 | Mama 5                        | `carved_pumpkin`, 27    | green                             |
 | Jimmy The Rat                 | `carved_pumpkin`, 28    |                                   |
 | Headbox                       | `carved_pumpkin`, 29    |                                   |
+| Cone Hat                      | `carved_pumpkin`, 30    |                                   |
 | Zombie Statue                 | `carved_pumpkin`, 1001  | Walking                           |
 | Zombie Statue                 | `carved_pumpkin`, 1002  | Standing                          |
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
