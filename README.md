@@ -398,6 +398,8 @@ The following custom sounds have been added:
 | [wind.prepare.ogg](assets/minecraft/sounds/spells/wind.prepare.ogg)                                                 | `sound`           |
 | [wind.release.ogg](assets/minecraft/sounds/spells/wind.release.ogg)                                                 | `sound`           |
 | [wind.teleport.ogg](assets/minecraft/sounds/spells/wind.teleport.ogg)                                               | `sound`           |
+| [warpdrive.ogg](assets/minecraft/sounds/warpdrive.ogg)                                                              | `sound`           |
+| [warpdriveend.ogg](assets/minecraft/sounds/warpdriveend.ogg)                                                        | `sound`           |
 
 ## Models
 The following items are used for different categories of custom models:

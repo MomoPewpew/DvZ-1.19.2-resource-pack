@@ -3011,5 +3011,13 @@
                 "stream": true
             }
         ]
+    },
+    "warpdriveend": {
+        "sounds": [
+            {
+                "name": "warpdriveend",
+                "stream": true
+            }
+        ]
     }
 }
