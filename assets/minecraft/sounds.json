@@ -3003,5 +3003,13 @@
                 "stream": true
             }
         ]
+    },
+    "warpdrive": {
+        "sounds": [
+            {
+                "name": "warpdrive",
+                "stream": true
+            }
+        ]
     }
 }
