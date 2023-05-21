@@ -3019,5 +3019,13 @@
                 "stream": true
             }
         ]
+    },
+    "shipbeamup": {
+        "sounds": [
+            {
+                "name": "shipbeamup",
+                "stream": true
+            }
+        ]
     }
 }

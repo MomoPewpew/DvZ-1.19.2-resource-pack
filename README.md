@@ -400,6 +400,7 @@ The following custom sounds have been added:
 | [wind.teleport.ogg](assets/minecraft/sounds/spells/wind.teleport.ogg)                                               | `sound`           |
 | [warpdrive.ogg](assets/minecraft/sounds/warpdrive.ogg)                                                              | `sound`           |
 | [warpdriveend.ogg](assets/minecraft/sounds/warpdriveend.ogg)                                                        | `sound`           |
+| [shipbeamup.ogg](assets/minecraft/sounds/shipbeamup.ogg)                                                        | `sound`           |
 
 ## Models
 The following items are used for different categories of custom models:
