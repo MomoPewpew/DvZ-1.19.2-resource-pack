@@ -588,6 +588,11 @@ The following blocks have been changed:
 - Demon Fire - `textures/blocks/soul_fire_1.png`
 - Demon Lantern - `textures/blocks/soul_lantern.png`
 
+The following GUI textures have been added/changed:
+- `textures/gui/widgets.png` - Dark toolbar by VanillaTweaks
+- `textures/gui/containers/inventory.png` - Dark gui by VanillaTweaks, modified
+- `textures/gui/containers/generic_54.png` - Dark gui by VanillaTweaks, modified
+
 # TODO:
 - Move custom resources to dvz namespace
   - Add warden sounds to sounds.json
