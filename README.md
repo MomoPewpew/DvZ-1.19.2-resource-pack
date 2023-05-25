@@ -410,6 +410,7 @@ The following items are used for different categories of custom models:
 - Statues: also `carved_pumpkin` - Easy to place on armor stand, but current models have to be reworked for this
 - Tools: nearest vanilla tool - depends on mining speed, (can be enchanted?)
 - Special exceptions based on vanilla mechanics (Shields, Buffalo Horn, etc.)
+- Custom GUIs: `jigsaw`
 
 | name                          | item, custom model data | comments                          |
 |-------------------------------|-------------------------|-----------------------------------|
@@ -491,6 +492,7 @@ The following items are used for different categories of custom models:
 | Bruce Statue                  | `carved_pumpkin`, 1005  | Heroic                            |
 | Tinder Flame (3D model)       | `spyglass`, 1           |                                   |
 | Ale                           | `honey_bottle`, 1       |                                   |
+| Skill Tree GUI                | `jigsaw`, 1             | row 2, col 1 of 3-row inventory   |
 
 
 ## Textures
