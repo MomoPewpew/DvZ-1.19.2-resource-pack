@@ -400,7 +400,7 @@ The following custom sounds have been added:
 | [wind.teleport.ogg](assets/minecraft/sounds/spells/wind.teleport.ogg)                                               | `sound`           |
 | [warpdrive.ogg](assets/minecraft/sounds/warpdrive.ogg)                                                              | `sound`           |
 | [warpdriveend.ogg](assets/minecraft/sounds/warpdriveend.ogg)                                                        | `sound`           |
-| [shipbeamup.ogg](assets/minecraft/sounds/shipbeamup.ogg)                                                        | `sound`           |
+| [shipbeamup.ogg](assets/minecraft/sounds/shipbeamup.ogg)                                                            | `sound`           |
 
 ## Models
 The following items are used for different categories of custom models:
@@ -485,6 +485,8 @@ The following items are used for different categories of custom models:
 | Mama 5                        | `carved_pumpkin`, 27    | green                             |
 | Jimmy The Rat                 | `carved_pumpkin`, 28    |                                   |
 | Headbox                       | `carved_pumpkin`, 29    |                                   |
+| Knight Helmet Red             | `carved_pumpkin`, 30    |                                   |
+| Knight Helmet Green           | `carved_pumpkin`, 31    |                                   |
 | Zombie Statue                 | `carved_pumpkin`, 1001  | Walking                           |
 | Zombie Statue                 | `carved_pumpkin`, 1002  | Standing                          |
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
@@ -544,7 +546,6 @@ The following armor textures have been changed:
 The following blocks have been changed:
 - Sword Pickup - `textures/blocks/ladder.png`
 - Bow Pickup - `textures/blocks/detector_rail.png`
-- Shovel Pickup - `textures/blocks/powered_rail.png`
 - Axe Pickup - `textures/blocks/rail.png`
 - Pickaxe Pickup - `textures/blocks/activator_rail.png`
 - Juice Pickup - `textures/blocks/redstone_torch.png`
