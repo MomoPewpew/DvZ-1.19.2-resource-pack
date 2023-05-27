@@ -590,6 +590,9 @@ The following blocks have been changed:
 - Demon Fire - `textures/blocks/soul_fire_0.png`
 - Demon Fire - `textures/blocks/soul_fire_1.png`
 - Demon Lantern - `textures/blocks/soul_lantern.png`
+- Blood Splatter Dot - `textures/blocks/redstone_dust_dot.png`
+- Blood Splatter Line1 - `textures/blocks/redstone_dust_line0.png`
+- Blood Splatter Line2 - `textures/blocks/redstone_dust_line1.png`
 
 The following GUI textures have been added/changed:
 - `textures/gui/widgets.png` - Dark toolbar by VanillaTweaks
