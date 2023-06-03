@@ -24,6 +24,7 @@
 		{ "predicate": { "custom_model_data": 21 }, "model": "item/tools/spellbook" },
 		{ "predicate": { "custom_model_data": 22 }, "model": "item/weapons/foamer" },
 		{ "predicate": { "custom_model_data": 23 }, "model": "item/weapons/flintlock" },
-		{ "predicate": { "custom_model_data": 24 }, "model": "item/weapons/blunderbuss" }
+		{ "predicate": { "custom_model_data": 24 }, "model": "item/weapons/blunderbuss" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "item/weapons/dirthose" }
 	]
 }

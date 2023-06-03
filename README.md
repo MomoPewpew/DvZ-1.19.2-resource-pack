@@ -438,6 +438,7 @@ The following items are used for different categories of custom models:
 | Foamer                        | `music_disc_cat`, 22    |                                   |
 | Flintlock                     | `music_disc_cat`, 23    |                                   |
 | Blunderbuss                   | `music_disc_cat`, 24    |                                   |
+| Dirt Hose                     | `music_disc_cat`, 25    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
