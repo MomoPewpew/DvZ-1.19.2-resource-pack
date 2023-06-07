@@ -496,6 +496,7 @@ The following items are used for different categories of custom models:
 | Tinder Flame (3D model)       | `spyglass`, 1           |                                   |
 | Ale                           | `honey_bottle`, 1       |                                   |
 | Skill Tree GUI                | `jigsaw`, 1             | row 2, col 1 of 3-row inventory   |
+| Class Selection GUI           | `jigsaw`, 2             | row 2, col 1 of 3-row inventory   |
 
 
 ## Textures
@@ -594,6 +595,7 @@ The following blocks have been changed:
 - Blood Splatter Dot - `textures/blocks/redstone_dust_dot.png`
 - Blood Splatter Line1 - `textures/blocks/redstone_dust_line0.png`
 - Blood Splatter Line2 - `textures/blocks/redstone_dust_line1.png`
+- Redstone Block (animated) - `textures/blocks/redstone_dust_line1.png`
 
 The following GUI textures have been added/changed:
 - `textures/gui/widgets.png` - Dark toolbar by VanillaTweaks

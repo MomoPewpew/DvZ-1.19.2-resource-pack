@@ -1,6 +1,7 @@
 {
     "parent": "minecraft:block/jigsaw",
 	"overrides": [
-        {"predicate": {"custom_model_data": 1}, "model": "item/gui/skilltree"}
+        {"predicate": {"custom_model_data": 1}, "model": "item/gui/skilltree"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/gui/classselection"}
     ]
 }
