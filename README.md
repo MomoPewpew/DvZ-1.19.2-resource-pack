@@ -497,7 +497,14 @@ The following items are used for different categories of custom models:
 | Ale                           | `honey_bottle`, 1       |                                   |
 | Skill Tree GUI                | `jigsaw`, 1             | row 2, col 1 of 3-row inventory   |
 | Class Selection GUI           | `jigsaw`, 2             | row 2, col 1 of 3-row inventory   |
-
+| Icon: Baker Class             | `jigsaw`, 3             | icon, 1x1                         |
+| Icon: Berserker Class         | `jigsaw`, 4             | icon, 1x1                         |
+| Icon: Blacksmith Class        | `jigsaw`, 5             | icon, 1x1                         |
+| Icon: Builder Class           | `jigsaw`, 6             | icon, 1x1                         |
+| Icon: High Paladin Class      | `jigsaw`, 7             | icon, 1x1                         |
+| Icon: Paladin Class           | `jigsaw`, 8             | icon, 1x1                         |
+| Icon: Ranger Class            | `jigsaw`, 9             | icon, 1x1                         |
+| Icon: Warriror Class          | `jigsaw`, 10            | icon, 1x1                         |
 
 ## Textures
 In addition to adding custom textures for the models, the following textures of existing items have been changed:

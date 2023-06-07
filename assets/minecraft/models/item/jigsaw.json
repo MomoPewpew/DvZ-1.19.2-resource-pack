@@ -2,6 +2,14 @@
     "parent": "minecraft:block/jigsaw",
 	"overrides": [
         {"predicate": {"custom_model_data": 1}, "model": "item/gui/skilltree"},
-        {"predicate": {"custom_model_data": 2}, "model": "item/gui/classselection"}
+        {"predicate": {"custom_model_data": 2}, "model": "item/gui/classselection"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/gui/icons/class-baker"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/gui/icons/class-berserker"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/gui/icons/class-blacksmith"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/gui/icons/class-builder"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/gui/icons/class-highpaladin"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/gui/icons/class-paladin"},
+        {"predicate": {"custom_model_data": 9}, "model": "item/gui/icons/class-ranger"},
+        {"predicate": {"custom_model_data": 10}, "model": "item/gui/icons/class-warrior"}
     ]
 }
