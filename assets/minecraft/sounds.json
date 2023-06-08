@@ -3027,5 +3027,93 @@
                 "stream": true
             }
         ]
-    }
+    },
+	"vampire.batform.off": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.batform.off"
+            }
+        ]
+	},
+	"vampire.batform.on": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.batform.on"
+            }
+        ]
+	},
+	"vampire.dagger": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.dagger1"
+            },
+            {
+                "name": "vampire/vampire.dagger2"
+            },
+            {
+                "name": "vampire/vampire.dagger3"
+            },
+            {
+                "name": "vampire/vampire.dagger4"
+            },
+        ]
+	},
+	"vampire.drain": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.drain"
+            }
+        ]
+	},
+	"vampire.mesmerized": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.mesmerized"
+            }
+        ]
+	},
+	"vampire.shadowball.cast": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.shadowball.cast"
+            }
+        ]
+	},
+	"vampire.shadowball.fire": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.shadowball.fire"
+            }
+        ]
+	},
+	"vampire.shadowball.loop": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.shadowball.loop"
+            }
+        ]
+	},
+	"vampire.stab": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.stab1"
+            },
+            {
+                "name": "vampire/vampire.stab2"
+            },
+            {
+                "name": "vampire/vampire.stab3"
+            },
+            {
+                "name": "vampire/vampire.stab4"
+            },
+        ]
+	},
+	"vampire.tiktok": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.tiktok"
+            }
+        ]
+	}
 }

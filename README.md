@@ -401,6 +401,16 @@ The following custom sounds have been added:
 | [warpdrive.ogg](assets/minecraft/sounds/warpdrive.ogg)                                                              | `sound`           |
 | [warpdriveend.ogg](assets/minecraft/sounds/warpdriveend.ogg)                                                        | `sound`           |
 | [shipbeamup.ogg](assets/minecraft/sounds/shipbeamup.ogg)                                                            | `sound`           |
+| [vampire.batform.off.ogg](assets/minecraft/sounds/vampire/vampire.batform.off.ogg)                                  | `sound`           |
+| [vampire.batform.on.ogg](assets/minecraft/sounds/vampire/vampire.batform.on.ogg)                                    | `sound`           |
+| [vampire.dagger](assets/minecraft/sounds/vampire/vampire.dagger1.ogg)                                               | `sound`           |
+| [vampire.drain](assets/minecraft/sounds/vampire/vampire.drain.ogg)                                                  | `sound`           |
+| [vampire.mesmerized](assets/minecraft/sounds/vampire/vampire.mesmerized.ogg)                                        | `sound`           |
+| [vampire.shadowball.cast](assets/minecraft/sounds/vampire/vampire.shadowball.cast.ogg)                              | `sound`           |
+| [vampire.shadowball.fire](assets/minecraft/sounds/vampire/vampire.shadowball.fire.ogg)                              | `sound`           |
+| [vampire.shadowball.loop](assets/minecraft/sounds/vampire/vampire.shadowball.loop.ogg)                              | `sound`           |
+| [vampire.stab](assets/minecraft/sounds/vampire/vampire.stab1.ogg)                                                   | `sound`           |
+| [vampire.ticktock](assets/minecraft/sounds/vampire/vampire.ticktock.ogg)                                            | `sound`           |
 
 ## Models
 The following items are used for different categories of custom models:
