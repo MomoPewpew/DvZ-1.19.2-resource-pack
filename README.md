@@ -401,8 +401,8 @@ The following custom sounds have been added:
 | [warpdrive.ogg](assets/minecraft/sounds/warpdrive.ogg)                                                              | `sound`           |
 | [warpdriveend.ogg](assets/minecraft/sounds/warpdriveend.ogg)                                                        | `sound`           |
 | [shipbeamup.ogg](assets/minecraft/sounds/shipbeamup.ogg)                                                            | `sound`           |
-| [vampire.batform.off.ogg](assets/minecraft/sounds/vampire/vampire.batform.off.ogg)                                  | `sound`           |
-| [vampire.batform.on.ogg](assets/minecraft/sounds/vampire/vampire.batform.on.ogg)                                    | `sound`           |
+| [vampire.batform.off](assets/minecraft/sounds/vampire/vampire.batform.off.ogg)                                      | `sound`           |
+| [vampire.batform.on](assets/minecraft/sounds/vampire/vampire.batform.on.ogg)                                        | `sound`           |
 | [vampire.dagger](assets/minecraft/sounds/vampire/vampire.dagger1.ogg)                                               | `sound`           |
 | [vampire.drain](assets/minecraft/sounds/vampire/vampire.drain.ogg)                                                  | `sound`           |
 | [vampire.mesmerized](assets/minecraft/sounds/vampire/vampire.mesmerized.ogg)                                        | `sound`           |
