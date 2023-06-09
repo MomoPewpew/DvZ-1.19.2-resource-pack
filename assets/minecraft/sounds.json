@@ -3055,7 +3055,7 @@
             },
             {
                 "name": "vampire/vampire.dagger4"
-            },
+            }
         ]
 	},
 	"vampire.drain": {
@@ -3106,13 +3106,13 @@
             },
             {
                 "name": "vampire/vampire.stab4"
-            },
+            }
         ]
 	},
-	"vampire.tiktok": {
+	"vampire.ticktock": {
         "sounds": [
             {
-                "name": "vampire/vampire.tiktok"
+                "name": "vampire/vampire.ticktock"
             }
         ]
 	}
