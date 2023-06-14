@@ -559,7 +559,7 @@ The following textures of mobs have been changed:
 - Iron Golem Crackiness Low - `textures/entity/iron_golem/iron_golem_crackiness_low.png`
 - Iron Golem Crackiness Medium - `textures/entity/iron_golem/iron_golem_crackiness_medium.png`
 - Brown Panda - `textures/entity/panda/brown_panda.png`
-- Playful Panda - `textures/entity/panda/playful_panda.png`
+- Maid Panda - `textures/entity/panda/playful_panda.png`
 - Weak Panda - `textures/entity/panda/weak_panda.png`
 - Worried Panda - `textures/entity/panda/worried_panda.png`
 
