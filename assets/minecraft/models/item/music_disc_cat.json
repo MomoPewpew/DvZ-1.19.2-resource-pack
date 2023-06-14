@@ -25,6 +25,13 @@
 		{ "predicate": { "custom_model_data": 22 }, "model": "item/weapons/foamer" },
 		{ "predicate": { "custom_model_data": 23 }, "model": "item/weapons/flintlock" },
 		{ "predicate": { "custom_model_data": 24 }, "model": "item/weapons/blunderbuss" },
-		{ "predicate": { "custom_model_data": 25 }, "model": "item/weapons/dirthose" }
+		{ "predicate": { "custom_model_data": 25 }, "model": "item/weapons/dirthose" },
+		{ "predicate": { "custom_model_data": 26 }, "model": "vs:item/vs_back_dive" },
+		{ "predicate": { "custom_model_data": 27 }, "model": "vs:item/vs_back_farmer" },
+		{ "predicate": { "custom_model_data": 28 }, "model": "vs:item/vs_back_plant" },
+		{ "predicate": { "custom_model_data": 29 }, "model": "vs:item/vs_back_quiver" },
+		{ "predicate": { "custom_model_data": 30 }, "model": "vs:item/vs_back_urne" },
+		{ "predicate": { "custom_model_data": 31 }, "model": "vs:item/vs_back_witch" },
+		{ "predicate": { "custom_model_data": 32 }, "model": "abyss_pack:item/abyss_wings" }
 	]
 }

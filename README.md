@@ -416,10 +416,10 @@ The following custom sounds have been added:
 The following items are used for different categories of custom models:
 - Weapons/Tools: `music_disc_cat` - No crafting recipes, unplacable, unstackable
 - Items: `rabbit_foot` - No crafting recipes, unplacable, stackable
-- Hats/Helmets: `carved_pumpkin` - Wearable, no crafting recipes, but unfortunately placable and stackable
+- Hats/Helmets: `carved_pumpkin` - Wearable, no crafting recipes, but unfortunately placable and stackable ⚠ does not support transparency! ⚠
 - Statues: also `carved_pumpkin` - Easy to place on armor stand, but current models have to be reworked for this
 - Tools: nearest vanilla tool - depends on mining speed, (can be enchanted?)
-- Special exceptions based on vanilla mechanics (Shields, Buffalo Horn, etc.)
+- Special exceptions based on vanilla mechanics (Shields, Bows, Buffalo Horn, etc.)
 - Custom GUIs: `jigsaw`
 
 | name                          | item, custom model data | comments                          |
@@ -449,6 +449,13 @@ The following items are used for different categories of custom models:
 | Flintlock                     | `music_disc_cat`, 23    |                                   |
 | Blunderbuss                   | `music_disc_cat`, 24    |                                   |
 | Dirt Hose                     | `music_disc_cat`, 25    |                                   |
+| Dive Tanks                    | `music_disc_cat`, 26    |                                   |
+| Farmer Basket                 | `music_disc_cat`, 27    |                                   |
+| Plant in a Jar                | `music_disc_cat`, 28    |                                   |
+| Quiver                        | `music_disc_cat`, 29    |                                   |
+| Urn                           | `music_disc_cat`, 30    |                                   |
+| Witches Cauldron              | `music_disc_cat`, 31    |                                   |
+| Abyss Wings                   | `music_disc_cat`, 32    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
@@ -460,6 +467,8 @@ The following items are used for different categories of custom models:
 | Lumberjack Axe                | `stone_axe`, 1          |                                   |
 | Dwarven Pickaxe               | `iron_pickaxe`, 1       |                                   |
 | Dwarven Shovel                | `iron_shovel`, 1        |                                   |
+| Abyss Shovel                  | `iron_shovel`, 2        |                                   |
+| Abyss Sword                   | `iron_sword`, 1         |                                   |
 | Dwarven Axe                   | `iron_axe`, 1           |                                   |
 | Ancient Pickaxe               | `diamond_pickaxe`, 1    |                                   |
 | Dwarven Chestplate            | `diamond_chestplate`, 1 |                                   |
@@ -467,6 +476,7 @@ The following items are used for different categories of custom models:
 | Heater                        | `shield`, 2             |                                   |
 | Targe                         | `shield`, 3             |                                   |
 | Rapier                        | `shield`, 4             |                                   |
+| Abyss Bow                     | `bow`, 1                |                                   |
 | Beard                         | `carved_pumpkin`, 1     |                                   |
 | Dwarven Beard                 | `carved_pumpkin`, 2     |                                   |
 | Roamin Helmet                 | `carved_pumpkin`, 3     |                                   |
