@@ -449,9 +449,9 @@ The following items are used for different categories of custom models:
 | Flintlock                     | `music_disc_cat`, 23    |                                   |
 | Blunderbuss                   | `music_disc_cat`, 24    |                                   |
 | Dirt Hose                     | `music_disc_cat`, 25    |                                   |
-| Dive Tanks                    | `music_disc_cat`, 26    |                                   |
+| Oxygen Tanks                  | `music_disc_cat`, 26    |                                   |
 | Farmer Basket                 | `music_disc_cat`, 27    |                                   |
-| Plant in a Jar                | `music_disc_cat`, 28    |                                   |
+| Plant in a Bottle             | `music_disc_cat`, 28    |                                   |
 | Quiver                        | `music_disc_cat`, 29    |                                   |
 | Urn                           | `music_disc_cat`, 30    |                                   |
 | Witches Cauldron              | `music_disc_cat`, 31    |                                   |
