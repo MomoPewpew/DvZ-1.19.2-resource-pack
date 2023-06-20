@@ -9,7 +9,6 @@
 		{ "predicate": { "custom_model_data": 6 }, "model": "item/weapons/warhammer" },
 		{ "predicate": { "custom_model_data": 7 }, "model": "item/weapons/hammer" },
 		{ "predicate": { "custom_model_data": 8 }, "model": "item/weapons/malice" },
-		{ "predicate": { "custom_model_data": 9 }, "model": "item/weapons/gravedigger" },
 		{ "predicate": { "custom_model_data": 10 }, "model": "item/weapons/flame_fist" },
 		{ "predicate": { "custom_model_data": 11 }, "model": "item/weapons/flame_bow" },
 		{ "predicate": { "custom_model_data": 12 }, "model": "item/weapons/emerald_bow" },

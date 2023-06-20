@@ -432,7 +432,6 @@ The following items are used for different categories of custom models:
 | Warhammer                     | `music_disc_cat`, 6     |                                   |
 | Hammer                        | `music_disc_cat`, 7     |                                   |
 | Malice                        | `music_disc_cat`, 8     |                                   |
-| Gravedigger                   | `music_disc_cat`, 9     |                                   |
 | Flame Fist                    | `music_disc_cat`, 10    |                                   |
 | Flame Bow                     | `music_disc_cat`, 11    |                                   |
 | Emerald Bow                   | `music_disc_cat`, 12    |                                   |
@@ -468,6 +467,7 @@ The following items are used for different categories of custom models:
 | Dwarven Pickaxe               | `iron_pickaxe`, 1       |                                   |
 | Dwarven Shovel                | `iron_shovel`, 1        |                                   |
 | Abyss Shovel                  | `iron_shovel`, 2        |                                   |
+| Gravedigger                   | `iron_shovel`, 3        |                                   |
 | Abyss Sword                   | `iron_sword`, 1         |                                   |
 | Dwarven Axe                   | `iron_axe`, 1           |                                   |
 | Ancient Pickaxe               | `diamond_pickaxe`, 1    |                                   |
