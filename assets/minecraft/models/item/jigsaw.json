@@ -19,6 +19,11 @@
 		{ "predicate": { "custom_model_data": 16 }, "model": "item/gui/icons/class-architect" },
 		{ "predicate": { "custom_model_data": 17 }, "model": "item/gui/icons/class-rivermaster" },
 		{ "predicate": { "custom_model_data": 18 }, "model": "item/gui/icons/class-skirmisher" },
-		{ "predicate": { "custom_model_data": 19 }, "model": "item/gui/icons/class-berserker" }
+		{ "predicate": { "custom_model_data": 19 }, "model": "item/gui/icons/class-berserker" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "item/gui/icons/skill-dragon1" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "item/gui/icons/skill-dragon2" },
+		{ "predicate": { "custom_model_data": 22 }, "model": "item/gui/icons/skill-dragon3" },
+		{ "predicate": { "custom_model_data": 23 }, "model": "item/gui/icons/skill-dragon4" },
+		{ "predicate": { "custom_model_data": 24 }, "model": "item/gui/icons/skill-dragon5" }
 	]
 }

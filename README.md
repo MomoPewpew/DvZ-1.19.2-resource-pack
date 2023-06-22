@@ -545,6 +545,11 @@ The following items are used for different categories of custom models:
 | Icon: River Master Class      | `jigsaw`, 17            | icon, 1x1                         |
 | Icon: Skirmisher Class        | `jigsaw`, 18            | icon, 1x1                         |
 | Icon: Berserker Class         | `jigsaw`, 19            | icon, 1x1                         |
+| Icon: Dragon Skill 1          | `jigsaw`, 20            | icon, 1x1                         |
+| Icon: Dragon Skill 2          | `jigsaw`, 21            | icon, 1x1                         |
+| Icon: Dragon Skill 3          | `jigsaw`, 22            | icon, 1x1                         |
+| Icon: Dragon Skill 4          | `jigsaw`, 23            | icon, 1x1                         |
+| Icon: Dragon Skill 5          | `jigsaw`, 24            | icon, 1x1                         |
          
 ## Textures
 In addition to adding custom textures for the models, the following textures of existing items have been changed:
