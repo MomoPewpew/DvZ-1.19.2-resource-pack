@@ -411,9 +411,9 @@ The following custom sounds have been added:
 | [vampire.shadowball.loop](assets/minecraft/sounds/vampire/vampire.shadowball.loop.ogg)                              | `sound`           |
 | [vampire.stab](assets/minecraft/sounds/vampire/vampire.stab1.ogg)                                                   | `sound`           |
 | [vampire.ticktock](assets/minecraft/sounds/vampire/vampire.ticktock.ogg)                                            | `sound`           |
-| [msdvilspeech](assets/minecraft/sounds/msdvilspeech.ogg)                                                            | `sound`           |
-| [msdvilno](assets/minecraft/sounds/msdvilno.ogg)                                                                    | `sound`           |
-| [msdvilyes](assets/minecraft/sounds/msdvilyes.ogg)                                                                  | `sound`           |
+| [dvilspeech](assets/minecraft/sounds/dvilspeech.ogg)                                                                | `sound`           |
+| [dvilno](assets/minecraft/sounds/dvilno.ogg)                                                                        | `sound`           |
+| [dvilyes](assets/minecraft/sounds/dvilyes.ogg)                                                                      | `sound`           |
 
 ## Models
 The following items are used for different categories of custom models:
@@ -458,7 +458,7 @@ The following items are used for different categories of custom models:
 | Urn                           | `music_disc_cat`, 30    |                                   |
 | Witches Cauldron              | `music_disc_cat`, 31    |                                   |
 | Abyss Wings                   | `music_disc_cat`, 32    |                                   |
-| Abyss Wings (Pink)            | `music_disc_cat`, 33    |                                   |
+| Abyss Wings (White)           | `music_disc_cat`, 33    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
@@ -473,7 +473,7 @@ The following items are used for different categories of custom models:
 | Abyss Shovel                  | `iron_shovel`, 2        |                                   |
 | Gravedigger                   | `iron_shovel`, 3        |                                   |
 | Abyss Sword                   | `iron_sword`, 1         |                                   |
-| Abyss Sword (Pink)            | `iron_sword`, 2         |                                   |
+| Abyss Sword (White)           | `iron_sword`, 2         |                                   |
 | Dwarven Axe                   | `iron_axe`, 1           |                                   |
 | Ancient Pickaxe               | `diamond_pickaxe`, 1    |                                   |
 | Dwarven Chestplate            | `diamond_chestplate`, 1 |                                   |
