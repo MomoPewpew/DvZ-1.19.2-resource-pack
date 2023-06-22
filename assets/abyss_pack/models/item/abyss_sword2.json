@@ -1,0 +1,9 @@
+{
+	"parent": "abyss_pack:item/abyss_sword",
+	"textures": {
+		"1": "abyss_pack:item/abyss_sword2",
+		"2": "abyss_pack:item/abyss_eff_012",
+		"3": "abyss_pack:item/abyss_eff_022",
+		"particle": "abyss_pack:item/abyss_eff_012"
+	}
+}
