@@ -459,6 +459,7 @@ The following items are used for different categories of custom models:
 | Witches Cauldron              | `music_disc_cat`, 31    |                                   |
 | Abyss Wings                   | `music_disc_cat`, 32    |                                   |
 | Abyss Wings (White)           | `music_disc_cat`, 33    |                                   |
+| Abyss Wings (Black)           | `music_disc_cat`, 34    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
@@ -472,8 +473,11 @@ The following items are used for different categories of custom models:
 | Dwarven Shovel                | `iron_shovel`, 1        |                                   |
 | Abyss Shovel                  | `iron_shovel`, 2        |                                   |
 | Gravedigger                   | `iron_shovel`, 3        |                                   |
+| Abyss Shovel (White)          | `iron_shovel`, 4        |                                   |
+| Abyss Shovel (Black)          | `iron_shovel`, 5        |                                   |
 | Abyss Sword                   | `iron_sword`, 1         |                                   |
 | Abyss Sword (White)           | `iron_sword`, 2         |                                   |
+| Abyss Sword (Black)           | `iron_sword`, 3         |                                   |
 | Dwarven Axe                   | `iron_axe`, 1           |                                   |
 | Ancient Pickaxe               | `diamond_pickaxe`, 1    |                                   |
 | Dwarven Chestplate            | `diamond_chestplate`, 1 |                                   |
@@ -482,6 +486,8 @@ The following items are used for different categories of custom models:
 | Targe                         | `shield`, 3             |                                   |
 | Rapier                        | `shield`, 4             |                                   |
 | Abyss Bow                     | `bow`, 1                |                                   |
+| Abyss Bow (White)             | `bow`, 2                |                                   |
+| Abyss Bow (Black)             | `bow`, 3                |                                   |
 | Beard                         | `carved_pumpkin`, 1     |                                   |
 | Dwarven Beard                 | `carved_pumpkin`, 2     |                                   |
 | Roamin Helmet                 | `carved_pumpkin`, 3     |                                   |
