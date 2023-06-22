@@ -2,10 +2,10 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [52, 52],
 	"textures": {
-		"1": "abyss_pack:item/abyss_sword",
-		"2": "abyss_pack:item/abyss_eff_01",
-		"3": "abyss_pack:item/abyss_eff_02",
-		"particle": "abyss_pack:item/abyss_eff_01"
+		"1": "abyss_pack:item/abyss/abyss_sword",
+		"2": "abyss_pack:item/abyss/abyss_eff_01",
+		"3": "abyss_pack:item/abyss/abyss_eff_02",
+		"particle": "abyss_pack:item/abyss/abyss_eff_01"
 	},
 	"elements": [
 		{
