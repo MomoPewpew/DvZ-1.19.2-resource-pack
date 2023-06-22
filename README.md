@@ -608,7 +608,7 @@ The following blocks have been changed:
 - Darker Stone - `textures/blocks/bedrock.png`
 - Shrine - `textures/blocks/end_portal_frame_side.png`
 - Shrine - `textures/blocks/end_portal_frame_top.png`
-- Goblin Bomb - `textures/blocks/end_stone.png`
+- Goblin Bomb - `textures/blocks/end_stone_bricks.png`
 - Gobo TNT - `textures/blocks/tnt_bottom.png`
 - Gobo TNT - `textures/blocks/tnt_side.png`
 - Gobo TNT - `textures/blocks/tnt_top.png`
