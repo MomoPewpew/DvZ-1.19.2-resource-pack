@@ -414,6 +414,7 @@ The following custom sounds have been added:
 | [dvilspeech](assets/minecraft/sounds/dvilspeech.ogg)                                                                | `sound`           |
 | [dvilno](assets/minecraft/sounds/dvilno.ogg)                                                                        | `sound`           |
 | [dvilyes](assets/minecraft/sounds/dvilyes.ogg)                                                                      | `sound`           |
+| [dvilcall](assets/minecraft/sounds/dvilcall.ogg)                                                                    | `sound`           |
 
 ## Models
 The following items are used for different categories of custom models:
