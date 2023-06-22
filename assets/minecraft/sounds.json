@@ -1891,5 +1891,29 @@
                 "name": "vampire/vampire.ticktock"
             }
         ]
-	}
+	},
+    "dvilspeech": {
+        "sounds": [
+            {
+                "name": "dvilspeech",
+                "stream": true
+            }
+        ]
+    },
+    "dvilno": {
+        "sounds": [
+            {
+                "name": "dvilno",
+                "stream": true
+            }
+        ]
+    },
+    "dvilyes": {
+        "sounds": [
+            {
+                "name": "dvilyes",
+                "stream": true
+            }
+        ]
+    }
 }
