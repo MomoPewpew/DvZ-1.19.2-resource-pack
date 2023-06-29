@@ -109,9 +109,15 @@ json_file_path = os.path.join("assets", "dvz", "font", f"{video_name}.json")
 # Create the directory if it doesn't exist
 os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
 
-# Write JSON to file
+# Convert JSON object to string
+json_string = json.dumps(json_data, indent=4)
+
+# Replace double backslashes with single backslashes
+json_string = json_string.replace('\\\\', '\\')
+
+# Write JSON string to file
 with open(json_file_path, 'w') as json_file:
-    json.dump(json_data, json_file, indent=4)
+    json_file.write(json_string)
 
 print(f"Image resizing and saving completed. Total resized frames: {counter}")
 print(f"JSON file '{json_file_path}' generated successfully.")
