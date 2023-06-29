@@ -1,0 +1,337 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/000.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/001.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/002.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/003.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/004.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/005.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/006.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/007.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/008.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/009.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/010.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/011.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/012.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/013.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/014.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/015.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/016.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/017.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/018.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/019.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/020.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/021.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/022.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/023.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/024.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/025.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/026.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/027.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/028.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/029.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/030.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/031.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/032.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/033.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/034.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/035.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dvz:font/danger/036.png",
+            "ascent": 200,
+            "height": 256,
+            "chars": [
+                "\\uE036"
+            ]
+        }
+    ]
+}
