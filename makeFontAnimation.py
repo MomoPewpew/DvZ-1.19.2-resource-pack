@@ -2,6 +2,7 @@ import os
 import subprocess
 from PIL import Image
 import json
+import shutil
 
 # Get the first WebM file in the working directory
 webm_file = next(file for file in os.listdir('.') if file.endswith('.webm'))
@@ -9,6 +10,7 @@ video_name = os.path.splitext(webm_file)[0]
 
 # Create the output directory if it doesn't exist
 frames_dir = 'frames'
+shutil.rmtree(frames_dir)
 os.makedirs(frames_dir, exist_ok=True)
 output_dir = f'assets/dvz/textures/font/{video_name}'
 os.makedirs(output_dir, exist_ok=True)
