@@ -54,7 +54,8 @@ subprocess.run(command)
 counter = 0
 
 # List to store provider dictionaries
-providers = []
+providers_subtitle = []
+providers_actionbar = []
 
 # Iterate over images in the "frames" folder
 for frame_file in os.listdir(frames_dir):
@@ -91,38 +92,56 @@ for frame_file in os.listdir(frames_dir):
         new_image.save(output_file)
         
         # Generate provider dictionary
-        provider = {
+        provider_subtitle = {
+            "type": "bitmap",
+            "file": f"dvz:font/{video_name}/{counter:03}.png",
+            "ascent": 143,
+            "height": 256,
+            "chars": [f"\\uE{counter:03}"]
+        }
+        provider_actionbar = {
             "type": "bitmap",
             "file": f"dvz:font/{video_name}/{counter:03}.png",
             "ascent": 200,
             "height": 256,
             "chars": [f"\\uE{counter:03}"]
         }
-        providers.append(provider)
+        providers_subtitle.append(provider_subtitle)
+        providers_actionbar.append(provider_actionbar)
         
         # Increment the counter
         counter += 1
 
 # Generate JSON object
-json_data = {
-    "providers": providers
+json_data_subtitle = {
+    "providers": providers_subtitle
+}
+json_data_actionbar = {
+    "providers": providers_actionbar
 }
 
 # Determine the JSON file path
-json_file_path = os.path.join("assets", "dvz", "font", f"{video_name}.json")
+json_file_path_subtitle = os.path.join("assets", "dvz", "font", f"{video_name}_subtitle.json")
+json_file_path_actionbar = os.path.join("assets", "dvz", "font", f"{video_name}_actionbar.json")
 
 # Create the directory if it doesn't exist
-os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
+os.makedirs(os.path.dirname(json_file_path_subtitle), exist_ok=True)
+os.makedirs(os.path.dirname(json_file_path_actionbar), exist_ok=True)
 
 # Convert JSON object to string
-json_string = json.dumps(json_data, indent=4)
+json_string_subtitle = json.dumps(json_data_subtitle, indent=4)
+json_string_actionbar = json.dumps(json_data_actionbar, indent=4)
 
 # Replace double backslashes with single backslashes
-json_string = json_string.replace('\\\\', '\\')
+json_string_subtitle = json_string_subtitle.replace('\\\\', '\\')
+json_string_actionbar = json_string_actionbar.replace('\\\\', '\\')
 
 # Write JSON string to file
-with open(json_file_path, 'w') as json_file:
-    json_file.write(json_string)
+with open(json_file_path_subtitle, 'w') as json_file_subtitle:
+    json_file_subtitle.write(json_string_subtitle)
+
+with open(json_file_path_actionbar, 'w') as json_file_actionbar:
+    json_file_actionbar.write(json_string_actionbar)
 
 print(f"Image resizing and saving completed. Total resized frames: {counter}")
 print(f"JSON file '{json_file_path}' generated successfully.")
