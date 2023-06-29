@@ -72,7 +72,12 @@ for frame_file in os.listdir(frames_dir):
         image.thumbnail((256, 256), Image.ANTIALIAS)
         
         # Create a new blank image with transparency
-        new_image = Image.new("RGBA", (256, 256))
+        new_image = Image.new("RGBA", (256, 256), (0, 0, 0, 0))  # Initialize with transparent black
+
+        # Set the four outer corners to white with 1% alpha
+        corner_pixels = [(0, 0), (255, 0), (0, 255), (255, 255)]
+        for pixel in corner_pixels:
+            new_image.putpixel(pixel, (255, 255, 255, 1))  # Set white pixel with 1% alpha
         
         # Calculate the position to paste the resized image
         x_offset = (256 - image.width) // 2
