@@ -10,7 +10,9 @@ video_name = os.path.splitext(webm_file)[0]
 
 # Create the output directory if it doesn't exist
 frames_dir = 'frames'
-shutil.rmtree(frames_dir)
+if os.path.exists(frames_dir):
+    if os.path.isdir(frames_dir):
+        shutil.rmtree(frames_dir)
 os.makedirs(frames_dir, exist_ok=True)
 output_dir = f'assets/dvz/textures/font/{video_name}'
 os.makedirs(output_dir, exist_ok=True)
