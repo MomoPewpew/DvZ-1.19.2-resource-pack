@@ -32,6 +32,13 @@
 		{ "predicate": { "custom_model_data": 29 }, "model": "item/hats/headbox" },
 		{ "predicate": { "custom_model_data": 30 }, "model": "item/hats/knight_hat_red" },
 		{ "predicate": { "custom_model_data": 31 }, "model": "item/hats/knight_hat_green" },
+		{ "predicate": { "custom_model_data": 32 }, "model": "item/hats/jimmy_the_rat045" },
+		{ "predicate": { "custom_model_data": 33 }, "model": "item/hats/jimmy_the_rat090" },
+		{ "predicate": { "custom_model_data": 34 }, "model": "item/hats/jimmy_the_rat135" },
+		{ "predicate": { "custom_model_data": 35 }, "model": "item/hats/jimmy_the_rat180" },
+		{ "predicate": { "custom_model_data": 36 }, "model": "item/hats/jimmy_the_rat225" },
+		{ "predicate": { "custom_model_data": 37 }, "model": "item/hats/jimmy_the_rat270" },
+		{ "predicate": { "custom_model_data": 38 }, "model": "item/hats/jimmy_the_rat315" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "item/statues/zombie_walking" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "item/statues/zombie_standing" },

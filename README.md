@@ -520,6 +520,13 @@ The following items are used for different categories of custom models:
 | Headbox                       | `carved_pumpkin`, 29    |                                   |
 | Knight Helmet Red             | `carved_pumpkin`, 30    |                                   |
 | Knight Helmet Green           | `carved_pumpkin`, 31    |                                   |
+| Jimmy The Rat 45°             | `carved_pumpkin`, 32    |                                   |
+| Jimmy The Rat 90°             | `carved_pumpkin`, 33    |                                   |
+| Jimmy The Rat 135°            | `carved_pumpkin`, 34    |                                   |
+| Jimmy The Rat 180°            | `carved_pumpkin`, 35    |                                   |
+| Jimmy The Rat 225°            | `carved_pumpkin`, 36    |                                   |
+| Jimmy The Rat 270°            | `carved_pumpkin`, 37    |                                   |
+| Jimmy The Rat 315°            | `carved_pumpkin`, 38    |                                   |
 | Zombie Statue                 | `carved_pumpkin`, 1001  | Walking                           |
 | Zombie Statue                 | `carved_pumpkin`, 1002  | Standing                          |
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
