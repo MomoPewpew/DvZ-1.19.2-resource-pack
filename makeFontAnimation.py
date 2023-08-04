@@ -163,4 +163,6 @@ with open(json_file_path_actionbar, 'w') as json_file_actionbar:
     json_file_actionbar.write(json_string_actionbar)
 
 print(f"Image resizing and saving completed. Total resized frames: {counter}")
-print(f"JSON file '{json_file_path}' generated successfully.")
+print(f"JSON file '{json_file_path_title}' generated successfully.")
+print(f"JSON file '{json_file_path_subtitle}' generated successfully.")
+print(f"JSON file '{json_file_path_actionbar}' generated successfully.")
