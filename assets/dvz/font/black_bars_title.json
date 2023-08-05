@@ -1,0 +1,184 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "dvz:font/square/000.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/001.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/002.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/003.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/004.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/005.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/006.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/007.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/008.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/009.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/010.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/011.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/012.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/013.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/014.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/015.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/016.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/017.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/018.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+		        {
+            "type": "bitmap",
+            "file": "dvz:font/square/019.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        }
+    ]
+}
