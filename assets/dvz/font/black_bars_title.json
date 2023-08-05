@@ -9,7 +9,7 @@
                 "\uE000"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/001.png",
             "ascent": 125,
@@ -18,7 +18,7 @@
                 "\uE001"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/002.png",
             "ascent": 125,
@@ -27,7 +27,7 @@
                 "\uE002"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/003.png",
             "ascent": 125,
@@ -36,7 +36,7 @@
                 "\uE003"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/004.png",
             "ascent": 125,
@@ -45,7 +45,7 @@
                 "\uE004"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/005.png",
             "ascent": 125,
@@ -54,7 +54,7 @@
                 "\uE005"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/006.png",
             "ascent": 125,
@@ -63,7 +63,7 @@
                 "\uE006"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/007.png",
             "ascent": 125,
@@ -72,7 +72,7 @@
                 "\uE007"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/008.png",
             "ascent": 125,
@@ -81,7 +81,7 @@
                 "\uE008"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/009.png",
             "ascent": 125,
@@ -90,7 +90,7 @@
                 "\uE009"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/010.png",
             "ascent": 125,
@@ -99,7 +99,7 @@
                 "\uE010"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/011.png",
             "ascent": 125,
@@ -108,7 +108,7 @@
                 "\uE011"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/012.png",
             "ascent": 125,
@@ -117,7 +117,7 @@
                 "\uE012"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/013.png",
             "ascent": 125,
@@ -126,7 +126,7 @@
                 "\uE013"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/014.png",
             "ascent": 125,
@@ -135,7 +135,7 @@
                 "\uE014"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/015.png",
             "ascent": 125,
@@ -144,7 +144,7 @@
                 "\uE015"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/016.png",
             "ascent": 125,
@@ -153,7 +153,7 @@
                 "\uE016"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/017.png",
             "ascent": 125,
@@ -162,7 +162,7 @@
                 "\uE017"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/018.png",
             "ascent": 125,
@@ -171,7 +171,7 @@
                 "\uE018"
             ]
         },
-		        {
+		{
             "type": "bitmap",
             "file": "dvz:font/black_bars/019.png",
             "ascent": 125,
