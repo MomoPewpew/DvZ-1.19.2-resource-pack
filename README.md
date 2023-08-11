@@ -527,6 +527,14 @@ The following items are used for different categories of custom models:
 | Jimmy The Rat 225°            | `carved_pumpkin`, 36    |                                   |
 | Jimmy The Rat 270°            | `carved_pumpkin`, 37    |                                   |
 | Jimmy The Rat 315°            | `carved_pumpkin`, 38    |                                   |
+| Black Beard                   | `carved_pumpkin`, 39    |                                   |
+| Brown Beard                   | `carved_pumpkin`, 40    |                                   |
+| Gray Beard                    | `carved_pumpkin`, 41    |                                   |
+| Red Beard                     | `carved_pumpkin`, 42    |                                   |
+| Black Beard (Braided)         | `carved_pumpkin`, 43    |                                   |
+| Brown Beard (Braided)         | `carved_pumpkin`, 44    |                                   |
+| Gray Beard (Braided)          | `carved_pumpkin`, 45    |                                   |
+| Red Beard (Braided)           | `carved_pumpkin`, 46    |                                   |
 | Zombie Statue                 | `carved_pumpkin`, 1001  | Walking                           |
 | Zombie Statue                 | `carved_pumpkin`, 1002  | Standing                          |
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
