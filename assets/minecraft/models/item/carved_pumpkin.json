@@ -53,7 +53,7 @@
 		{ "predicate": { "custom_model_data": 50 }, "model": "item/hats/powdered_wig"},
 		{ "predicate": { "custom_model_data": 51 }, "model": "item/hats/pompadour"},
 		{ "predicate": { "custom_model_data": 52 }, "model": "item/hats/afro"},
-		{ "predicate": { "custom_model_data": 53 }, "model": "item/hats/CowboyHat"},
+		{ "predicate": { "custom_model_data": 53 }, "model": "item/hats/cowboy"},
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "item/statues/zombie_walking" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "item/statues/zombie_standing" },
