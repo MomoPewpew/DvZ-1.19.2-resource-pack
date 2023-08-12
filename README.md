@@ -543,10 +543,11 @@ The following items are used for different categories of custom models:
 | Red Beard (Braided)           | `carved_pumpkin`, 46    |                                   |
 | Fine Moustache                | `carved_pumpkin`, 47    |                                   |
 | VERY Fine Moustache           | `carved_pumpkin`, 48    |                                   |
-| Mohawk                         | `carved_pumpkin`, 49    |                                   |
+| Mohawk                        | `carved_pumpkin`, 49    |                                   |
 | Powdered Wig                  | `carved_pumpkin`, 50    |                                   |
 | Pompadour                     | `carved_pumpkin`, 51    |                                   |
 | Afro with Moustache           | `carved_pumpkin`, 52    |                                   |
+| Cowboy Hat                    | `carved_pumpkin`, 52    |                                   |
 | Zombie Statue                 | `carved_pumpkin`, 1001  | Walking                           |
 | Zombie Statue                 | `carved_pumpkin`, 1002  | Standing                          |
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
@@ -626,56 +627,59 @@ The following armor textures have been changed:
 - `textures/models/armor/iron_layer_2.png`
 
 The following blocks have been changed:
-- Sword Pickup - `textures/blocks/ladder.png`
-- Bow Pickup - `textures/blocks/detector_rail.png`
-- Axe Pickup - `textures/blocks/rail.png`
-- Pickaxe Pickup - `textures/blocks/activator_rail.png`
-- Juice Pickup - `textures/blocks/redstone_torch.png`
-- Juice Pickup - `textures/blocks/redstone_torch_off.png`
-- Sawmill - `textures/blocks/iron_bars.png`
-- Conveyor Belt - `textures/blocks/piston_side.png`
-- Conveyor Belt - `textures/blocks/piston_top_normal.png`
-- Conveyor Belt - `textures/blocks/piston_top_sticky.png`
-- Oil - `textures/blocks/sponge.png`
-- Blue Bricks - `textures/blocks/lapis_ore.png`
-- Darker Stone - `textures/blocks/bedrock.png`
-- Shrine - `textures/blocks/end_portal_frame_side.png`
-- Shrine - `textures/blocks/end_portal_frame_top.png`
-- Goblin Bomb - `textures/blocks/end_stone_bricks.png`
-- Gobo TNT - `textures/blocks/tnt_bottom.png`
-- Gobo TNT - `textures/blocks/tnt_side.png`
-- Gobo TNT - `textures/blocks/tnt_top.png`
-- Smooth Gold - `textures/blocks/gold_block.png`
-- Armor Crafting Mk. 1 - `textures/blocks/orange_wool.png`
-- Armor Crafting Mk. 2 - `textures/blocks/yellow_wool.png`
-- Armor Crafting Mk. 3 - `textures/blocks/magenta_wool.png`
-- Spider Poison - `textures/blocks/lime_wool.png`
-- Demon Catalyst - `textures/blocks/skulk_catalyst_bottom.png`
-- Demon Catalyst - `textures/blocks/skulk_catalyst_side.png`
-- Demon Catalyst - `textures/blocks/skulk_catalyst_side_bloom.png`
-- Demon Catalyst - `textures/blocks/skulk_catalyst_top.png`
-- Demon Catalyst - `textures/blocks/skulk_catalyst_top_bloom.png`
-- Demon Sensor - `textures/blocks/skulk_sensor_bottom.png`
-- Demon Sensor - `textures/blocks/skulk_sensor_side.png`
-- Demon Sensor - `textures/blocks/skulk_sensor_tendril_active.png`
-- Demon Sensor - `textures/blocks/skulk_sensor_tendril_inactive.png`
-- Demon Sensor - `textures/blocks/skulk_sensor_top.png`
-- Demon Shrieker - `textures/blocks/skulk_shrieker_bottom.png`
-- Demon Shrieker - `textures/blocks/sculk_shrieker_can_summon_inner_top.png`
-- Demon Shrieker - `textures/blocks/sculk_shrieker_inner_top.png`
-- Demon Shrieker - `textures/blocks/skulk_shrieker_side.png`
-- Demon Shrieker - `textures/blocks/skulk_shrieker_top.png`
-- Demon Vein - `textures/blocks/skulk_vein.png`
-- Demon Block - `textures/blocks/skulk.png`
-- Demon Campfire - `textures/blocks/soul_campfire_fire.png`
-- Demon Campfire - `textures/blocks/soul_campfire_log_lit.png`
-- Demon Fire - `textures/blocks/soul_fire_0.png`
-- Demon Fire - `textures/blocks/soul_fire_1.png`
-- Demon Lantern - `textures/blocks/soul_lantern.png`
-- Blood Splatter Dot - `textures/blocks/redstone_dust_dot.png`
-- Blood Splatter Line1 - `textures/blocks/redstone_dust_line0.png`
-- Blood Splatter Line2 - `textures/blocks/redstone_dust_line1.png`
-- Redstone Block (animated) - `textures/blocks/redstone_dust_line1.png`
+- Sword Pickup - `textures/block/ladder.png`
+- Bow Pickup - `textures/block/detector_rail.png`
+- Axe Pickup - `textures/block/rail.png`
+- Pickaxe Pickup - `textures/block/activator_rail.png`
+- Juice Pickup - `textures/block/redstone_torch.png`
+- Juice Pickup - `textures/block/redstone_torch_off.png`
+- Sawmill - `textures/block/iron_bars.png`
+- Conveyor Belt - `textures/block/piston_side.png`
+- Conveyor Belt - `textures/block/piston_top_normal.png`
+- Conveyor Belt - `textures/block/piston_top_sticky.png`
+- Oil - `textures/block/sponge.png`
+- Blue Bricks - `textures/block/lapis_ore.png`
+- Darker Stone - `textures/block/bedrock.png`
+- Shrine - `textures/block/end_portal_frame_side.png`
+- Shrine - `textures/block/end_portal_frame_top.png`
+- Goblin Bomb - `textures/block/end_stone_bricks.png`
+- Gobo TNT - `textures/block/tnt_bottom.png`
+- Gobo TNT - `textures/block/tnt_side.png`
+- Gobo TNT - `textures/block/tnt_top.png`
+- Smooth Gold - `textures/block/gold_block.png`
+- Armor Crafting Mk. 1 - `textures/block/orange_wool.png`
+- Armor Crafting Mk. 2 - `textures/block/yellow_wool.png`
+- Armor Crafting Mk. 3 - `textures/block/magenta_wool.png`
+- Spider Poison - `textures/block/lime_wool.png`
+- Demon Catalyst - `textures/block/skulk_catalyst_bottom.png`
+- Demon Catalyst - `textures/block/skulk_catalyst_side.png`
+- Demon Catalyst - `textures/block/skulk_catalyst_side_bloom.png`
+- Demon Catalyst - `textures/block/skulk_catalyst_top.png`
+- Demon Catalyst - `textures/block/skulk_catalyst_top_bloom.png`
+- Demon Sensor - `textures/block/skulk_sensor_bottom.png`
+- Demon Sensor - `textures/block/skulk_sensor_side.png`
+- Demon Sensor - `textures/block/skulk_sensor_tendril_active.png`
+- Demon Sensor - `textures/block/skulk_sensor_tendril_inactive.png`
+- Demon Sensor - `textures/block/skulk_sensor_top.png`
+- Demon Shrieker - `textures/block/skulk_shrieker_bottom.png`
+- Demon Shrieker - `textures/block/sculk_shrieker_can_summon_inner_top.png`
+- Demon Shrieker - `textures/block/sculk_shrieker_inner_top.png`
+- Demon Shrieker - `textures/block/skulk_shrieker_side.png`
+- Demon Shrieker - `textures/block/skulk_shrieker_top.png`
+- Demon Vein - `textures/block/skulk_vein.png`
+- Demon Block - `textures/block/skulk.png`
+- Demon Campfire - `textures/block/soul_campfire_fire.png`
+- Demon Campfire - `textures/block/soul_campfire_log_lit.png`
+- Demon Fire - `textures/block/soul_fire_0.png`
+- Demon Fire - `textures/block/soul_fire_1.png`
+- Demon Lantern - `textures/block/soul_lantern.png`
+- Blood Splatter Dot - `textures/block/redstone_dust_dot.png`
+- Blood Splatter Line1 - `textures/block/redstone_dust_line0.png`
+- Blood Splatter Line2 - `textures/block/redstone_dust_line1.png`
+- Composter - `textures/block/composter_compost.png`
+- Honey Block Bottom - `textures/block/honey_block_bottom.png`
+- Honey Block Side - `textures/block/honey_block_bottom.png`
+- Honey Block Top - `textures/block/honey_block_bottom.png`
 
 The following GUI textures have been added/changed:
 - `textures/gui/widgets.png` - Dark toolbar by VanillaTweaks
