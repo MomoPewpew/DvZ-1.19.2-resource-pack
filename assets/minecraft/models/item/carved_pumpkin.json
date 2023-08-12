@@ -47,6 +47,12 @@
 		{ "predicate": { "custom_model_data": 44 }, "model": "item/hats/beards/beard2-brown"},
 		{ "predicate": { "custom_model_data": 45 }, "model": "item/hats/beards/beard2-gray"},
 		{ "predicate": { "custom_model_data": 46 }, "model": "item/hats/beards/beard2-red"},
+		{ "predicate": { "custom_model_data": 47 }, "model": "item/hats/fine_moustache"},
+		{ "predicate": { "custom_model_data": 48 }, "model": "item/hats/very_fine_moustache"},
+		{ "predicate": { "custom_model_data": 49 }, "model": "item/hats/mohawk"},
+		{ "predicate": { "custom_model_data": 50 }, "model": "item/hats/powdered_wig"},
+		{ "predicate": { "custom_model_data": 51 }, "model": "item/hats/pompadour"},
+		{ "predicate": { "custom_model_data": 52 }, "model": "item/hats/afro"},
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "item/statues/zombie_walking" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "item/statues/zombie_standing" },

@@ -461,6 +461,11 @@ The following items are used for different categories of custom models:
 | Abyss Wings                   | `music_disc_cat`, 32    |                                   |
 | Abyss Wings (White)           | `music_disc_cat`, 33    |                                   |
 | Abyss Wings (Black)           | `music_disc_cat`, 34    |                                   |
+| Regrowth Morning Star         | `music_disc_cat`, 35    |                                   |
+| Paladin Staff                 | `music_disc_cat`, 36    |                                   |
+| Syringe (Empty)               | `music_disc_cat`, 37    |                                   |
+| Syringe (Half Full)              | `music_disc_cat`, 38    |                                   |
+| Syringe (Full)                | `music_disc_cat`, 39    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
@@ -486,6 +491,7 @@ The following items are used for different categories of custom models:
 | Heater                        | `shield`, 2             |                                   |
 | Targe                         | `shield`, 3             |                                   |
 | Rapier                        | `shield`, 4             |                                   |
+| The Wall                      | `shield`, 5             |                                   |
 | Abyss Bow                     | `bow`, 1                |                                   |
 | Abyss Bow (White)             | `bow`, 2                |                                   |
 | Abyss Bow (Black)             | `bow`, 3                |                                   |
@@ -535,6 +541,12 @@ The following items are used for different categories of custom models:
 | Brown Beard (Braided)         | `carved_pumpkin`, 44    |                                   |
 | Gray Beard (Braided)          | `carved_pumpkin`, 45    |                                   |
 | Red Beard (Braided)           | `carved_pumpkin`, 46    |                                   |
+| Fine Moustache                | `carved_pumpkin`, 47    |                                   |
+| VERY Fine Moustache           | `carved_pumpkin`, 48    |                                   |
+| Mohawk                         | `carved_pumpkin`, 49    |                                   |
+| Powdered Wig                  | `carved_pumpkin`, 50    |                                   |
+| Pompadour                     | `carved_pumpkin`, 51    |                                   |
+| Afro with Moustache           | `carved_pumpkin`, 52    |                                   |
 | Zombie Statue                 | `carved_pumpkin`, 1001  | Walking                           |
 | Zombie Statue                 | `carved_pumpkin`, 1002  | Standing                          |
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |

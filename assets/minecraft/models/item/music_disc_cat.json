@@ -33,6 +33,11 @@
 		{ "predicate": { "custom_model_data": 31 }, "model": "vs:item/vs_back_witch" },
 		{ "predicate": { "custom_model_data": 32 }, "model": "abyss_pack:item/abyss_wings" },
 		{ "predicate": { "custom_model_data": 33 }, "model": "abyss_pack:item/abyss_wings_white" },
-		{ "predicate": { "custom_model_data": 34 }, "model": "abyss_pack:item/abyss_wings_black" }
+		{ "predicate": { "custom_model_data": 34 }, "model": "abyss_pack:item/abyss_wings_black" },
+		{ "predicate": { "custom_model_data": 35 }, "model": "item/weapons/regrowth_morning_star" },
+		{ "predicate": { "custom_model_data": 36 }, "model": "item/weapons/paladin_staff" },
+		{ "predicate": { "custom_model_data": 37 }, "model": "item/weapons/syringe1" },
+		{ "predicate": { "custom_model_data": 38 }, "model": "item/weapons/syringe2" },
+		{ "predicate": { "custom_model_data": 39 }, "model": "item/weapons/syringe3" }
 	]
 }

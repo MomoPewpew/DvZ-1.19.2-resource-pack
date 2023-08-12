@@ -9,6 +9,8 @@
 		{ "predicate": { "custom_model_data": 3, "blocking": 0 }, "model": "item/shields/targe" },
 		{ "predicate": { "custom_model_data": 3, "blocking": 1 }, "model": "item/shields/targe_blocking" },
 		{ "predicate": { "custom_model_data": 4, "blocking": 0 }, "model": "item/shields/rapier" },
-		{ "predicate": { "custom_model_data": 4, "blocking": 1 }, "model": "item/shields/rapier_blocking" }
+		{ "predicate": { "custom_model_data": 4, "blocking": 1 }, "model": "item/shields/rapier_blocking" },
+		{ "predicate": { "custom_model_data": 5, "blocking": 0 }, "model": "item/shields/thewall" },
+		{ "predicate": { "custom_model_data": 5, "blocking": 1 }, "model": "item/shields/thewall_blocking" }
 	]
 }
