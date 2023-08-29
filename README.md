@@ -464,7 +464,7 @@ The following items are used for different categories of custom models:
 | Regrowth Morning Star         | `music_disc_cat`, 35    |                                   |
 | Paladin Staff                 | `music_disc_cat`, 36    |                                   |
 | Syringe (Empty)               | `music_disc_cat`, 37    |                                   |
-| Syringe (Half Full)              | `music_disc_cat`, 38    |                                   |
+| Syringe (Half Full)           | `music_disc_cat`, 38    |                                   |
 | Syringe (Full)                | `music_disc_cat`, 39    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
@@ -547,7 +547,8 @@ The following items are used for different categories of custom models:
 | Powdered Wig                  | `carved_pumpkin`, 50    |                                   |
 | Pompadour                     | `carved_pumpkin`, 51    |                                   |
 | Afro with Moustache           | `carved_pumpkin`, 52    |                                   |
-| Cowboy Hat                    | `carved_pumpkin`, 52    |                                   |
+| Cowboy Hat                    | `carved_pumpkin`, 53    |                                   |
+| Manbun                        | `carved_pumpkin`, 54    |                                   |
 | Zombie Statue                 | `carved_pumpkin`, 1001  | Walking                           |
 | Zombie Statue                 | `carved_pumpkin`, 1002  | Standing                          |
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
