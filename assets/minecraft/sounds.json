@@ -1838,7 +1838,7 @@
 			}
 		]
 	},
-	"ambient.cave2": {
+	"spooky": {
 		"sounds": [
 		  "ambient/cave/cave1",
 		  "ambient/cave/cave2",
