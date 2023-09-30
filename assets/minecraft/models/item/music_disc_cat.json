@@ -38,6 +38,7 @@
 		{ "predicate": { "custom_model_data": 36 }, "model": "item/weapons/paladin_staff" },
 		{ "predicate": { "custom_model_data": 37 }, "model": "item/weapons/syringe1" },
 		{ "predicate": { "custom_model_data": 38 }, "model": "item/weapons/syringe2" },
-		{ "predicate": { "custom_model_data": 39 }, "model": "item/weapons/syringe3" }
+		{ "predicate": { "custom_model_data": 39 }, "model": "item/weapons/syringe3" },
+		{ "predicate": { "custom_model_data": 40 }, "model": "item/tools/grondboor" }
 	]
 }
