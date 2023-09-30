@@ -415,6 +415,7 @@ The following custom sounds have been added:
 | [dvilno](assets/minecraft/sounds/dvilno.ogg)                                                                        | `sound`           |
 | [dvilyes](assets/minecraft/sounds/dvilyes.ogg)                                                                      | `sound`           |
 | [dvilcall](assets/minecraft/sounds/dvilcall.ogg)                                                                    | `sound`           |
+| ambient.cave2 (this is the default minecraft ambient cave sounds, but with a different name)                        | `sound`           |
 
 ## Models
 The following items are used for different categories of custom models:
