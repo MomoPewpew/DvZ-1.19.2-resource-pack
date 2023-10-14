@@ -55,6 +55,10 @@
 		{ "predicate": { "custom_model_data": 52 }, "model": "item/hats/afro" },
 		{ "predicate": { "custom_model_data": 53 }, "model": "item/hats/cowboy" },
 		{ "predicate": { "custom_model_data": 54 }, "model": "item/hats/manbun" },
+		{ "predicate": { "custom_model_data": 55 }, "model": "item/hats/knight_helmet" },
+		{ "predicate": { "custom_model_data": 56 }, "model": "item/hats/captain_helmet" },
+		{ "predicate": { "custom_model_data": 57 }, "model": "item/hats/waluigi" },
+		{ "predicate": { "custom_model_data": 58 }, "model": "item/hats/waluigi_small" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "item/statues/zombie_walking" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "item/statues/zombie_standing" },
