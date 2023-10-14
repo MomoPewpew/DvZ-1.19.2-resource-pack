@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/soggy_bread/texture",
-		"1": "items/soggy_bread/drip",
-		"particle": "items/soggy_bread/texture"
+		"0": "item/items/soggy_bread/texture",
+		"1": "item/items/soggy_bread/drip",
+		"particle": "item/items/soggy_bread/texture"
 	},
 	"elements": [
 		{
