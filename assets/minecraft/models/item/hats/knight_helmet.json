@@ -4,7 +4,7 @@
 		"2": "item/hats/Chaintexture",
 		"cross": "item/hats/hats_roamin1",
 		"metal": "item/hats/hats_roamin2",
-		"particle": "item/hats/Chaintexture"
+		"particle": "item/hats/chaintexture"
 	},
 	"elements": [
 		{
