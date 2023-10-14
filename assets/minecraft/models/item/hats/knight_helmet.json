@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "item/hats/chaintexture",
+		"particle": "item/hats/chaintexture",
 		"cross": "item/hats/hats_roamin1",
-		"metal": "item/hats/hats_roamin2",
-		"particle": "item/hats/chaintexture"
+		"metal": "item/hats/hats_roamin2"
 	},
 	"elements": [
 		{
@@ -420,6 +420,27 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -2.5, 0.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -2.5, 0.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"scale": [0.6, 0.6, 0.6]
+		},
 		"gui": {
 			"rotation": [15, -23, 0],
 			"scale": [0.88, 0.88, 0.88]
