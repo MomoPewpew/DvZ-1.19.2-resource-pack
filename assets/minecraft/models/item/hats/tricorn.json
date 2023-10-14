@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/hats/Main texture",
-		"2": "item/hats/Feather",
-		"3": "item/hats/Ribon",
-		"particle": "item/hats/Feather"
+		"1": "item/hats/tricorn/main",
+		"2": "item/hats/tricorn/feather",
+		"3": "item/hats/tricorn/ribbon",
+		"particle": "item/hats/feather"
 	},
 	"elements": [
 		{
