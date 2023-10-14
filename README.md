@@ -587,6 +587,7 @@ The following items are used for different categories of custom models:
 | Icon: Dragon Skill 3          | `jigsaw`, 22            | icon, 1x1                         |
 | Icon: Dragon Skill 4          | `jigsaw`, 23            | icon, 1x1                         |
 | Icon: Dragon Skill 5          | `jigsaw`, 24            | icon, 1x1                         |
+| Horn of the Buffalo           | `goat_horn`, 1          |                                   |
          
 ## Textures
 In addition to adding custom textures for the models, the following textures of existing items have been changed:
