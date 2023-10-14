@@ -468,6 +468,7 @@ The following items are used for different categories of custom models:
 | Syringe (Half Full)           | `music_disc_cat`, 38    |                                   |
 | Syringe (Full)                | `music_disc_cat`, 39    |                                   |
 | Grondboor                     | `music_disc_cat`, 40    |                                   |
+| Rune Dagger                   | `music_disc_cat`, 41    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
