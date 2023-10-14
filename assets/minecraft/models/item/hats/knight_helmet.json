@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "item/hats/Chaintexture",
+		"2": "item/hats/chaintexture",
 		"cross": "item/hats/hats_roamin1",
 		"metal": "item/hats/hats_roamin2",
 		"particle": "item/hats/chaintexture"
