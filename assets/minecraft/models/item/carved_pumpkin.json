@@ -59,6 +59,7 @@
 		{ "predicate": { "custom_model_data": 56 }, "model": "item/hats/captain_helmet" },
 		{ "predicate": { "custom_model_data": 57 }, "model": "item/hats/waluigi" },
 		{ "predicate": { "custom_model_data": 58 }, "model": "item/hats/waluigi_small" },
+		{ "predicate": { "custom_model_data": 59 }, "model": "item/hats/tricorn" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "item/statues/zombie_walking" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "item/statues/zombie_standing" },

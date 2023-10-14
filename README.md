@@ -555,6 +555,7 @@ The following items are used for different categories of custom models:
 | Captain Helmet                | `carved_pumpkin`, 56    |                                   |
 | Waluigi Moustache             | `carved_pumpkin`, 57    |                                   |
 | Waluigi Moustache Small       | `carved_pumpkin`, 58    |                                   |
+| Tricorn                       | `carved_pumpkin`, 59    |                                   |
 | Zombie Statue                 | `carved_pumpkin`, 1001  | Walking                           |
 | Zombie Statue                 | `carved_pumpkin`, 1002  | Standing                          |
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
