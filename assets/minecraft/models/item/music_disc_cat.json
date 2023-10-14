@@ -40,6 +40,13 @@
 		{ "predicate": { "custom_model_data": 38 }, "model": "item/weapons/syringe2" },
 		{ "predicate": { "custom_model_data": 39 }, "model": "item/weapons/syringe3" },
 		{ "predicate": { "custom_model_data": 40 }, "model": "item/tools/grondboor" },
-		{ "predicate": { "custom_model_data": 41 }, "model": "item/weapons/runedagger" }
+		{ "predicate": { "custom_model_data": 41 }, "model": "item/weapons/runedagger" },
+		{ "predicate": { "custom_model_data": 42 }, "model": "item/weapons/lowq_hammer" },
+		{ "predicate": { "custom_model_data": 43 }, "model": "item/weapons/lowq_runeblade" },
+		{ "predicate": { "custom_model_data": 44 }, "model": "item/weapons/lowq_flamer" },
+		{ "predicate": { "custom_model_data": 45 }, "model": "item/weapons/lowq_foamer" },
+		{ "predicate": { "custom_model_data": 46 }, "model": "item/weapons/lowq_dirthose" },
+		{ "predicate": { "custom_model_data": 47 }, "model": "item/weapons/lowq_ghostbuster" },
+		{ "predicate": { "custom_model_data": 48 }, "model": "item/weapons/lowq_juicer" }
 	]
 }

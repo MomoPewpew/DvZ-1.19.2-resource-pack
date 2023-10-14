@@ -469,6 +469,13 @@ The following items are used for different categories of custom models:
 | Syringe (Full)                | `music_disc_cat`, 39    |                                   |
 | Grondboor                     | `music_disc_cat`, 40    |                                   |
 | Rune Dagger                   | `music_disc_cat`, 41    |                                   |
+| Low Poly Runeblade            | `music_disc_cat`, 42    |                                   |
+| Low Poly Hammer               | `music_disc_cat`, 43    |                                   |
+| Low Poly Flamer               | `music_disc_cat`, 44    |                                   |
+| Low Poly Foamer               | `music_disc_cat`, 45    |                                   |
+| Low Poly Dirthose             | `music_disc_cat`, 46    |                                   |
+| Low Poly Ghostbuster          | `music_disc_cat`, 47    |                                   |
+| Low Poly Juicer               | `music_disc_cat`, 48    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
