@@ -569,6 +569,7 @@ The following items are used for different categories of custom models:
 | Zombie Statue                 | `carved_pumpkin`, 1003  | Crawling                          |
 | Zombie Statue                 | `carved_pumpkin`, 1004  | Sneaking                          |
 | Bruce Statue                  | `carved_pumpkin`, 1005  | Heroic                            |
+| Soggy Bread                   | `bread`, 1              |                                   |
 | Tinder Flame (3D model)       | `spyglass`, 1           |                                   |
 | Ale                           | `honey_bottle`, 1       |                                   |
 | Skill Tree GUI                | `jigsaw`, 1             | row 2, col 1 of 3-row inventory   |
