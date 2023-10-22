@@ -1,5 +1,5 @@
 {
-	"credit": "Not to be reused. Created for the Buffalo Wizard Servers",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"runemk1_blade": "item/weapons/runemk1_blade",
 		"runemk1_shell": "item/weapons/runemk1_shell",
@@ -63,7 +63,7 @@
 		{
 			"from": [7.8, 2.7, 8.7],
 			"to": [8.2, 6.3, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8.03125, 7.6875, 7.3125]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.03125, 7.6875, 7.3125]},
 			"faces": {
 				"north": {"uv": [0.4, 0, 0, 3.6], "texture": "#runemk1_guard"},
 				"east": {"uv": [0.3, 0, 0, 3.6], "texture": "#runemk1_guard"},
@@ -124,8 +124,8 @@
 			}
 		},
 		{
-			"from": [8.2, 7.3, 7.5],
-			"to": [8.2, 9.95, 7.9],
+			"from": [8.3, 7.3, 7.5],
+			"to": [8.3, 9.95, 7.9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 2.65], "texture": "#runemk1_rune"},
@@ -202,9 +202,9 @@
 			}
 		},
 		{
-			"from": [7.6, 9.48, 7.425],
-			"to": [7.8, 10.28, 7.625],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.6, 9.8, 7.4]},
+			"from": [7.6, 9.48521, 7.42436],
+			"to": [7.8, 10.28521, 7.62436],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.6, 9.80521, 7.39936]},
 			"faces": {
 				"north": {"uv": [0, 0, 0.2, 0.8], "texture": "#runemk1_shell"},
 				"east": {"uv": [0, 0, 0.2, 0.8], "texture": "#runemk1_shell"},
@@ -215,9 +215,9 @@
 			}
 		},
 		{
-			"from": [8.2, 9.48, 7.425],
-			"to": [8.4, 10.28, 7.625],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.6, 9.8, 7.4]},
+			"from": [8.2, 9.48521, 7.42436],
+			"to": [8.4, 10.28521, 7.62436],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.6, 9.80521, 7.39936]},
 			"faces": {
 				"north": {"uv": [0, 0, 0.2, 0.8], "texture": "#runemk1_shell"},
 				"east": {"uv": [0, 0, 0.2, 0.8], "texture": "#runemk1_shell"},
@@ -228,9 +228,9 @@
 			}
 		},
 		{
-			"from": [8.2, 9.48, 7.775],
-			"to": [8.4, 10.28, 7.975],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.6, 9.8, 8]},
+			"from": [8.2, 9.48521, 7.77564],
+			"to": [8.4, 10.28521, 7.97564],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.6, 9.80521, 8.00064]},
 			"faces": {
 				"north": {"uv": [0.2, 0, 0.4, 0.8], "texture": "#runemk1_shell"},
 				"east": {"uv": [0.2, 0, 0.4, 0.8], "texture": "#runemk1_shell"},
@@ -241,9 +241,9 @@
 			}
 		},
 		{
-			"from": [7.6, 9.48, 7.775],
-			"to": [7.8, 10.28, 7.975],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.6, 9.8, 8]},
+			"from": [7.6, 9.48521, 7.77564],
+			"to": [7.8, 10.28521, 7.97564],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.6, 9.80521, 8.00064]},
 			"faces": {
 				"north": {"uv": [0.2, 0, 0.4, 0.8], "texture": "#runemk1_shell"},
 				"east": {"uv": [0.2, 0, 0.4, 0.8], "texture": "#runemk1_shell"},
@@ -256,7 +256,7 @@
 		{
 			"from": [7.8, 11, 8.35],
 			"to": [8.2, 11.9, 8.9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.95, 13.45, 8.25]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.95, 13.45, 8.25]},
 			"faces": {
 				"north": {"uv": [11, 7, 12, 8], "texture": "#runemk1_blade"},
 				"east": {"uv": [11, 7, 12, 8], "texture": "#runemk1_blade"},
@@ -269,7 +269,7 @@
 		{
 			"from": [7.8, 11, 7.4],
 			"to": [8.2, 14, 7.85],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.95, 13.45, 8.25]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.95, 13.45, 8.25]},
 			"faces": {
 				"north": {"uv": [9, 7, 10, 10], "texture": "#runemk1_blade"},
 				"east": {"uv": [11, 7, 12, 8], "texture": "#runemk1_blade"},
@@ -308,7 +308,7 @@
 		{
 			"from": [7.8, 11.5, 7.85],
 			"to": [8.2, 11.85, 8.35],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 11.15, 7.525]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11.15, 7.525]},
 			"faces": {
 				"north": {"uv": [0, 0, 0.4, 0.35], "rotation": 180, "texture": "#runemk1_blade"},
 				"east": {"uv": [11, 7, 11.35, 7.5], "rotation": 270, "texture": "#runemk1_blade"},
