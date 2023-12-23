@@ -4,7 +4,7 @@
 		"1": "item/hats/tricorn/main",
 		"2": "item/hats/tricorn/feather",
 		"3": "item/hats/tricorn/ribbon",
-		"particle": "item/hats/feather"
+		"particle": "item/hats/tricorn/feather"
 	},
 	"elements": [
 		{
