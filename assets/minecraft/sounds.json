@@ -451,6 +451,14 @@
 		"sounds": ["random/custom.bowhit1", "random/custom.bowhit2", "random/custom.bowhit3", "random/custom.bowhit4"],
 		"subtitle": "subtitles.entity.arrow.hit"
 	},
+	"random.drink": {
+		"replace": true,
+		"sounds": ["random/drink"]
+	},
+	"random.levelup": {
+		"replace": true,
+		"sounds": ["random/levelup"]
+	},
 	"roaminflamethrower": {
 		"sounds": [
 			{
@@ -682,6 +690,14 @@
 		"sounds": [
 			{
 				"name": "sawmillaccident",
+				"stream": true
+			}
+		]
+	},
+	"nisovin.tinderflameload": {
+		"sounds": [
+			{
+				"name": "nisovin.tinderflameload",
 				"stream": true
 			}
 		]
