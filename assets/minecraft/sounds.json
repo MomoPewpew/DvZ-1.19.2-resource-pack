@@ -696,34 +696,14 @@
 	},
 	"nisovin.tinderflamedraw": {
 		"sounds": [
-			{
-				"name": "nisovin.tinderflamedraw",
-				"stream": true
-			}
+			"nisovin.tinderflamedraw",
 		]
 	},
-	"nisovin.tinderflame1": {
+	"nisovin.tinderflame": {
 		"sounds": [
-			{
-				"name": "nisovin.tinderflame1",
-				"stream": true
-			}
-		]
-	},
-	"nisovin.tinderflame2": {
-		"sounds": [
-			{
-				"name": "nisovin.tinderflame2",
-				"stream": true
-			}
-		]
-	},
-	"nisovin.tinderflame3": {
-		"sounds": [
-			{
-				"name": "nisovin.tinderflame3",
-				"stream": true
-			}
+			"nisovin.tinderflame1",
+			"nisovin.tinderflame2",
+			"nisovin.tinderflame3",
 		]
 	},
 	"arcane.bigblast": {
