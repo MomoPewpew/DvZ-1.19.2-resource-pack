@@ -694,10 +694,34 @@
 			}
 		]
 	},
-	"nisovin.tinderflameload": {
+	"nisovin.tinderflamedraw": {
 		"sounds": [
 			{
-				"name": "nisovin.tinderflameload",
+				"name": "nisovin.tinderflamedraw",
+				"stream": true
+			}
+		]
+	},
+	"nisovin.tinderflame1": {
+		"sounds": [
+			{
+				"name": "nisovin.tinderflame1",
+				"stream": true
+			}
+		]
+	},
+	"nisovin.tinderflame2": {
+		"sounds": [
+			{
+				"name": "nisovin.tinderflame2",
+				"stream": true
+			}
+		]
+	},
+	"nisovin.tinderflame3": {
+		"sounds": [
+			{
+				"name": "nisovin.tinderflame3",
 				"stream": true
 			}
 		]
