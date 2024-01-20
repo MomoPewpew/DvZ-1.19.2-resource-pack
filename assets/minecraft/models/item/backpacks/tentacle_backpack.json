@@ -204,6 +204,21 @@
 		},
 		"thirdperson_lefthand": {
 			"scale": [4, 4, 4]
+		},
+		"firstperson_righthand": {
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"scale": [4, 4, 4]
+		},
+		"ground": {
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"scale": [4, 4, 4]
 		}
 	}
 }
