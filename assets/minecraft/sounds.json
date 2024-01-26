@@ -696,14 +696,14 @@
 	},
 	"nisovin.tinderflamedraw": {
 		"sounds": [
-			"nisovin.tinderflamedraw",
+			"nisovin.tinderflamedraw"
 		]
 	},
 	"nisovin.tinderflame": {
 		"sounds": [
 			"nisovin.tinderflame1",
 			"nisovin.tinderflame2",
-			"nisovin.tinderflame3",
+			"nisovin.tinderflame3"
 		]
 	},
 	"arcane.bigblast": {
