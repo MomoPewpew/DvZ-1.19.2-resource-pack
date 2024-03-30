@@ -48,6 +48,7 @@
 		{ "predicate": { "custom_model_data": 46 }, "model": "item/weapons/lowq_dirthose" },
 		{ "predicate": { "custom_model_data": 47 }, "model": "item/weapons/lowq_ghostbuster" },
 		{ "predicate": { "custom_model_data": 48 }, "model": "item/weapons/lowq_juicer" },
-		{ "predicate": { "custom_model_data": 49 }, "model": "item/backpacks/tentacle_backpack" }
+		{ "predicate": { "custom_model_data": 49 }, "model": "item/backpacks/tentacle_backpack" },
+		{ "predicate": { "custom_model_data": 50 }, "model": "item/holidays/egg" }
 	]
 }
