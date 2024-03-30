@@ -476,6 +476,8 @@ The following items are used for different categories of custom models:
 | Low Poly Dirthose             | `music_disc_cat`, 46    |                                   |
 | Low Poly Ghostbuster          | `music_disc_cat`, 47    |                                   |
 | Low Poly Juicer               | `music_disc_cat`, 48    |                                   |
+| Tentacle Backpack             | `music_disc_cat`, 49    |                                   |
+| Easter Egg                    | `music_disc_cat`, 50    |                                   |
 | D20                           | `rabbit_foot`, 1        |                                   |
 | Scroll                        | `rabbit_foot`, 2        |                                   |
 | Mortar                        | `rabbit_foot`, 3        |                                   |
