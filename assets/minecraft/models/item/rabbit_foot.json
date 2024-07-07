@@ -7,6 +7,8 @@
 		{ "predicate": { "custom_model_data": 4 }, "model": "item/items/wizard_mortar" },
 		{ "predicate": { "custom_model_data": 5 }, "model": "item/items/dwarven_log" },
 		{ "predicate": { "custom_model_data": 6 }, "model": "item/items/dwarven_planks" },
-		{ "predicate": { "custom_model_data": 7 }, "model": "item/items/invisible" }
+		{ "predicate": { "custom_model_data": 7 }, "model": "item/items/invisible" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "item/items/muk" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "item/items/goldenmuk" }
 	]
 }
