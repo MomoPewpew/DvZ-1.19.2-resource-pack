@@ -1864,5 +1864,8 @@
 			"ambient/cave/cave18",
 			"ambient/cave/cave19"
 		]
+	},
+	"clownhorn": {
+		"sounds": ["clownhorn"]
 	}
 }
