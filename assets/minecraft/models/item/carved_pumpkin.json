@@ -63,6 +63,13 @@
 		{ "predicate": { "custom_model_data": 60 }, "model": "item/hats/santa_hat_lq" },
 		{ "predicate": { "custom_model_data": 61 }, "model": "item/hats/christmashat" },
 		{ "predicate": { "custom_model_data": 62 }, "model": "item/hats/thane_circlet" },
+		
+		{ "predicate": { "custom_model_data": 71 }, "model": "item/hats/devil_horns" },
+		{ "predicate": { "custom_model_data": 72 }, "model": "item/hats/ram_horns" },
+		{ "predicate": { "custom_model_data": 73 }, "model": "item/hats/horns_prp1" },
+		{ "predicate": { "custom_model_data": 74 }, "model": "item/hats/ribbon_black" },
+		{ "predicate": { "custom_model_data": 75 }, "model": "item/hats/devil_horns3" },
+		{ "predicate": { "custom_model_data": 76 }, "model": "item/hats/devil_horns_ribbon" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "item/statues/zombie_walking" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "item/statues/zombie_standing" },
